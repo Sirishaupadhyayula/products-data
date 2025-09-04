@@ -1,0 +1,513 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+attachments:
+  EnvirondecIlcd: https://data.environdec.com/resource/processes/e5373415-ba67-45ca-c3a3-08dbfcbd856b?version=07.01.002
+best_practice: 1208.531675 kgCO2e
+biogenic_embodied_carbon_z: 0.2104756517984919
+box_id: '1540487572741'
+category:
+  allows_any_declared_unit: true
+  beta_only: false
+  category_statistics_warning: true
+  created_on: '2020-03-23T16:33:06Z'
+  declared_unit: 1 kg
+  default_distance: 1 km
+  default_transport_mode: none
+  description: Materials with unknown category. Assume that any data in this subcategory
+    is unreliable.
+  display_name: Unknown
+  draft: true
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: 4e60b4ce77064596b309206c99a5d85e
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  massless: false
+  masterformat: 00 00 00 No Masterformat Code
+  may_contain_trusted_vendor_declarations: false
+  name: Unknown
+  no_statistics: true
+  obsolete: false
+  openepd: OtherMaterials >> Unknown
+  openepd_name: OtherMaterials >> Unknown
+  parents: []
+  pct10_gwp: 0 kgCO2e
+  pct20_gwp: 0 kgCO2e
+  pct30_gwp: 0 kgCO2e
+  pct40_gwp: 0 kgCO2e
+  pct50_gwp: 0 kgCO2e
+  pct60_gwp: 0 kgCO2e
+  pct70_gwp: 0 kgCO2e
+  pct80_gwp: 0 kgCO2e
+  pct90_gwp: 0 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Unknown
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  updated_on: '2025-09-04T09:15:22.222584Z'
+  use_stored_carbon: OPTIONAL
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 1728.848325 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2024-05-24T16:50:32.083680Z'
+date_of_issue: '2024-03-30'
+date_validity_ends: '2023-12-08'
+declaration_type: Product EPD
+declared_unit: 1.0 m^3
+developer:
+  org:
+    address: "Valhallav\xE4gen 81, 11428 Stockholm"
+    address_line: "81 Valhallav\xE4gen"
+    alt_names:
+    - EnviroDec
+    - environdec
+    - the International EPD System
+    - IES
+    - EPD International
+    - "International EPD\xAE System"
+    - TheInternational EPD System
+    - "The International EPD\xAE System"
+    - The International EPD
+    attachments:
+      General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+    confirmable_fields: []
+    confirmed_fields: []
+    country: SE
+    cqd_sync_unlocked: true
+    created_on: '2019-04-18T13:32:25.465368Z'
+    email_extensions:
+    - environdec.com
+    enterprise: true
+    id: 9857b3f664584fadbadd5e601d9368d4
+    image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+    is_failed: false
+    latitude: 59.34655
+    legal_name: EPD International AB
+    locality: Stockholm
+    location:
+      country: Sweden
+      countryCode: SE
+      countryCodeISO3: SWE
+      freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+      municipality: Stockholm
+      municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+      postalCode: '11428'
+      streetName: "Valhallav\xE4gen"
+      streetNumber: '81'
+    longitude: 18.07285
+    name: EPD International AB
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - '150'
+    postal_code: '11428'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    updated_on: '2024-08-13T12:36:34.205186Z'
+    web_domain: environdec.com
+    website: www.environdec.com
+doc: https://data.environdec.com/resource/processes/e5373415-ba67-45ca-c3a3-08dbfcbd856b?version=07.01.002
+errors:
+  date_of_issue:
+  - Date of Issue must be earlier than `Valid Until` date
+  description:
+  - Not specified
+excluded: false
+externally_verified: true
+failures:
+  category:
+  - Cannot recognize material category
+file_name: S-P-12055Indowud%E2%80%99sNFCBoard_14e40080c6c2cbb932fa42024fc0e075f3fbbe15.pdf
+gwp: 1468.69 kgCO2e
+gwp_per_category_declared_unit: 1468.69 kgCO2e
+gwp_z: 0.2104756517984919
+id: 323d197a9f104909a9dd9bc72fd9396f
+image: https://static.buildingtransparency.org/images/848d472f5f544125aa12b0d924760c51.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+language: en
+lca_discussion: ''
+lowest_plausible_gwp: 1208.531675 kgCO2e
+manufacturer:
+  address: Egmore, TN, India
+  admin_district: TN
+  admin_district2: Chennai
+  alt_names:
+  - Saint-Gobain India Private Limited
+  confirmable_fields: []
+  confirmed_fields: []
+  country: IN
+  cqd_sync_unlocked: true
+  created_on: '2020-09-22T12:48:43.457690Z'
+  enterprise: true
+  id: 183a22a25f164301809d5f99795e255e
+  is_failed: false
+  latitude: 13.076440811157227
+  locality: Egmore
+  location:
+    adminDistrict: TN
+    adminDistrict2: Chennai
+    countryRegion: India
+    countryRegionIso2: IN
+    formattedAddress: Egmore, India
+    locality: Egmore
+  longitude: 80.26013946533203
+  name: Saint-Gobain India
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/183a22a25f164301809d5f99795e255e
+  password_login_allowed: true
+  pilot_all_employees: false
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  updated_on: '2022-09-01T16:12:39.335741Z'
+  web_domain: saint-gobain.co.in
+  website: https://www.saint-gobain.co.in/
+manufacturer_specific: true
+matched_plants_count: 0
+material_id: ce2d38f645a64feabfc0eab418b8bef3
+multiproduct: false
+my_capabilities: 1
+name: "S-P-12055 Indowud\u2019s NFC Board"
+not_an_epd: false
+open_xpd_uuid: ec34rdn3
+original_data_format: ILCD+EPDv1_0
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec34rdn3
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  alt_names:
+  - EN 15804
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2019-10-09T11:58:48.464109Z'
+  date_of_issue: '2012-01-01'
+  date_validity_ends: '2025-01-30'
+  declared_units:
+  - 1 kg
+  - 1 m
+  - 1 m2
+  - 1 m3
+  - 1 unit
+  doc: https://standards.globalspec.com/std/1666865/EN%2015804
+  errors: {}
+  failures: {}
+  id: 9704e2e4b2564afe9d4ec51ea98f96cc
+  is_failed: false
+  lcia_requirements:
+    CML 2012:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: CEN standard EN 15804
+  open_xpd_uuid: ec3e5kdx
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3e5kdx
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3e5kdxhx
+  short_name: CEN standard EN 15804
+  status: Expired
+  updated_on: '2025-01-31T00:03:01.267203Z'
+  version: '1'
+pct80_gwp_per_category_declared_unit: 1728.848325 kgCO2e
+plant_geography:
+- IN
+plant_or_group:
+  address: Chennai, Tamil Nadu, India
+  admin_district: TN
+  admin_district2: Chennai
+  carbon_intensity: 1200 kgCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: IN
+  cqd_sync_unlocked: true
+  created_on: '2024-05-24T16:50:31.631265Z'
+  id: 81c36c58ca874644b2b16e2f669116e4
+  is_failed: false
+  latitude: 13.0826802
+  locality: Chennai
+  location:
+  - long_name: Chennai
+    short_name: Chennai
+    types:
+    - locality
+    - political
+  - long_name: Chennai
+    short_name: Chennai
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Tamil Nadu
+    short_name: TN
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: India
+    short_name: IN
+    types:
+    - country
+    - political
+  longitude: 80.2707184
+  name: Indowud NFC Private Limited
+  openepd_id: 7M5237MC+37.saint-gobain.co.in
+  owned_by:
+    address: Egmore, TN, India
+    admin_district: TN
+    admin_district2: Chennai
+    alt_names:
+    - Saint-Gobain India Private Limited
+    confirmable_fields: []
+    confirmed_fields: []
+    country: IN
+    cqd_sync_unlocked: true
+    created_on: '2020-09-22T12:48:43.457690Z'
+    enterprise: true
+    id: 183a22a25f164301809d5f99795e255e
+    is_failed: false
+    latitude: 13.076440811157227
+    locality: Egmore
+    location:
+      adminDistrict: TN
+      adminDistrict2: Chennai
+      countryRegion: India
+      countryRegionIso2: IN
+      formattedAddress: Egmore, India
+      locality: Egmore
+    longitude: 80.26013946533203
+    name: Saint-Gobain India
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/183a22a25f164301809d5f99795e255e
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    updated_on: '2022-09-01T16:12:39.335741Z'
+    web_domain: saint-gobain.co.in
+    website: https://www.saint-gobain.co.in/
+  total_epds: 1
+  type: Plant
+  updated_on: '2024-05-24T16:50:31.631276Z'
+plant_specific: true
+private: false
+product_specific: true
+program_operator:
+  address: "Valhallav\xE4gen 81, 11428 Stockholm"
+  address_line: "81 Valhallav\xE4gen"
+  alt_names:
+  - EnviroDec
+  - environdec
+  - the International EPD System
+  - IES
+  - EPD International
+  - "International EPD\xAE System"
+  - TheInternational EPD System
+  - "The International EPD\xAE System"
+  - The International EPD
+  attachments:
+    General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2019-04-18T13:32:25.465368Z'
+  email_extensions:
+  - environdec.com
+  enterprise: true
+  id: 9857b3f664584fadbadd5e601d9368d4
+  image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+  is_failed: false
+  latitude: 59.34655
+  legal_name: EPD International AB
+  locality: Stockholm
+  location:
+    country: Sweden
+    countryCode: SE
+    countryCodeISO3: SWE
+    freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+    municipality: Stockholm
+    municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+    postalCode: '11428'
+    streetName: "Valhallav\xE4gen"
+    streetNumber: '81'
+  longitude: 18.07285
+  name: EPD International AB
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '11428'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  updated_on: '2024-08-13T12:36:34.205186Z'
+  web_domain: environdec.com
+  website: www.environdec.com
+program_operator_fkey: S-P-12055
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec34rdn3bk
+standard_deviation: 309.123485 kgCO2e
+stored_carbon: 1796.69 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 1728.848325 kgCO2e
+uncertainty_factor: 1.1771363085536108
+updated_on: '2024-05-24T16:50:47.910667Z'
+use_stored_carbon: false
+verifier:
+  email: prabodha.acharya@gmail.com
+  name: Prabodha Acharya
+  org:
+    address: Bandra Kurla Complex Rd, Mumbai, Maharashtra, India
+    address_line: BKC Road
+    admin_district: MH
+    admin_district2: Mumbai Suburban
+    alt_names:
+    - JSW Cement Limited
+    confirmable_fields: []
+    confirmed_fields: []
+    country: IN
+    cqd_sync_unlocked: true
+    created_on: '2020-07-21T08:53:42.136916Z'
+    enterprise: true
+    id: e831edeb8af94dc784864680beac9d2b
+    is_failed: false
+    latitude: 19.0622678
+    locality: Mumbai
+    location:
+    - long_name: Bandra Kurla Complex Road
+      short_name: BKC Road
+      types:
+      - route
+    - long_name: Mumbai
+      short_name: Mumbai
+      types:
+      - locality
+      - political
+    - long_name: Mumbai Suburban
+      short_name: Mumbai Suburban
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Maharashtra
+      short_name: MH
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: India
+      short_name: IN
+      types:
+      - country
+      - political
+    longitude: 72.8595296
+    name: JSW Steel Limited
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/e831edeb8af94dc784864680beac9d2b
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '583119'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    updated_on: '2022-05-24T09:50:58.705857Z'
+    web_domain: jsw.in
+    website: http://www.jsw.in
+warnings:
+  density:
+  - Not specified
+  developer:
+  - Missing link
+  impacts:
+  - Impact set is suspicious by comparing its magnitudes
+  - PCR's required LCIA Method not found in the document
+  - EP-FRESH unit has unexpected dimension
+  - EP-TERRESTRIAL impact not specified

@@ -1,0 +1,613 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+attachments:
+  TransparencyCatalogURL: https://transparencycatalog.com/company/welspun-flooring
+best_practice: 7.570553135 kgCO2e
+biogenic_embodied_carbon_z: 0.17521415467935234
+box_id: '730389689369'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2019-08-27T16:35:41.336470Z'
+  declared_unit: 1 m2
+  default_distance: 960.77598 km
+  default_transport_mode: truck, unspecified
+  description: Resilient floor products (including vinyl, rubber, linoleum, composition
+    cork, etc.) in modular square or rectangle shapes
+  display_name: Resilient Flooring
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: 8ab304f186094beda76ff15fb15d0081
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 5.0915 kg
+  massless: false
+  masterformat: 09 65 00 Resilient Flooring
+  may_contain_trusted_vendor_declarations: false
+  name: ResilientFlooring
+  no_statistics: false
+  obsolete: false
+  openepd: Finishes >> Flooring >> ResilientFlooring
+  openepd_name: Finishes >> Flooring >> ResilientFlooring
+  parents: []
+  pct10_gwp: 5.830276297 kgCO2e
+  pct20_gwp: 7.39223681 kgCO2e
+  pct30_gwp: 8.234196495 kgCO2e
+  pct40_gwp: 9.108322871 kgCO2e
+  pct50_gwp: 10.65782766 kgCO2e
+  pct60_gwp: 12.0030723 kgCO2e
+  pct70_gwp: 13.67691491 kgCO2e
+  pct80_gwp: 15.91545402 kgCO2e
+  pct90_gwp: 21.64449993 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Resilient Flooring
+  short_service_life_disclaimer: true
+  subcategories: []
+  template_builders: []
+  unspsc: '30161700'
+  updated_on: '2025-09-04T09:15:12.384845Z'
+  use_stored_carbon: OPTIONAL
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 10.18944687 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2020-10-15T11:02:45.903010Z'
+date_of_issue: '2020-10-14'
+date_validity_ends: '2025-10-13'
+declaration_type: Product EPD
+declared_unit: 1 m2
+description: 'S SPC stands for Stone Polymer Composite flooring. It consists of limestone
+  core with PVC and stabilizer. As a result, it''s denser due to the core being 60-70%
+  limestone with a 15-30% PVC core fused together. Often referred to as rigid core,
+  SPC is 10X more impact resistant than WPC (wood plastic composite) flooring. It''s
+  also more stable to sunlight, can be installed in sunrooms, and has better scratch
+  resistance compared to WPC. The elastic SPC core is finished with a decorative and
+  protective UV film to create a beautiful and strong flooring. Waterproof, pet-proof,
+  kid-proof, perfect for humid environments, highly fire resistant, requires no acclimation,
+  DIY installation - can be replaced at any time, without producing dust or waste,
+  no dye lots to consider on a job. Soundproof thanks to a pad on the back of the
+  SPC. The product is created in layers as follows from the bottom up: 1. EVA Foam
+  Pad for better sound absorption and excellent underfoot feeling 2. High-Density
+  Rigid Stone Core to prevent expansion and contraction of the flooring, cover sub-floor
+  imperfections 3. High Definition Decorative Paper for the realistic design and look
+  of the piece 4. Wear Resistant Transparent Layer to restore the authentic color
+  and embossing, protecting it from abrasion 5. UV Ceramic Bead Top Layer to ensure
+  superior stain-resistant and water-proof performance, saving maintenance costs.
+  2.2 PRODUCT FLOW DIAGRAM A flow diagram illustrating the production processes and
+  life cycle phases included in the scope of the EPD is provided below.'
+developer:
+  email: t.gloria@industrial-ecology.com
+  name: Thomas Gloria
+  org:
+    address: 2211 New Market Parkway Southeast, Marietta, GA 30067
+    address_line: 2211 New Market Parkway Southeast
+    admin_district: GA
+    admin_district2: Cobb
+    alt_names:
+    - ULE EPM
+    - Underwriters Labs
+    - Underwriters Laboratories
+    - UL E
+    - UL Enviornment
+    - UL Environment
+    - UL Solutions
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-19T16:12:16.017515Z'
+    email: epd@ul.com
+    email_extensions:
+    - ul.com
+    - ulenvironment.com
+    enterprise: true
+    id: 5b22feac0d67472191705631612b68fb
+    image: https://static.buildingtransparency.org/images/4c0e7d91-457c-4dc6-b750-25f8b49d0434.png
+    is_failed: false
+    latitude: 33.917988
+    legal_name: UL
+    locality: Marietta
+    location:
+      boundingBox:
+        entity: position
+        northEast: 33.918196,-84.495564
+        southWest: 33.917305,-84.497793
+      buildingNumber: '2211'
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Cobb
+      countrySubdivision: GA
+      countrySubdivisionName: Georgia
+      countryTertiarySubdivision: Marietta
+      extendedPostalCode: '300679393'
+      freeformAddress: 2211 New Market Parkway Southeast, Marietta, GA 30067
+      municipality: Marietta
+      municipalitySubdivision: Marietta
+      postalCode: '30067'
+      routeNumbers: []
+      street: New Market Parkway Southeast
+      streetName: New Market Parkway Southeast
+      streetNameAndNumber: 2211 New Market Parkway Southeast
+      streetNumber: '2211'
+    longitude: -84.49678
+    name: UL
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/5b22feac0d67472191705631612b68fb
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - US
+    - CA
+    postal_code: '30067'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: true
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    updated_on: '2025-04-26T00:06:55.791242Z'
+    web_domain: ul.com
+    website: https://www.ul.com/
+doc: https://www.scsglobalservices.com/certified-green-products-guide?pd_pid=48918
+epd_degraded: false
+excluded: false
+externally_verified: true
+file_name: SCS-EPD-06455_SPC-Tile_Welspun_101420.pdf
+gwp: 8.88 kgCO2e
+gwp_per_category_declared_unit: 8.88 kgCO2e
+gwp_per_kg: 1.111389237 kgCO2e
+gwp_z: 0.17521415467935234
+gypsum_specific_density: 7.99 kg / m^2
+id: 2250e307e1524ce3974e2aff15fb7dbb
+image: https://static.buildingtransparency.org/images/497c9505c9e1401fbe8c86bece293642.png
+impacts: {}
+industry_standards: []
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lca_discussion: "\n\n## LCA Notes\nnot predict impacts on category endpoints, the\
+  \ exceeding of thresholds, safety margins or risks.\n\n## Source Data Notes\nDisclaimers:\
+  \ This EPD conforms to ISO 14025, 14040, 14044, and ISO 21930. Scope of Results\
+  \ Reported: The PCR requirements limit the scope of the LCA metrics such that the\
+  \ results exclude environmental and social performance benchmarks and thresholds,\
+  \ and exclude impacts from the depletion of natural resources, land use ecological\
+  \ impacts, ocean impacts related to greenhouse gas emissions, risks from hazardous\
+  \ wastes and impacts linked to hazardous chemical emissions. Accuracy of Results:\
+  \ Due to PCR constraints, this EPD provides estimations of potential impacts that\
+  \ are inherently limited in terms of accuracy. Comparability: The PCR this EPD was\
+  \ based on was not written to support comparative assertions. EPDs based on different\
+  \ PCRs, or different calculation models, may not be comparable. When attempting\
+  \ to compare EPDs or life cycle impacts of products from different companies, the\
+  \ user should be aware of the uncertainty in the final results, due to and not limited\
+  \ to, the practitioner\u2019s assumptions, the source of the data used in the study,\
+  \ and the specifics of the product modeled. In accordance with ISO 21930:2017, EPDs\
+  \ are comparable only if they comply with the core PCR, use the same sub-category\
+  \ PCR where applicable, include all relevant information modules and are based on\
+  \ equivalent scenarios with respect to the context of construction works. 1. Life\
+  \ Cycle Assessment of Welspun Carpet and Flooring. SCS Global Services Report. Prepared\
+  \ for Welspun. October 2020. 2. ISO 14025:2006 Environmental labels and declarations\
+  \ - Type III environmental declarations - Principles and Procedures. 3. ISO 14040:\
+  \ 2006 Environmental Management - Life cycle assessment - Principles and Framework\
+  \ 4. ISO 14044: 2006 Environmental Management - Life cycle assessment - Requirements\
+  \ and Guidelines. 5. PCR Guidance for Building-Related Products and Services Part\
+  \ A: Life Cycle Assessment Calculation Rules and Report Requirements. Version 3.2.\
+  \ UL Environment. Sept. 2018 6. PCR Guidance for Building-Related Products and Services\
+  \ Part B: Flooring EPD Requirements. Version 2. UL Environment. May 2018. 7. SCS\
+  \ Type III Environmental Declaration Program: Program Operator Manual. V10.0 April\
+  \ 2019. SCS Global Services. 8. Tool for the Reduction and Assessment of Chemical\
+  \ and Other Environmental Impacts (TRACI). Dr. Bare, J., http://www.epa.gov/nrmrl/std/traci/traci.html\
+  \ 9. CML-IA Characterization Factors. Leiden University, Institute of Environmental\
+  \ Sciences. April 2013. http://cml.leiden.edu/software/data-cmlia.html 10. Ecoinvent\
+  \ Centre (2018) ecoinvent data from v3.5. Swiss Center for Life Cycle Inventories,\
+  \ D\xFCbendorf, 2018, http://www.ecoinvent.org 11. European Joint Research Commission.\
+  \ International Reference Life Cycle Data System handbook. General guide for Life\
+  \ Cycle Assessment - Detailed Guidance. \xA9 European Union, 2010. 12. \u201CWARM\
+  \ Model Transportation Research - Draft.\u201D Memorandum from ICF Consulting to\
+  \ United States Environmental Protection Agency. September 7, 2004. http://epa.gov/epawaste/conserve/tools/warm/SWMGHGreport.html#background.\
+  \ \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\
+  \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\
+  \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026.."
+lowest_plausible_gwp: 7.570553135 kgCO2e
+manufacturer:
+  address: Chandenvalle, Telangana, India
+  admin_district: TG
+  admin_district2: R.R. District
+  attachments:
+    TransparencyCatalogURL: https://transparencycatalog.com/company/welspun-flooring
+  confirmable_fields: []
+  confirmed_fields: []
+  country: IN
+  cqd_sync_unlocked: true
+  created_on: '2020-12-21T17:32:09.776011Z'
+  enterprise: true
+  id: ac1705f078e747b58e8c67234b48bcb9
+  is_failed: false
+  latitude: 17.2327451
+  locality: Chandenvalle
+  location:
+  - long_name: Chandenvalle
+    short_name: Chandenvalle
+    types:
+    - locality
+    - political
+  - long_name: Ranga Reddy
+    short_name: R.R. District
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Telangana
+    short_name: TG
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: India
+    short_name: IN
+    types:
+    - country
+    - political
+  longitude: 78.1714064
+  name: Welspun Flooring
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/ac1705f078e747b58e8c67234b48bcb9
+  password_login_allowed: true
+  pilot_all_employees: false
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  updated_on: '2023-05-16T13:26:41.538948Z'
+  web_domain: welspunflooring.com
+  website: www.welspunflooring.com
+manufacturer_specific: true
+mass_per_declared_unit: 7.99 kg
+matched_plants_count: 0
+material_id: 70bf69be99e74abfac11e1fce5d973c4
+multiproduct: false
+my_capabilities: 1
+name: Stone Plastic Composite (SPC) Vinyl Tile
+not_an_epd: false
+open_xpd_uuid: ec3jzxtz
+original_data_format: pdf_mixed
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3jzxtz
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  alt_names: []
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2019-10-09T11:57:05.502294Z'
+  date_of_issue: '2018-09-28'
+  date_validity_ends: '2023-09-28'
+  declared_units:
+  - 1 m2
+  doc: https://www.shopulstandards.com/ProductDetail.aspx?UniqueKey=34962
+  id: 574a7f64f1b8404aa268cef70a98e15c
+  is_failed: false
+  lcia_requirements:
+    CML 2016:
+      impacts: []
+      jurisdiction:
+      - '150'
+      order: 2
+    TRACI 2.1:
+      impacts: []
+      jurisdiction:
+      - 019
+      order: 1
+  name: 'Part B: Flooring'
+  open_xpd_uuid: ec35g1dj
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec35g1dj
+  product_classes: {}
+  requires_mass: true
+  requires_uncertainty: false
+  short_link: buildingtransparency.org/p/ec35g1djuq
+  short_name: 'Part B: Flooring'
+  status: Expired
+  updated_on: '2023-09-29T00:02:28.126081Z'
+  version: '2'
+pct80_gwp_per_category_declared_unit: 10.18944687 kgCO2e
+plant_geography:
+- IN
+plant_or_group:
+  address: Chevella Hyderabad Road, Chevella, Telangana, 501503
+  address_line: ' Chevella Hyderabad Road'
+  admin_district: Telangana
+  admin_district2: Rangareddy
+  alt_names: []
+  carbon_intensity: 1200 kgCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: IN
+  cqd_sync_unlocked: true
+  created_on: '2020-10-15T11:02:45.137518Z'
+  id: 48374fdfae114c9c981c43e46ba1e48f
+  is_failed: false
+  latitude: 17.30545
+  locality: Chevella
+  location:
+    country: India
+    countryCode: IN
+    countryCodeISO3: IND
+    countrySecondarySubdivision: Rangareddy
+    countrySubdivision: Telangana
+    freeformAddress: Chevella Hyderabad Road, Chevella, Telangana, 501503
+    localName: Chevella
+    municipality: Chevella
+    postalCode: '501503'
+    streetName: Chevella Hyderabad Road
+  longitude: 78.14629
+  name: Welspun Flooring facility
+  openepd_id: 7J9W844W+5G.welspunflooring.com
+  owned_by:
+    address: Chandenvalle, Telangana, India
+    admin_district: TG
+    admin_district2: R.R. District
+    attachments:
+      TransparencyCatalogURL: https://transparencycatalog.com/company/welspun-flooring
+    confirmable_fields: []
+    confirmed_fields: []
+    country: IN
+    cqd_sync_unlocked: true
+    created_on: '2020-12-21T17:32:09.776011Z'
+    enterprise: true
+    id: ac1705f078e747b58e8c67234b48bcb9
+    is_failed: false
+    latitude: 17.2327451
+    locality: Chandenvalle
+    location:
+    - long_name: Chandenvalle
+      short_name: Chandenvalle
+      types:
+      - locality
+      - political
+    - long_name: Ranga Reddy
+      short_name: R.R. District
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Telangana
+      short_name: TG
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: India
+      short_name: IN
+      types:
+      - country
+      - political
+    longitude: 78.1714064
+    name: Welspun Flooring
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/ac1705f078e747b58e8c67234b48bcb9
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    updated_on: '2023-05-16T13:26:41.538948Z'
+    web_domain: welspunflooring.com
+    website: www.welspunflooring.com
+  postal_code: '501503'
+  total_epds: 4
+  type: Plant
+  units: SI
+  updated_on: '2020-12-21T17:32:34.690977Z'
+plant_specific: true
+private: false
+product_specific: true
+program_operator:
+  address: Global Logistics Drive, Lansing, MI 48906
+  address_line: ' Global Logistics Drive, Airport Perimeter Road'
+  admin_district: MI
+  admin_district2: Ingham, Eaton
+  alt_names:
+  - SCS
+  - SCS Global
+  - scsGlobalServices
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2018-09-25T13:59:24.810293Z'
+  email_extensions:
+  - scsglobalservices.com
+  enterprise: true
+  id: 58769e2d26d84d8f99bd07fda78bf79b
+  image: https://static.buildingtransparency.org/images/69ed4de4-d302-4106-9113-af48107ab3d7.png
+  is_failed: false
+  latitude: 42.76946
+  legal_name: SCS Global Services
+  locality: Lansing
+  location:
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Ingham, Eaton
+    countrySubdivision: MI
+    countrySubdivisionName: Michigan
+    countryTertiarySubdivision: Lansing, Lansing City, Lansing Charter Township
+    freeformAddress: Global Logistics Drive, Lansing, MI 48906
+    municipality: Lansing
+    municipalitySubdivision: Lansing
+    postalCode: '48906'
+    streetName: Global Logistics Drive, Airport Perimeter Road
+  longitude: -84.5792
+  name: SCS Global Services
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/58769e2d26d84d8f99bd07fda78bf79b
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - US
+  postal_code: '48906'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: true
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: true
+  primary_activity_verifier: true
+  updated_on: '2024-07-24T17:01:16.978616Z'
+  web_domain: scsglobalservices.com
+  website: https://www.scsglobalservices.com/
+program_operator_fkey: SCS-EPD-06455
+reference_service_life: 75 years
+requires_ocr: false
+resilient_flooring_form_factor: Tile
+resilient_flooring_material: VCT
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3jzxtzsd
+specific_density: 7.99 kg / m^2
+standard_deviation: 1.555901694 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 10.18944687 kgCO2e
+uncertainty_factor: 1.147460232578143
+updated_on: '2024-03-14T03:08:36.398808Z'
+use_stored_carbon: false
+verifier:
+  email: t.gloria@industrial-ecology.com
+  name: Thomas Gloria
+  org:
+    address: 35 Bracebridge Road, Newton Center, MA 02459
+    address_line: 35 Bracebridge Road
+    admin_district: MA
+    admin_district2: Middlesex
+    alt_names:
+    - IEC
+    - Industrial Ecology Consultsnts
+    - Ecology Consultants
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-08T20:01:22.263919Z'
+    email: t.gloria@industrial-ecology.com
+    email_extensions:
+    - industrial-ecology.com
+    enterprise: true
+    id: e4b1aa444bc74715a09d083b8b926d95
+    image: https://static.buildingtransparency.org/images/68511d2b-bb6f-4e53-8874-7c105f297dfb.png
+    is_failed: false
+    latitude: 42.331692
+    legal_name: Industrial Ecology Consultants
+    locality: Newton Center, Newton
+    location:
+      boundingBox:
+        entity: position
+        northEast: 42.331930,-71.201386
+        southWest: 42.331325,-71.201433
+      buildingNumber: '35'
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Middlesex
+      countrySubdivision: MA
+      countrySubdivisionName: Massachusetts
+      countryTertiarySubdivision: Newton
+      extendedPostalCode: 024591728
+      freeformAddress: 35 Bracebridge Road, Newton Center, MA 02459
+      municipality: Newton Center, Newton
+      municipalitySubdivision: Newton Center, Newton
+      postalCode: 02459
+      routeNumbers: []
+      street: Bracebridge Road
+      streetName: Bracebridge Road
+      streetNameAndNumber: 35 Bracebridge Road
+      streetNumber: '35'
+    longitude: -71.201431
+    name: Industrial Ecology Consultants
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/e4b1aa444bc74715a09d083b8b926d95
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: 02459
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    updated_on: '2021-04-20T03:01:07.510551Z'
+    web_domain: industrial-ecology.com
+    website: http://industrial-ecology.com/
+warnings:
+  density:
+  - Not specified
+  developer:
+  - Developer is not employee of developer org
+  impacts:
+  - Impact set is suspicious by comparing its magnitudes
+  - Impact set is suspicious by having equal magnitudes
+  - PCR's required LCIA Method not found in the document
+  - EP-TERRESTRIAL impact not specified

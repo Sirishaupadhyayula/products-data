@@ -1,0 +1,648 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields:
+  category: true
+are_impacts_locked: false
+best_practice: 20.66484001 kgCO2e
+biogenic_embodied_carbon_z: 0.28879058156387305
+box_id: '998998522922'
+category:
+  allows_any_declared_unit: false
+  beta_only: true
+  category_statistics_warning: false
+  created_on: '2023-08-07T13:57:06Z'
+  declared_unit: 1 unit
+  description: Other plumbing fixtures.
+  display_name: Other Plumbing Fixtures
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: 035d0c8964644dfdb376daeecda44ee2
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1.39 kg
+  massless: false
+  masterformat: 22 40 00 Plumbing Fixtures
+  may_contain_trusted_vendor_declarations: false
+  name: OtherPlumbingFixtures
+  no_statistics: false
+  obsolete: false
+  openepd: Plumbing >> PlumbingFixtures >> OtherPlumbingFixtures
+  openepd_name: Plumbing >> PlumbingFixtures >> OtherPlumbingFixtures
+  parents: []
+  pct10_gwp: 4.432902269 kgCO2e
+  pct20_gwp: 4.983389544 kgCO2e
+  pct30_gwp: 5.853132058 kgCO2e
+  pct40_gwp: 6.668157074 kgCO2e
+  pct50_gwp: 13.30995579 kgCO2e
+  pct60_gwp: 16.33705534 kgCO2e
+  pct70_gwp: 19.86242074 kgCO2e
+  pct80_gwp: 22.55770609 kgCO2e
+  pct90_gwp: 38.5507493 kgCO2e
+  requires_mass_per_declared_unit: true
+  short_name: Other
+  short_service_life_disclaimer: false
+  subcategories: []
+  unspsc: '30180000'
+  updated_on: '2025-09-04T09:15:07.557119Z'
+  use_stored_carbon: OPTIONAL
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 33.93515999 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2022-08-20T11:37:11.701299Z'
+date_of_issue: '2021-03-10'
+date_validity_ends: '2026-03-09'
+declaration_type: Product EPD
+declared_unit: 1 item
+description: "TruFlush Sensor Activation Flushometer is a piston based sensor activated\
+  \ flushing system, which dispenses precise 6 liter or 4.8 liter per flush and also\
+  \ performs well in reclaimed water. Specifically designed and engineered to fit\
+  \ the needs of the global commercial restrooms with the quality and reliability\
+  \ of Sloan. It is truly complimenting the \u2018Green Built Environment' with regards\
+  \ to water efficiency. It provides hands-free activation for improved hygiene and\
+  \ operated by battery with hardwire option. It performs equally from 0.7 bar to\
+  \ 7 bar i.e.,10 psi to 100 psi. Made of heavy duty brass and front plate metal with\
+  \ nickel coating. Compared to the commonly used metering valve that simply open\
+  \ and closes wasting water, the TruFlush Flushometer actually controls the amount\
+  \ of water used. Sloan flushometer products belong to the\nCommercial Flushometer\
+  \ Valves product group (CSI 1 code 22 42 43)."
+developer:
+  email: gmansell@scsglobalservices.com
+  name: Gerard Mansell
+  org:
+    address: Global Logistics Drive, Lansing, MI 48906
+    address_line: ' Global Logistics Drive, Airport Perimeter Road'
+    admin_district: MI
+    admin_district2: Ingham, Eaton
+    alt_names:
+    - SCS
+    - SCS Global
+    - scsGlobalServices
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-25T13:59:24.810293Z'
+    email_extensions:
+    - scsglobalservices.com
+    enterprise: true
+    id: 58769e2d26d84d8f99bd07fda78bf79b
+    image: https://static.buildingtransparency.org/images/69ed4de4-d302-4106-9113-af48107ab3d7.png
+    is_failed: false
+    latitude: 42.76946
+    legal_name: SCS Global Services
+    locality: Lansing
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Ingham, Eaton
+      countrySubdivision: MI
+      countrySubdivisionName: Michigan
+      countryTertiarySubdivision: Lansing, Lansing City, Lansing Charter Township
+      freeformAddress: Global Logistics Drive, Lansing, MI 48906
+      municipality: Lansing
+      municipalitySubdivision: Lansing
+      postalCode: '48906'
+      streetName: Global Logistics Drive, Airport Perimeter Road
+    longitude: -84.5792
+    name: SCS Global Services
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/58769e2d26d84d8f99bd07fda78bf79b
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - US
+    postal_code: '48906'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: true
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    updated_on: '2024-07-24T17:01:16.978616Z'
+    web_domain: scsglobalservices.com
+    website: https://www.scsglobalservices.com/
+doc: buildingtransparency.org/e/ec3a5euez5
+errors: {}
+excluded: false
+externally_verified: true
+failures:
+  impacts:
+  - Units of one of the EPD's impact are different
+file_name: TruFlush%2CManualActivation_5fe13f8cce98726f0be583f308928e2242dd26f0.pdf
+gwp: 27.3 kgCO2e
+gwp_per_category_declared_unit: 27.3 kgCO2e
+gwp_per_kg: 12.77777778 kgCO2e
+gwp_z: 0.28879058156387305
+id: 24ab628b11464f67b4c30e913b9e0625
+image: https://static.buildingtransparency.org/images/f8add36e78914ffd870ddb7302deb64e.png
+impacts: {}
+includes: []
+industry_standards: []
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+language: en
+lca_discussion: "## Source Data Notes\nScope of Results Reported: The PCR requirements\
+  \ limit the scope of the LCA metrics such that the results exclude environmental\
+  \ and social performance benchmarks and thresholds, and exclude impacts from the\
+  \ depletion of natural resources, land use ecological impacts, ocean impacts related\
+  \ to greenhouse gas emissions, risks from hazardous wastes and impacts linked to\
+  \ hazardous chemical emissions. Accuracy of Results: Due to PCR constraints, this\
+  \ EPD provides estimations of potential impacts that are inherently limited in terms\
+  \ of accuracy. Comparability: The PCR this EPD was based on was not written to support\
+  \ comparative assertions. EPDs based on different PCRs, or different calculation\
+  \ models, may not be comparable. When attempting to compare EPDs or life cycle impacts\
+  \ of products from different companies, the user should be aware of the uncertainty\
+  \ in the final results, due to and not limited to, the practitioner\u2019s assumptions,\
+  \ the source of the data used in the study, and the specifics of the product modeled.\
+  \ In accordance with ISO 21930:2017, EPDs are comparable only if they comply with\
+  \ the core PCR, use the same sub-category PCR where applicable, include all relevant\
+  \ information modules and are based on equivalent scenarios with respect to the\
+  \ context of construction works."
+lowest_plausible_gwp: 20.66484001 kgCO2e
+manufacturer:
+  address: 10500 Seymour Ave, Franklin Park, IL 60131, USA
+  address_line: 10500 Seymour Ave
+  admin_district: IL
+  admin_district2: Cook County
+  alt_names: []
+  attachments:
+    Contact_Us: https://www.sloan.com/sustainability-and-wellness/products/transparency-reports
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2019-09-12T11:26:37.706202Z'
+  currency: USD
+  email_extensions:
+  - '@sloan.com'
+  enterprise: true
+  horizontal_logo: https://static.buildingtransparency.org/images/672704ed43564d73898b2b6dd267593a.png
+  id: 7b469f5b9ceb4090b04139ec93017789
+  image: https://static.buildingtransparency.org/images/4b5346f2bc58407daa4f77481cda0816.png
+  is_failed: false
+  latitude: 41.95206839999999
+  legal_name: Sloan Global Holdings, LLC
+  locality: Franklin Park
+  location:
+  - long_name: '10500'
+    short_name: '10500'
+    types:
+    - street_number
+  - long_name: Seymour Avenue
+    short_name: Seymour Ave
+    types:
+    - route
+  - long_name: Franklin Park
+    short_name: Franklin Park
+    types:
+    - locality
+    - political
+  - long_name: Leyden Township
+    short_name: Leyden Township
+    types:
+    - administrative_area_level_3
+    - political
+  - long_name: Cook County
+    short_name: Cook County
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Illinois
+    short_name: IL
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: United States
+    short_name: US
+    types:
+    - country
+    - political
+  - long_name: '60131'
+    short_name: '60131'
+    types:
+    - postal_code
+  - long_name: '1212'
+    short_name: '1212'
+    types:
+    - postal_code_suffix
+  longitude: -87.8890316
+  name: Sloan Valve Company
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/7b469f5b9ceb4090b04139ec93017789
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '60131'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  updated_on: '2023-12-13T18:12:46.702597Z'
+  web_domain: sloan.com
+  website: https://www.sloan.com/
+manufacturer_specific: true
+mass_per_declared_unit: 2.16 kg
+matched_plants_count: 0
+material_id: 45f9ae7074a8453886f3e41dbee1227c
+multiproduct: true
+my_capabilities: 1
+name: TruFlush Sensor-activated Flushometer (TRF 8156; TRF 8196)
+not_an_epd: false
+open_xpd_uuid: ec3a5eue
+original_data_format: pdf_mixed
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3a5eue
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2021-04-21T15:19:09.070973Z'
+  date_of_issue: '2020-10-08'
+  date_validity_ends: '2025-10-08'
+  declared_units:
+  - 1 pc
+  doc: https://www.shopulstandards.com/ProductDetail.aspx?productId=ULE10010-28_1_S_20201008&ShowFreeviewModal=1
+  id: 49cafcf0a3f04b8484ee0e6ba8a71e65
+  is_failed: false
+  lcia_requirements:
+    TRACI 2.1:
+      impacts: []
+      order: 1
+  name: 'Part B: Kitchen and Bath Fixture Fittings and Accessory Products'
+  open_xpd_uuid: ec3he9c0
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3he9c0
+  short_link: buildingtransparency.org/p/ec3he9c0rs
+  short_name: 'Part B: Kitchen and Bath Fixture Fittings and Accessory Products'
+  updated_on: '2022-06-24T09:30:14.836091Z'
+  version: '1'
+pcr_notes: "NOTES FOR EDITOR:\nThis is multi-product EPD. It should be manually cloned\
+  \ for each product it covers.\nProducts covered (auto-detected):\n * TruFlush, Sensor\
+  \ Activation\n * TruFlush, Manual Activation"
+pct80_gwp_per_category_declared_unit: 33.93515999 kgCO2e
+plant_geography:
+- IN
+plant_or_group:
+  address: Phase II, Udyog Vihar, Sector 20, Gurugram, Haryana 122022, India
+  admin_district: HR
+  admin_district2: Gurgaon Division
+  carbon_intensity: 1200 kgCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: IN
+  cqd_sync_unlocked: true
+  created_on: '2024-01-06T18:10:05.487383Z'
+  id: 92498b1766d94447b8b3f1ab54f53be2
+  is_failed: false
+  latitude: 28.5056634
+  locality: Gurugram
+  location:
+  - long_name: Phase II
+    short_name: Phase II
+    types:
+    - political
+    - sublocality
+    - sublocality_level_3
+  - long_name: Udyog Vihar
+    short_name: Udyog Vihar
+    types:
+    - political
+    - sublocality
+    - sublocality_level_2
+  - long_name: Sector 20
+    short_name: Sector 20
+    types:
+    - political
+    - sublocality
+    - sublocality_level_1
+  - long_name: Gurugram
+    short_name: Gurugram
+    types:
+    - locality
+    - political
+  - long_name: Gurugram
+    short_name: Gurugram
+    types:
+    - administrative_area_level_3
+    - political
+  - long_name: Gurgaon Division
+    short_name: Gurgaon Division
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Haryana
+    short_name: HR
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: India
+    short_name: IN
+    types:
+    - country
+    - political
+  - long_name: '122022'
+    short_name: '122022'
+    types:
+    - postal_code
+  longitude: 77.0888228
+  name: India
+  openepd_id: 7JWVG34Q+7G.sloan.com
+  owned_by:
+    address: 10500 Seymour Ave, Franklin Park, IL 60131, USA
+    address_line: 10500 Seymour Ave
+    admin_district: IL
+    admin_district2: Cook County
+    alt_names: []
+    attachments:
+      Contact_Us: https://www.sloan.com/sustainability-and-wellness/products/transparency-reports
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2019-09-12T11:26:37.706202Z'
+    currency: USD
+    email_extensions:
+    - '@sloan.com'
+    enterprise: true
+    horizontal_logo: https://static.buildingtransparency.org/images/672704ed43564d73898b2b6dd267593a.png
+    id: 7b469f5b9ceb4090b04139ec93017789
+    image: https://static.buildingtransparency.org/images/4b5346f2bc58407daa4f77481cda0816.png
+    is_failed: false
+    latitude: 41.95206839999999
+    legal_name: Sloan Global Holdings, LLC
+    locality: Franklin Park
+    location:
+    - long_name: '10500'
+      short_name: '10500'
+      types:
+      - street_number
+    - long_name: Seymour Avenue
+      short_name: Seymour Ave
+      types:
+      - route
+    - long_name: Franklin Park
+      short_name: Franklin Park
+      types:
+      - locality
+      - political
+    - long_name: Leyden Township
+      short_name: Leyden Township
+      types:
+      - administrative_area_level_3
+      - political
+    - long_name: Cook County
+      short_name: Cook County
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Illinois
+      short_name: IL
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: United States
+      short_name: US
+      types:
+      - country
+      - political
+    - long_name: '60131'
+      short_name: '60131'
+      types:
+      - postal_code
+    - long_name: '1212'
+      short_name: '1212'
+      types:
+      - postal_code_suffix
+    longitude: -87.8890316
+    name: Sloan Valve Company
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/7b469f5b9ceb4090b04139ec93017789
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '60131'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    updated_on: '2023-12-13T18:12:46.702597Z'
+    web_domain: sloan.com
+    website: https://www.sloan.com/
+  postal_code: '122022'
+  total_epds: 2
+  type: Plant
+  units: SI
+  updated_on: '2024-01-06T18:10:05.487388Z'
+plant_specific: false
+private: false
+product_classes: {}
+product_specific: true
+program_operator:
+  address: Global Logistics Drive, Lansing, MI 48906
+  address_line: ' Global Logistics Drive, Airport Perimeter Road'
+  admin_district: MI
+  admin_district2: Ingham, Eaton
+  alt_names:
+  - SCS
+  - SCS Global
+  - scsGlobalServices
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2018-09-25T13:59:24.810293Z'
+  email_extensions:
+  - scsglobalservices.com
+  enterprise: true
+  id: 58769e2d26d84d8f99bd07fda78bf79b
+  image: https://static.buildingtransparency.org/images/69ed4de4-d302-4106-9113-af48107ab3d7.png
+  is_failed: false
+  latitude: 42.76946
+  legal_name: SCS Global Services
+  locality: Lansing
+  location:
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Ingham, Eaton
+    countrySubdivision: MI
+    countrySubdivisionName: Michigan
+    countryTertiarySubdivision: Lansing, Lansing City, Lansing Charter Township
+    freeformAddress: Global Logistics Drive, Lansing, MI 48906
+    municipality: Lansing
+    municipalitySubdivision: Lansing
+    postalCode: '48906'
+    streetName: Global Logistics Drive, Airport Perimeter Road
+  longitude: -84.5792
+  name: SCS Global Services
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/58769e2d26d84d8f99bd07fda78bf79b
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - US
+  postal_code: '48906'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: true
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: true
+  primary_activity_verifier: true
+  updated_on: '2024-07-24T17:01:16.978616Z'
+  web_domain: scsglobalservices.com
+  website: https://www.scsglobalservices.com/
+program_operator_fkey: SCS-EPD-06756
+reference_service_life: 10 years
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3a5euez5
+standard_deviation: 7.883982877 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 33.93515999 kgCO2e
+uncertainty_factor: 1.2430461534441555
+updated_on: '2025-01-14T20:38:18.220546Z'
+use_stored_carbon: false
+verifier:
+  email: tgloria@industrial-ecology.com
+  name: Thomas P. Gloria
+  org:
+    address: 35 Bracebridge Road, Newton Center, MA 02459
+    address_line: 35 Bracebridge Road
+    admin_district: MA
+    admin_district2: Middlesex
+    alt_names:
+    - IEC
+    - Industrial Ecology Consultsnts
+    - Ecology Consultants
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-08T20:01:22.263919Z'
+    email: t.gloria@industrial-ecology.com
+    email_extensions:
+    - industrial-ecology.com
+    enterprise: true
+    id: e4b1aa444bc74715a09d083b8b926d95
+    image: https://static.buildingtransparency.org/images/68511d2b-bb6f-4e53-8874-7c105f297dfb.png
+    is_failed: false
+    latitude: 42.331692
+    legal_name: Industrial Ecology Consultants
+    locality: Newton Center, Newton
+    location:
+      boundingBox:
+        entity: position
+        northEast: 42.331930,-71.201386
+        southWest: 42.331325,-71.201433
+      buildingNumber: '35'
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Middlesex
+      countrySubdivision: MA
+      countrySubdivisionName: Massachusetts
+      countryTertiarySubdivision: Newton
+      extendedPostalCode: 024591728
+      freeformAddress: 35 Bracebridge Road, Newton Center, MA 02459
+      municipality: Newton Center, Newton
+      municipalitySubdivision: Newton Center, Newton
+      postalCode: 02459
+      routeNumbers: []
+      street: Bracebridge Road
+      streetName: Bracebridge Road
+      streetNameAndNumber: 35 Bracebridge Road
+      streetNumber: '35'
+    longitude: -71.201431
+    name: Industrial Ecology Consultants
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/e4b1aa444bc74715a09d083b8b926d95
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: 02459
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    updated_on: '2021-04-20T03:01:07.510551Z'
+    web_domain: industrial-ecology.com
+    website: http://industrial-ecology.com/
+warnings:
+  density:
+  - Not specified
+  impacts:
+  - Impact set is suspicious by having equal magnitudes
+  - EP-FRESH with the PCR's required LCIA Method not found in the document
+  - EP-TERRESTRIAL impact not specified
+  - B1_years are empty
+  - B2_years are empty
+  - B3_years are empty

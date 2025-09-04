@@ -1,0 +1,487 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 1148.581867 kgCO2e
+biogenic_embodied_carbon_z: 0.2903446228191595
+box_id: '1426229802459'
+category:
+  allows_any_declared_unit: true
+  beta_only: false
+  category_statistics_warning: true
+  created_on: '2020-03-23T16:33:06Z'
+  declared_unit: 1 kg
+  default_distance: 1 km
+  default_transport_mode: none
+  description: Materials with unknown category. Assume that any data in this subcategory
+    is unreliable.
+  display_name: Unknown
+  draft: true
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: 4e60b4ce77064596b309206c99a5d85e
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  massless: false
+  masterformat: 00 00 00 No Masterformat Code
+  may_contain_trusted_vendor_declarations: false
+  name: Unknown
+  no_statistics: true
+  obsolete: false
+  openepd: OtherMaterials >> Unknown
+  openepd_name: OtherMaterials >> Unknown
+  parents: []
+  pct10_gwp: 0 kgCO2e
+  pct20_gwp: 0 kgCO2e
+  pct30_gwp: 0 kgCO2e
+  pct40_gwp: 0 kgCO2e
+  pct50_gwp: 0 kgCO2e
+  pct60_gwp: 0 kgCO2e
+  pct70_gwp: 0 kgCO2e
+  pct80_gwp: 0 kgCO2e
+  pct90_gwp: 0 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Unknown
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  updated_on: '2025-09-04T09:15:22.222584Z'
+  use_stored_carbon: OPTIONAL
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 1891.418133 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2024-01-26T15:02:34.390540Z'
+date_of_issue: '2023-12-15'
+date_validity_ends: '2028-12-14'
+declaration_type: Product EPD
+declared_unit: 1.0 item
+description: "Steelage is one of India\u2019s oldest and the most trusted brand for\
+  \ Physical security solutions since 1932. Steelage range of offerings stands as\
+  \ much for its quality as it does for its innovation in design and aesthetics. High\
+  \ security certified safes for protection of cash and valuables certified as per\
+  \ BIS Class C.\nThis premium range of security safes, best in the class offering,\
+  \ comes with acclaimed industry strength and quality standards and is certified\
+  \ according to IS 550 from the Bureaus of Indian standards."
+developer:
+  org:
+    address: "Valhallav\xE4gen 81, 11428 Stockholm"
+    address_line: "81 Valhallav\xE4gen"
+    alt_names:
+    - EnviroDec
+    - environdec
+    - the International EPD System
+    - IES
+    - EPD International
+    - "International EPD\xAE System"
+    - TheInternational EPD System
+    - "The International EPD\xAE System"
+    - The International EPD
+    attachments:
+      General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+    confirmable_fields: []
+    confirmed_fields: []
+    country: SE
+    cqd_sync_unlocked: true
+    created_on: '2019-04-18T13:32:25.465368Z'
+    email_extensions:
+    - environdec.com
+    enterprise: true
+    id: 9857b3f664584fadbadd5e601d9368d4
+    image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+    is_failed: false
+    latitude: 59.34655
+    legal_name: EPD International AB
+    locality: Stockholm
+    location:
+      country: Sweden
+      countryCode: SE
+      countryCodeISO3: SWE
+      freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+      municipality: Stockholm
+      municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+      postalCode: '11428'
+      streetName: "Valhallav\xE4gen"
+      streetNumber: '81'
+    longitude: 18.07285
+    name: EPD International AB
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - '150'
+    postal_code: '11428'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    updated_on: '2024-08-13T12:36:34.205186Z'
+    web_domain: environdec.com
+    website: www.environdec.com
+doc: https://data.environdec.com/resource/processes/7bd0a981-c572-4d90-c2f0-08dbfcbd856b?version=07.01.002
+document_version: '2023-12-15'
+epd_degraded: false
+errors:
+  stored_carbon:
+  - Expected a value greater than 0
+excluded: false
+externally_verified: true
+failures:
+  category:
+  - Cannot recognize material category
+file_name: S-P-11894%20STEELAGE%20MAGNA%20CLASS%20C%20SAFE_9325b05b16b67be977c542d792e4d39562162109.pdf
+gwp: 1520 kgCO2e
+gwp_per_category_declared_unit: 1520 kgCO2e
+gwp_per_kg: 1.475728155 kgCO2e
+gwp_z: 0.2903446228191595
+id: 3593c22c5d414526889a241a23870695
+image: https://static.buildingtransparency.org/images/ca1d6fc4dcad4a96bb314bf920a1a116.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+language: en
+lca_discussion: ''
+lowest_plausible_gwp: 1148.581867 kgCO2e
+manufacturer:
+  address: India
+  confirmable_fields: []
+  confirmed_fields: []
+  country: IN
+  cqd_sync_unlocked: true
+  created_on: '2024-01-26T15:02:33.586790Z'
+  enterprise: false
+  id: d4f467f327fa428ca68c7f9236759b40
+  is_failed: false
+  latitude: 22.351993560791016
+  location:
+    countryRegion: India
+    countryRegionIso2: IN
+    formattedAddress: India
+  longitude: 79.36287689208984
+  name: GUNNEBO INDIA PVT LTD
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/d4f467f327fa428ca68c7f9236759b40
+  password_login_allowed: true
+  pilot_all_employees: false
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  updated_on: '2024-01-26T15:02:33.586795Z'
+  web_domain: steelage.in
+  website: www.steelage.in
+manufacturer_specific: true
+mass_per_declared_unit: 1030 kg
+matched_plants_count: 0
+material_id: 0b5d99dbcc5d47b19b29e768e5f3450d
+multiproduct: false
+my_capabilities: 1
+name: S-P-11894 STEELAGE MAGNA CLASS C SAFE
+not_an_epd: false
+open_xpd_uuid: ec3nud1g
+original_data_format: pdf_mixed
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3nud1g
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-04-02T18:26:34.309086Z'
+  date_of_issue: '2024-03-01'
+  date_validity_ends: '2024-12-20'
+  doc: https://api.environdec.com/api/v1/EPDLibrary/Files/cfb8786b-c166-4d25-02ed-08dc38ee8ac8/Data
+  errors:
+    declared_units:
+    - Not specified
+  failures:
+    declared_units:
+    - Not specified
+  id: 79f87426c5154d8f878af1a15562e9d3
+  is_failed: false
+  name: PCR 2019:14 Construction products (EN 15804+A2) (1.3.3)
+  open_xpd_uuid: ec3pks1a
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3pks1a
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3pks1akr
+  short_name: Construction products (EN 15804+A2)
+  status: Expired
+  updated_on: '2024-12-21T04:05:11.344807Z'
+  version: 1.3.3
+pct80_gwp_per_category_declared_unit: 1891.418133 kgCO2e
+plant_geography:
+- IN
+plant_or_group:
+  address: G.I.D.C. Industrial Estate, Godhra, Gujarat, India
+  admin_district: GJ
+  carbon_intensity: 1200 kgCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: IN
+  cqd_sync_unlocked: true
+  created_on: '2024-03-22T00:16:55.129088Z'
+  id: e90bbc71a4b7427eb0b42674686d7505
+  is_failed: false
+  latitude: 22.7938374
+  locality: Godhra
+  location:
+  - long_name: G.I.D.C. Industrial Estate
+    short_name: G.I.D.C. Industrial Estate
+    types:
+    - political
+    - sublocality
+    - sublocality_level_1
+  - long_name: Godhra
+    short_name: Godhra
+    types:
+    - locality
+    - political
+  - long_name: Panchmahal
+    short_name: Panchmahal
+    types:
+    - administrative_area_level_3
+    - political
+  - long_name: Gujarat
+    short_name: GJ
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: India
+    short_name: IN
+    types:
+    - country
+    - political
+  longitude: 73.6138821
+  name: GUNNEBO INDIA PVT LTD
+  openepd_id: 7JJMQJV7+GH.steelage.in
+  owned_by:
+    address: India
+    confirmable_fields: []
+    confirmed_fields: []
+    country: IN
+    cqd_sync_unlocked: true
+    created_on: '2024-01-26T15:02:33.586790Z'
+    enterprise: false
+    id: d4f467f327fa428ca68c7f9236759b40
+    is_failed: false
+    latitude: 22.351993560791016
+    location:
+      countryRegion: India
+      countryRegionIso2: IN
+      formattedAddress: India
+    longitude: 79.36287689208984
+    name: GUNNEBO INDIA PVT LTD
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/d4f467f327fa428ca68c7f9236759b40
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    updated_on: '2024-01-26T15:02:33.586795Z'
+    web_domain: steelage.in
+    website: www.steelage.in
+  total_epds: 1
+  type: Plant
+  updated_on: '2024-03-22T00:16:55.129098Z'
+plant_specific: false
+private: false
+product_specific: true
+program_operator:
+  address: "Valhallav\xE4gen 81, 11428 Stockholm"
+  address_line: "81 Valhallav\xE4gen"
+  alt_names:
+  - EnviroDec
+  - environdec
+  - the International EPD System
+  - IES
+  - EPD International
+  - "International EPD\xAE System"
+  - TheInternational EPD System
+  - "The International EPD\xAE System"
+  - The International EPD
+  attachments:
+    General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2019-04-18T13:32:25.465368Z'
+  email_extensions:
+  - environdec.com
+  enterprise: true
+  id: 9857b3f664584fadbadd5e601d9368d4
+  image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+  is_failed: false
+  latitude: 59.34655
+  legal_name: EPD International AB
+  locality: Stockholm
+  location:
+    country: Sweden
+    countryCode: SE
+    countryCodeISO3: SWE
+    freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+    municipality: Stockholm
+    municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+    postalCode: '11428'
+    streetName: "Valhallav\xE4gen"
+    streetNumber: '81'
+  longitude: 18.07285
+  name: EPD International AB
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '11428'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  updated_on: '2024-08-13T12:36:34.205186Z'
+  web_domain: environdec.com
+  website: www.environdec.com
+program_operator_fkey: S-P-11894
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3nud1guh
+standard_deviation: 441.3238267 kgCO2e
+stored_carbon: -100 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 1891.418133 kgCO2e
+uncertainty_factor: 1.2443540345646047
+updated_on: '2024-04-10T17:58:46.050408Z'
+use_stored_carbon: false
+verifier:
+  email: eli.amat@tecnaliacertificacion.com
+  name: Elisabet Amat
+  org:
+    address: "Pol\xEDgono Anardi Industrialdea 5, 20730 Azpeitia"
+    address_line: "5 Pol\xEDgono Anardi Industrialdea"
+    admin_district: "Pa\xEDs Vasco"
+    admin_district2: "Guip\xFAzcoa"
+    alt_names:
+    - Tecnalia R&I Certificacion
+    confirmable_fields: []
+    confirmed_fields: []
+    country: ES
+    cqd_sync_unlocked: true
+    created_on: '2020-10-20T11:31:12.657950Z'
+    email_extensions:
+    - tecnaliacertificacion.eu
+    - tecnaliacertificacion.com
+    enterprise: true
+    id: c1ec6d6aa8a04d4c9db7434bdf349a3b
+    is_failed: false
+    latitude: 43.20953
+    locality: Azpeitia
+    location:
+      country: "Espa\xF1a"
+      countryCode: ES
+      countryCodeISO3: ESP
+      countrySecondarySubdivision: "Guip\xFAzcoa"
+      countrySubdivision: "Pa\xEDs Vasco"
+      freeformAddress: "Pol\xEDgono Anardi Industrialdea 5, 20730 Azpeitia"
+      localName: Azpeitia
+      municipality: Azpeitia
+      postalCode: '20730'
+      streetName: "Pol\xEDgono Anardi Industrialdea"
+      streetNumber: '5'
+    longitude: -2.25228
+    name: "Tecnalia R&I Certificaci\xF3n, S.L."
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/c1ec6d6aa8a04d4c9db7434bdf349a3b
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '20730'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    updated_on: '2021-12-31T16:00:03.546212Z'
+    web_domain: tecnaliacertificacion.com
+    website: http://www.tecnaliacertificacion.com/
+warnings:
+  density:
+  - Not specified
+  developer:
+  - Missing link
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - ODP unit has unexpected dimension
+  - EP-FRESH impact not specified
+  - EP-TERRESTRIAL impact not specified

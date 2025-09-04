@@ -1,0 +1,563 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 279.7736551 kgCO2e
+biogenic_embodied_carbon_z: 0.2104756517984919
+box_id: '865726190034'
+category:
+  allows_any_declared_unit: false
+  beta_only: true
+  category_statistics_warning: false
+  created_on: '2023-01-30T14:33:26Z'
+  declared_unit: 1 unit
+  description: Tables
+  display_name: Tables
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: 991e076afa2647f4aecca634d7f1de7d
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 39.402 kg
+  massless: false
+  masterformat: 12 64 16 Tables
+  may_contain_trusted_vendor_declarations: false
+  name: Tables
+  no_statistics: false
+  obsolete: false
+  openepd: Furnishings >> Tables
+  openepd_name: Furnishings >> Tables
+  parents: []
+  pct10_gwp: 27.85775202 kgCO2e
+  pct20_gwp: 47.15837988 kgCO2e
+  pct30_gwp: 61.01015762 kgCO2e
+  pct40_gwp: 83.5930228 kgCO2e
+  pct50_gwp: 118.8593111 kgCO2e
+  pct60_gwp: 156.065987 kgCO2e
+  pct70_gwp: 245.0061857 kgCO2e
+  pct80_gwp: 450.203003 kgCO2e
+  pct90_gwp: 584.4803013 kgCO2e
+  requires_mass_per_declared_unit: true
+  short_name: Tables
+  short_service_life_disclaimer: false
+  subcategories: []
+  unspsc: '56101519'
+  updated_on: '2025-09-04T09:15:08.355226Z'
+  use_stored_carbon: OPTIONAL
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 400.2263449 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2021-09-28T15:53:58.015355Z'
+date_of_issue: '2021-03-23'
+date_validity_ends: '2026-03-22'
+declaration_type: Product EPD
+declared_unit: 1 piece
+description: Experience    the    sleek    desking system range by Talin, characterised     by     contemporary
+  design,   robust   quality, versatility, and  value.  Enabling  collaborative workspaces  and  optimising  space,
+  the   modular   design   of   Entropy facilitates  dynamic  changes  based on   user   needs.
+  Entropy   is   the workstation of choice for all leading organisations   across   the   country
+  with   its   features   and   ergonomic design.From open plan and monolithic applications
+  to the creation of colourful and energetic workspaces, the Entropy desking system
+  can be configured to meet your changing needs, simply and easily.It has Pre-fabricated
+  panels that enable quick installation at the site;frames are finished with aluminium
+  extruded trims 2mm thick. All metal parts are pre-treated using 7 tank treatment
+  and powder coated. Thus making this workstation a completely reconfigurable oneEntropy  workstation  has  8  choices  of  partitioning  system  out  of  which  first  6  models  have  4  pax
+  configuration, seventh model has 3 pax (non-sharing), and the eighth one has 6 pax
+  configuration.The 6configurations (4 pax)choices are Tabulated below in Table 1while
+  the rest 2 configuration choices are tabulated in Table 2.
+developer:
+  email: rsingh@sphera.com
+  name: Rajesh Kumar Singh
+  org:
+    address: 130 East Randolph Street, Chicago, IL 60601
+    address_line: 130 East Randolph Street
+    admin_district: IL
+    admin_district2: Cook
+    alt_names:
+    - PE International
+    - thinkstep, Inc.
+    - thinkstep AG
+    - thinkstep
+    - PE INTERNATIONAL AG
+    - Thinkstep AG
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-28T21:38:04.012143Z'
+    email: info@thinkstep.com
+    email_extensions:
+    - thinkstep.com
+    - pe-international.com
+    - sphera.com
+    enterprise: true
+    id: 72d41d92d6d741f68ce626557efcc1c0
+    image: https://static.buildingtransparency.org/images/a82275ae-15d5-4a2f-a24f-5a33d97cdcf2
+    is_failed: false
+    latitude: 41.88507
+    legal_name: Sphera
+    locality: Chicago
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Cook
+      countrySubdivision: IL
+      countrySubdivisionName: Illinois
+      countryTertiarySubdivision: Chicago
+      extendedPostalCode: '606016208'
+      freeformAddress: 130 East Randolph Street, Chicago, IL 60601
+      localName: Chicago
+      municipality: Chicago
+      municipalitySubdivision: Downtown Chicago
+      postalCode: '60601'
+      streetName: East Randolph Street
+      streetNumber: '130'
+    longitude: -87.62311
+    name: Sphera
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/72d41d92d6d741f68ce626557efcc1c0
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '60601'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: true
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    updated_on: '2022-02-02T15:47:47.511452Z'
+    web_domain: sphera.com
+    website: sphera.com
+doc: buildingtransparency.org/e/ec3nsdxzp0
+epd_degraded: true
+excluded: false
+externally_verified: true
+file_name: TalinModularOfficeFurnitureSystemsPvt.Ltd._S-P-02109_a3820b81-02bb-4f90-b3a2-7cea8a68b9e9.pdf
+gwp: 340 kgCO2e
+gwp_per_category_declared_unit: 340 kgCO2e
+gwp_per_kg: 2.45398773 kgCO2e
+gwp_z: 0.2104756517984919
+id: 4dfc58dd23e749148625352107645ab5
+image: https://static.buildingtransparency.org/images/d39382d7bdc749e9bb83208f8f0c851d.png
+impacts: {}
+includes: []
+industry_standards: []
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lowest_plausible_gwp: 279.7736551 kgCO2e
+manufacturer:
+  address: Sy. No. 189 & 190, Kacharakanahalli, 15th cross, 3rd Block, 1st Stage H.B.R
+    Layout, HRBR Layout, Post, Bengaluru, Karnataka 560043, India
+  admin_district: KA
+  admin_district2: Bangalore Urban
+  confirmable_fields: []
+  confirmed_fields: []
+  country: IN
+  cqd_sync_unlocked: true
+  created_on: '2022-07-21T20:07:41.963091Z'
+  enterprise: false
+  id: bb1b9676dbe64a5d8ba724f7060f7f00
+  is_failed: false
+  latitude: 13.0273648
+  locality: Bengaluru
+  location:
+  - long_name: HRBR Layout
+    short_name: HRBR Layout
+    types:
+    - political
+    - sublocality
+    - sublocality_level_2
+  - long_name: Post
+    short_name: Post
+    types:
+    - political
+    - sublocality
+    - sublocality_level_1
+  - long_name: Bengaluru
+    short_name: Bengaluru
+    types:
+    - locality
+    - political
+  - long_name: Bangalore Urban
+    short_name: Bangalore Urban
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Karnataka
+    short_name: KA
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: India
+    short_name: IN
+    types:
+    - country
+    - political
+  - long_name: '560043'
+    short_name: '560043'
+    types:
+    - postal_code
+  longitude: 77.6233957
+  name: Talin Modular Office Furniture Systems Pvt Ltd
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/bb1b9676dbe64a5d8ba724f7060f7f00
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '560043'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  updated_on: '2022-07-21T20:07:41.963102Z'
+  web_domain: talin.co.in
+  website: https://talin.co.in/
+manufacturer_specific: true
+mass_per_declared_unit: 138.55 kg
+matched_plants_count: 0
+material_id: 722d028866994457aa30527d932c734e
+multiproduct: false
+my_capabilities: 1
+name: Entropy Workstation Model 1
+not_an_epd: false
+open_xpd_uuid: ec3nsdxz
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3nsdxz
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  alt_names: []
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2019-10-07T15:56:39.369600Z'
+  date_of_issue: '2019-08-18'
+  date_validity_ends: '2023-06-17'
+  declared_units:
+  - 1 pc
+  doc: '#broken-link https://portal.environdec.com/api/api/v1/EPDLibrary/Files/4f8f39ce-33d4-45f6-bd4f-8cd3c9df4d28/Data'
+  errors: {}
+  failures: {}
+  id: d3a416dc681b4422ad823ae85b83c2b1
+  is_failed: false
+  lcia_requirements:
+    EF 3.0:
+      impacts: []
+      order: 1
+  name: 'PCR 2012:19 Furniture, except seats and mattresses '
+  open_xpd_uuid: ec3934s9
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3934s9
+  short_link: buildingtransparency.org/p/ec3934s9tn
+  short_name: Furniture, except seats and mattresses
+  status: Expired
+  updated_on: '2023-06-18T00:03:35.016962Z'
+  version: '2.01'
+pct80_gwp_per_category_declared_unit: 400.2263449 kgCO2e
+plant_geography:
+- IN
+plant_or_group:
+  address: India
+  carbon_intensity: 1200 kgCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: IN
+  cqd_sync_unlocked: true
+  created_on: '2022-07-21T20:17:56.019498Z'
+  id: deb52b3537b54972b6885f167f12f5ea
+  is_failed: false
+  latitude: 22.351993560791016
+  location:
+    countryRegion: India
+    countryRegionIso2: IN
+    formattedAddress: India
+  longitude: 79.36287689208984
+  name: India
+  openepd_id: 7JJX9927+Q5.talin.co.in
+  owned_by:
+    address: Sy. No. 189 & 190, Kacharakanahalli, 15th cross, 3rd Block, 1st Stage
+      H.B.R Layout, HRBR Layout, Post, Bengaluru, Karnataka 560043, India
+    admin_district: KA
+    admin_district2: Bangalore Urban
+    confirmable_fields: []
+    confirmed_fields: []
+    country: IN
+    cqd_sync_unlocked: true
+    created_on: '2022-07-21T20:07:41.963091Z'
+    enterprise: false
+    id: bb1b9676dbe64a5d8ba724f7060f7f00
+    is_failed: false
+    latitude: 13.0273648
+    locality: Bengaluru
+    location:
+    - long_name: HRBR Layout
+      short_name: HRBR Layout
+      types:
+      - political
+      - sublocality
+      - sublocality_level_2
+    - long_name: Post
+      short_name: Post
+      types:
+      - political
+      - sublocality
+      - sublocality_level_1
+    - long_name: Bengaluru
+      short_name: Bengaluru
+      types:
+      - locality
+      - political
+    - long_name: Bangalore Urban
+      short_name: Bangalore Urban
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Karnataka
+      short_name: KA
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: India
+      short_name: IN
+      types:
+      - country
+      - political
+    - long_name: '560043'
+      short_name: '560043'
+      types:
+      - postal_code
+    longitude: 77.6233957
+    name: Talin Modular Office Furniture Systems Pvt Ltd
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/bb1b9676dbe64a5d8ba724f7060f7f00
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '560043'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    updated_on: '2022-07-21T20:07:41.963102Z'
+    web_domain: talin.co.in
+    website: https://talin.co.in/
+  total_epds: 1
+  type: Plant
+  units: SI
+  updated_on: '2022-07-21T20:17:56.019505Z'
+plant_specific: true
+private: false
+product_classes: {}
+product_specific: true
+program_operator:
+  address: "Valhallav\xE4gen 81, 11428 Stockholm"
+  address_line: "81 Valhallav\xE4gen"
+  alt_names:
+  - EnviroDec
+  - environdec
+  - the International EPD System
+  - IES
+  - EPD International
+  - "International EPD\xAE System"
+  - TheInternational EPD System
+  - "The International EPD\xAE System"
+  - The International EPD
+  attachments:
+    General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2019-04-18T13:32:25.465368Z'
+  email_extensions:
+  - environdec.com
+  enterprise: true
+  id: 9857b3f664584fadbadd5e601d9368d4
+  image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+  is_failed: false
+  latitude: 59.34655
+  legal_name: EPD International AB
+  locality: Stockholm
+  location:
+    country: Sweden
+    countryCode: SE
+    countryCodeISO3: SWE
+    freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+    municipality: Stockholm
+    municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+    postalCode: '11428'
+    streetName: "Valhallav\xE4gen"
+    streetNumber: '81'
+  longitude: 18.07285
+  name: EPD International AB
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '11428'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  updated_on: '2024-08-13T12:36:34.205186Z'
+  web_domain: environdec.com
+  website: www.environdec.com
+program_operator_fkey: S-P-02109
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3nsdxzp0
+standard_deviation: 71.56172161 kgCO2e
+stored_carbon: 113 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 400.2263449 kgCO2e
+uncertainty_factor: 1.1771363085536108
+updated_on: '2025-01-14T20:25:43.575693Z'
+use_stored_carbon: true
+verifier:
+  email: hudai.kara@metsims.com
+  name: Hudai Kara
+  org:
+    address: 4 Clearwater Pl, Oxford OX2 7NL, UK
+    address_line: 4 Clearwater Pl
+    admin_district: England
+    admin_district2: Oxfordshire
+    confirmable_fields: []
+    confirmed_fields: []
+    country: GB
+    cqd_sync_unlocked: true
+    created_on: '2020-08-05T16:51:17.469781Z'
+    email_extensions:
+    - metsims.com
+    enterprise: true
+    id: 2f5d682725cc405ab8849e8f25769c6a
+    image: https://static.buildingtransparency.org/images/2ffceb6c62eb45f4862928b9344ed7c2.png
+    is_failed: false
+    latitude: 51.7734539
+    legal_name: Metsims Limited
+    locality: Oxford
+    location:
+    - long_name: '4'
+      short_name: '4'
+      types:
+      - street_number
+    - long_name: Clearwater Place
+      short_name: Clearwater Pl
+      types:
+      - route
+    - long_name: Oxford
+      short_name: Oxford
+      types:
+      - postal_town
+    - long_name: Oxfordshire
+      short_name: Oxfordshire
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: England
+      short_name: England
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: United Kingdom
+      short_name: GB
+      types:
+      - country
+      - political
+    - long_name: OX2 7NL
+      short_name: OX2 7NL
+      types:
+      - postal_code
+    longitude: -1.2700055
+    name: Metsims Sustainability Consulting
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/2f5d682725cc405ab8849e8f25769c6a
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: OX2 7NL
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    updated_on: '2024-09-05T10:07:50.465795Z'
+    web_domain: metsims.com
+    website: https://www.metsims.com/
+warnings:
+  density:
+  - Not specified
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - ODP impact not specified
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified

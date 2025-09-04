@@ -1,0 +1,570 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+astm_standards: []
+box_id: '1426238317573'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2018-09-06T13:53:27.846834Z'
+  declared_unit: 1 t
+  default_distance: 664.65742 km
+  default_transport_mode: truck, unspecified
+  description: Broad category for construction materials made from steel and its alloys
+  display_name: Steel
+  draft: false
+  facility_type: MILL
+  generic_material: false
+  hide_service_life: true
+  id: db641aa0dbc34d6096547da02bf73f3a
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1000 kg
+  massless: false
+  masterformat: 05 00 00 Metals
+  may_contain_trusted_vendor_declarations: false
+  name: Steel
+  no_statistics: false
+  obsolete: false
+  openepd: Steel
+  openepd_name: Steel
+  parents: []
+  pct10_gwp: 793.3493622 kgCO2e
+  pct20_gwp: 1088.656024 kgCO2e
+  pct30_gwp: 1371.233235 kgCO2e
+  pct40_gwp: 1731.594787 kgCO2e
+  pct50_gwp: 2071.116037 kgCO2e
+  pct60_gwp: 2430.502599 kgCO2e
+  pct70_gwp: 2955.245143 kgCO2e
+  pct80_gwp: 3459.786598 kgCO2e
+  pct90_gwp: 4045.724492 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Steel
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  updated_on: '2025-09-04T09:15:08.797102Z'
+  use_stored_carbon: ABSENT
+cold_finished: false
+confirmable_fields: []
+confirmed_fields: []
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2024-01-26T15:40:19.076999Z'
+date_of_issue: '2023-10-02'
+date_validity_ends: '2028-10-01'
+declaration_type: Product EPD
+declared_unit: 1.0 t
+density: 7870 kg / m^3
+description: "Reinforcement Steel Bars have taken over the world of construction.\
+  \ Reinforcement Steel Bars are not only economically sensible option but also have\
+  \ the advantage of offering unmatched durability as well as ductility compared to\
+  \ conventional steel bars. Another pioneering idea from Jindal Steel and Power,\
+  \ Welded Wire Mesh is a new and efficient product which is aimed to expedite the\
+  \ construction process. It is a processed steel product that consists of rebars\
+  \ welded together to form a grid pattern. Use of Welded Wire Mesh reduces construction\
+  \ time considerably as it eliminates activities like cutting, marking and spacing\
+  \ of bars and binding of wires to the bars. It provides an ideal and convenient\
+  \ solution with practical and functional advantages.\nThe company has introduced\
+  \ several smart and innovative construction solutions \u2013 like Speed floor, Cut\
+  \ Bend, Weld-mesh etc. to tackle the need for faster construction. The Company endeavours\
+  \ to strengthen India\u2019s industrial base by aiding infrastructural development,\
+  \ through sustainable development approaches and inclusive growth."
+developer:
+  email: rsingh@sphera.com
+  name: Rajesh Kumar Singh
+  org:
+    address: 130 East Randolph Street, Chicago, IL 60601
+    address_line: 130 East Randolph Street
+    admin_district: IL
+    admin_district2: Cook
+    alt_names:
+    - PE International
+    - thinkstep, Inc.
+    - thinkstep AG
+    - thinkstep
+    - PE INTERNATIONAL AG
+    - Thinkstep AG
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-28T21:38:04.012143Z'
+    email: info@thinkstep.com
+    email_extensions:
+    - thinkstep.com
+    - pe-international.com
+    - sphera.com
+    enterprise: true
+    id: 72d41d92d6d741f68ce626557efcc1c0
+    image: https://static.buildingtransparency.org/images/a82275ae-15d5-4a2f-a24f-5a33d97cdcf2
+    is_failed: false
+    latitude: 41.88507
+    legal_name: Sphera
+    locality: Chicago
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Cook
+      countrySubdivision: IL
+      countrySubdivisionName: Illinois
+      countryTertiarySubdivision: Chicago
+      extendedPostalCode: '606016208'
+      freeformAddress: 130 East Randolph Street, Chicago, IL 60601
+      localName: Chicago
+      municipality: Chicago
+      municipalitySubdivision: Downtown Chicago
+      postalCode: '60601'
+      streetName: East Randolph Street
+      streetNumber: '130'
+    longitude: -87.62311
+    name: Sphera
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/72d41d92d6d741f68ce626557efcc1c0
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '60601'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: true
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    updated_on: '2022-02-02T15:47:47.511452Z'
+    web_domain: sphera.com
+    website: sphera.com
+doc: buildingtransparency.org/e/ec37emydb7
+document_version: '2023-10-02'
+en_standards: []
+epd_degraded: false
+errors: {}
+excluded: false
+externally_verified: true
+failures:
+  impacts:
+  - GWP impact not specified
+file_name: S-P-09805%20Average%20Reinforcement%20Steel%20Bars%2C%20Round%20_26276e6c9fbae11424f53c08119c76f913f58743.pdf
+galvanized: false
+id: 369509e60496443488ab55bc38d7628e
+image: https://static.buildingtransparency.org/images/f8ce237f5c4f4113af23ff0b04321bb1.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+language: en
+manufacturer:
+  address: 415/2, Sector 32, Gurugram, Haryana 122001, India
+  admin_district: HR
+  admin_district2: Gurgaon Division
+  confirmable_fields: []
+  confirmed_fields: []
+  country: IN
+  cqd_sync_unlocked: true
+  created_on: '2024-01-26T15:40:18.809603Z'
+  enterprise: false
+  id: 3121049e338740b390100fd8796515b6
+  is_failed: false
+  latitude: 28.44588
+  locality: Gurugram
+  location:
+  - long_name: 415/2
+    short_name: 415/2
+    types:
+    - premise
+  - long_name: Sector 32
+    short_name: Sector 32
+    types:
+    - political
+    - sublocality
+    - sublocality_level_1
+  - long_name: Gurugram
+    short_name: Gurugram
+    types:
+    - locality
+    - political
+  - long_name: Gurugram
+    short_name: Gurugram
+    types:
+    - administrative_area_level_3
+    - political
+  - long_name: Gurgaon Division
+    short_name: Gurgaon Division
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Haryana
+    short_name: HR
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: India
+    short_name: IN
+    types:
+    - country
+    - political
+  - long_name: '122001'
+    short_name: '122001'
+    types:
+    - postal_code
+  longitude: 77.04368099999999
+  name: Jindal Steel and Power
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/3121049e338740b390100fd8796515b6
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '122001'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  updated_on: '2024-01-26T15:40:18.809608Z'
+  web_domain: jindalsteelpower.com
+  website: https://www.jindalsteelpower.com/
+manufacturer_specific: true
+mass_per_declared_unit: 1000 kg
+matched_plants_count: 0
+material_id: aa1ffe2854124ef49adc9866701d82f5
+multiproduct: false
+my_capabilities: 1
+name: S-P-09805 Average Reinforcement Steel Bars, Round Bar, Wire Rod & RSC Steel
+  Product
+not_an_epd: false
+open_xpd_uuid: ec37emyd
+original_data_format: pdf_mixed
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec37emyd
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-04-02T18:26:34.309086Z'
+  date_of_issue: '2024-03-01'
+  date_validity_ends: '2024-12-20'
+  doc: https://api.environdec.com/api/v1/EPDLibrary/Files/cfb8786b-c166-4d25-02ed-08dc38ee8ac8/Data
+  errors:
+    declared_units:
+    - Not specified
+  failures:
+    declared_units:
+    - Not specified
+  id: 79f87426c5154d8f878af1a15562e9d3
+  is_failed: false
+  name: PCR 2019:14 Construction products (EN 15804+A2) (1.3.3)
+  open_xpd_uuid: ec3pks1a
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3pks1a
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3pks1akr
+  short_name: Construction products (EN 15804+A2)
+  status: Expired
+  updated_on: '2024-12-21T04:05:11.344807Z'
+  version: 1.3.3
+plant_geography:
+- IN
+plant_or_group:
+  address: India
+  carbon_intensity: 1200 kgCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: IN
+  cqd_sync_unlocked: true
+  created_on: '2024-03-14T23:50:30.083625Z'
+  id: 6acc3fe98f8c408fa581d5317e238ac6
+  is_failed: false
+  latitude: 22.351993560791016
+  location:
+    countryRegion: India
+    countryRegionIso2: IN
+    formattedAddress: India
+  longitude: 79.36287689208984
+  name: Angul and Patratu plants
+  openepd_id: 7JJX9927+Q5.jindalsteelpower.com
+  owned_by:
+    address: 415/2, Sector 32, Gurugram, Haryana 122001, India
+    admin_district: HR
+    admin_district2: Gurgaon Division
+    confirmable_fields: []
+    confirmed_fields: []
+    country: IN
+    cqd_sync_unlocked: true
+    created_on: '2024-01-26T15:40:18.809603Z'
+    enterprise: false
+    id: 3121049e338740b390100fd8796515b6
+    is_failed: false
+    latitude: 28.44588
+    locality: Gurugram
+    location:
+    - long_name: 415/2
+      short_name: 415/2
+      types:
+      - premise
+    - long_name: Sector 32
+      short_name: Sector 32
+      types:
+      - political
+      - sublocality
+      - sublocality_level_1
+    - long_name: Gurugram
+      short_name: Gurugram
+      types:
+      - locality
+      - political
+    - long_name: Gurugram
+      short_name: Gurugram
+      types:
+      - administrative_area_level_3
+      - political
+    - long_name: Gurgaon Division
+      short_name: Gurgaon Division
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Haryana
+      short_name: HR
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: India
+      short_name: IN
+      types:
+      - country
+      - political
+    - long_name: '122001'
+      short_name: '122001'
+      types:
+      - postal_code
+    longitude: 77.04368099999999
+    name: Jindal Steel and Power
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/3121049e338740b390100fd8796515b6
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '122001'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    updated_on: '2024-01-26T15:40:18.809608Z'
+    web_domain: jindalsteelpower.com
+    website: https://www.jindalsteelpower.com/
+  total_epds: 2
+  type: Plant
+  updated_on: '2024-03-14T23:50:30.083634Z'
+plant_specific: false
+private: false
+product_specific: true
+program_operator:
+  address: "Valhallav\xE4gen 81, 11428 Stockholm"
+  address_line: "81 Valhallav\xE4gen"
+  alt_names:
+  - EnviroDec
+  - environdec
+  - the International EPD System
+  - IES
+  - EPD International
+  - "International EPD\xAE System"
+  - TheInternational EPD System
+  - "The International EPD\xAE System"
+  - The International EPD
+  attachments:
+    General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2019-04-18T13:32:25.465368Z'
+  email_extensions:
+  - environdec.com
+  enterprise: true
+  id: 9857b3f664584fadbadd5e601d9368d4
+  image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+  is_failed: false
+  latitude: 59.34655
+  legal_name: EPD International AB
+  locality: Stockholm
+  location:
+    country: Sweden
+    countryCode: SE
+    countryCodeISO3: SWE
+    freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+    municipality: Stockholm
+    municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+    postalCode: '11428'
+    streetName: "Valhallav\xE4gen"
+    streetNumber: '81'
+  longitude: 18.07285
+  name: EPD International AB
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '11428'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  updated_on: '2024-08-13T12:36:34.205186Z'
+  web_domain: environdec.com
+  website: www.environdec.com
+program_operator_fkey: S-P-09805
+requires_ocr: false
+resource_uses: {}
+sae_standards: []
+sanitizable: true
+short_link: buildingtransparency.org/e/ec37emydb7
+stainless: false
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+updated_on: '2024-04-10T17:15:14.796096Z'
+use_stored_carbon: false
+verifier:
+  email: hudai.kara@metsims.com
+  name: Hudai Kara
+  org:
+    address: 4 Clearwater Pl, Oxford OX2 7NL, UK
+    address_line: 4 Clearwater Pl
+    admin_district: England
+    admin_district2: Oxfordshire
+    confirmable_fields: []
+    confirmed_fields: []
+    country: GB
+    cqd_sync_unlocked: true
+    created_on: '2020-08-05T16:51:17.469781Z'
+    email_extensions:
+    - metsims.com
+    enterprise: true
+    id: 2f5d682725cc405ab8849e8f25769c6a
+    image: https://static.buildingtransparency.org/images/2ffceb6c62eb45f4862928b9344ed7c2.png
+    is_failed: false
+    latitude: 51.7734539
+    legal_name: Metsims Limited
+    locality: Oxford
+    location:
+    - long_name: '4'
+      short_name: '4'
+      types:
+      - street_number
+    - long_name: Clearwater Place
+      short_name: Clearwater Pl
+      types:
+      - route
+    - long_name: Oxford
+      short_name: Oxford
+      types:
+      - postal_town
+    - long_name: Oxfordshire
+      short_name: Oxfordshire
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: England
+      short_name: England
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: United Kingdom
+      short_name: GB
+      types:
+      - country
+      - political
+    - long_name: OX2 7NL
+      short_name: OX2 7NL
+      types:
+      - postal_code
+    longitude: -1.2700055
+    name: Metsims Sustainability Consulting
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/2f5d682725cc405ab8849e8f25769c6a
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: OX2 7NL
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    updated_on: '2024-09-05T10:07:50.465795Z'
+    web_domain: metsims.com
+    website: https://www.metsims.com/
+warnings:
+  impacts:
+  - ODP impact not specified
+  - AP impact not specified
+  - EP-FRESH impact not specified
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - POCP impact not specified
+  steel_post_consumer_recycled_content:
+  - Not specified
+  steel_recycled_content:
+  - Not specified
+  steel_yield_tensile_str:
+  - Not specified

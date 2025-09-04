@@ -1,0 +1,499 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 7.632024251 kgCO2e
+biogenic_embodied_carbon_z: 0.2903446228191595
+box_id: '1426248714193'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2021-11-22T14:52:01Z'
+  declared_unit: 1 kg
+  default_distance: 600.28382 km
+  default_transport_mode: truck, unspecified
+  description: Food Beverage and Tobacco Products
+  display_name: Food Beverage
+  draft: true
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: 49c6aca902d44b92897e44945fc610d1
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1 kg
+  massless: false
+  masterformat: 00 00 00 No Masterformat Code
+  may_contain_trusted_vendor_declarations: false
+  name: FoodBeverage
+  no_statistics: false
+  obsolete: false
+  openepd: OtherMaterials >> Unsupported >> FoodBeverage
+  openepd_name: OtherMaterials >> Unsupported >> FoodBeverage
+  parents: []
+  pct10_gwp: 0.5133955876 kgCO2e
+  pct20_gwp: 0.8007667083 kgCO2e
+  pct30_gwp: 1.244354035 kgCO2e
+  pct40_gwp: 1.651008933 kgCO2e
+  pct50_gwp: 2.488708069 kgCO2e
+  pct60_gwp: 3.033735136 kgCO2e
+  pct70_gwp: 4.611576052 kgCO2e
+  pct80_gwp: 7.466124207 kgCO2e
+  pct90_gwp: 20.3530279 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Food Beverage
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '50000000'
+  updated_on: '2025-09-04T09:15:22.558318Z'
+  use_stored_carbon: OPTIONAL
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 12.56797575 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2024-01-26T16:06:40.701814Z'
+date_of_issue: '2023-07-02'
+date_validity_ends: '2028-07-01'
+declaration_type: Product EPD
+declared_unit: 1.0 m^2
+description: "High Pressure Laminate or HPL, is manufactured by bonding together layers\
+  \ of cellulosic fibrous material (normally paper) impregnated with thermosetting\
+  \ resins, by simultaneous application of heat (temperature \u2265 120\xB0C) and\
+  \ high specific pressure (\u2265 5 MPa), to obtain a homogenous non-porous material\
+  \ with increased density and with the required finish. The surface layers, which\
+  \ incorporate solid colours, patterns or natural decors, use melamine-based resins\
+  \ to provide high-resistance to wear, impact, heat and staining. The core layers\
+  \ use phenolic-based resins for strength and flexibility.\nHPL sheets of thickness\
+  \ 2mm and above are generally called `Compact Laminates` or `HPL boards`.\nHPLs\
+  \ come in a wide array of designs and textures some of which give the exact appearance\
+  \ and sheen of the real material like marble. Each of the finishes is available\
+  \ in multiple designs and colours from which one can choose according to style and\
+  \ decor.\nOther features of HPL are:\n\u2022\tDurability and Safety\n\u2022\tCost\
+  \ Effectiveness\n\u2022\tLeast maintenance\n\u2022\tLow emissions\nSome of the Compact\
+  \ Laminates variants offered by Greenlam:\n\u2022\tStandard Compact\n\u2022\tInterior\
+  \ Grade Cladding\n\u2022\tExterior Grade Cladding\n\u2022\tUnicore Compact\n\u2022\
+  \tSandwich Compact\n\u2022\tStratus\n\u2022\tAFX\n\u2022\tSturdo Restroom Cubicles\
+  \ and Lockers\n\u2022\tLab Guardian\n\u2022\tDigital/Custom Compact\n\u2022\tFire\
+  \ Retardant Compacts"
+developer:
+  org:
+    address: India
+    confirmable_fields: []
+    confirmed_fields: []
+    country: IN
+    cqd_sync_unlocked: true
+    created_on: '2024-01-26T16:03:44.644721Z'
+    enterprise: false
+    id: 50a2bd87252940488e6db960dfef3e2e
+    is_failed: false
+    latitude: 22.351993560791016
+    location:
+      countryRegion: India
+      countryRegionIso2: IN
+      formattedAddress: India
+    longitude: 79.36287689208984
+    name: Greenlam Industries Limited
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/50a2bd87252940488e6db960dfef3e2e
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    updated_on: '2024-01-26T16:03:44.644727Z'
+    web_domain: greenlamindustries.com
+    website: https://greenlamindustries.com
+doc: buildingtransparency.org/e/ec374t2y5y
+document_version: '2023-07-02'
+epd_degraded: false
+errors: {}
+excluded: false
+externally_verified: true
+failures:
+  declared_unit:
+  - Declared unit not in same dimension with category declared unit
+file_name: S-P-09221%20Compacts%20%28Thick%20High%20Pressure%20Laminates-_962af90abfdebc738d1947b3df1ee74f787c09cf.pdf
+gwp: 10.1 kgCO2e
+gwp_per_category_declared_unit: 10.1 kgCO2e
+gwp_z: 0.2903446228191595
+id: 65c954945309443bbc0c437c356a5042
+image: https://static.buildingtransparency.org/images/21a3b457ac074ce2836838cabcd124bf.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+language: en
+lowest_plausible_gwp: 7.632024251 kgCO2e
+manufacturer:
+  address: India
+  confirmable_fields: []
+  confirmed_fields: []
+  country: IN
+  cqd_sync_unlocked: true
+  created_on: '2024-01-26T16:03:44.644721Z'
+  enterprise: false
+  id: 50a2bd87252940488e6db960dfef3e2e
+  is_failed: false
+  latitude: 22.351993560791016
+  location:
+    countryRegion: India
+    countryRegionIso2: IN
+    formattedAddress: India
+  longitude: 79.36287689208984
+  name: Greenlam Industries Limited
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/50a2bd87252940488e6db960dfef3e2e
+  password_login_allowed: true
+  pilot_all_employees: false
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  updated_on: '2024-01-26T16:03:44.644727Z'
+  web_domain: greenlamindustries.com
+  website: https://greenlamindustries.com
+manufacturer_specific: true
+matched_plants_count: 0
+material_id: 18b128542165440893ef21a9b56bd46c
+multiproduct: false
+my_capabilities: 1
+name: S-P-09221 Compacts (Thick High Pressure Laminates-2.0mm and above)
+not_an_epd: false
+open_xpd_uuid: ec374t2y
+original_data_format: pdf_mixed
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec374t2y
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-04-02T18:26:34.309086Z'
+  date_of_issue: '2024-03-01'
+  date_validity_ends: '2024-12-20'
+  doc: https://api.environdec.com/api/v1/EPDLibrary/Files/cfb8786b-c166-4d25-02ed-08dc38ee8ac8/Data
+  errors:
+    declared_units:
+    - Not specified
+  failures:
+    declared_units:
+    - Not specified
+  id: 79f87426c5154d8f878af1a15562e9d3
+  is_failed: false
+  name: PCR 2019:14 Construction products (EN 15804+A2) (1.3.3)
+  open_xpd_uuid: ec3pks1a
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3pks1a
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3pks1akr
+  short_name: Construction products (EN 15804+A2)
+  status: Expired
+  updated_on: '2024-12-21T04:05:11.344807Z'
+  version: 1.3.3
+pct80_gwp_per_category_declared_unit: 12.56797575 kgCO2e
+plant_geography:
+- IN
+plant_or_group:
+  address: H42C+6GH, Aerocity, Indira Gandhi International Airport, New Delhi, Delhi
+    110037, India
+  admin_district: DL
+  admin_district2: Delhi Division
+  carbon_intensity: 1200 kgCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: IN
+  cqd_sync_unlocked: true
+  created_on: '2024-03-14T23:48:31.221409Z'
+  id: 93c6258baccc4c2191d029488e30354a
+  is_failed: false
+  latitude: 28.5505625
+  locality: New Delhi
+  location:
+  - long_name: H42C+6GH
+    short_name: H42C+6GH
+    types:
+    - plus_code
+  - long_name: Aerocity
+    short_name: Aerocity
+    types:
+    - political
+    - sublocality
+    - sublocality_level_3
+  - long_name: Indira Gandhi International Airport
+    short_name: Indira Gandhi International Airport
+    types:
+    - political
+    - sublocality
+    - sublocality_level_1
+  - long_name: New Delhi
+    short_name: New Delhi
+    types:
+    - locality
+    - political
+  - long_name: South West Delhi
+    short_name: South West Delhi
+    types:
+    - administrative_area_level_3
+    - political
+  - long_name: Delhi Division
+    short_name: Delhi Division
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Delhi
+    short_name: DL
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: India
+    short_name: IN
+    types:
+    - country
+    - political
+  - long_name: '110037'
+    short_name: '110037'
+    types:
+    - postal_code
+  longitude: 77.1213594
+  name: Greenlam Industries Limited
+  openepd_id: 7JWVH42C+6G.greenlamindustries.com
+  owned_by:
+    address: India
+    confirmable_fields: []
+    confirmed_fields: []
+    country: IN
+    cqd_sync_unlocked: true
+    created_on: '2024-01-26T16:03:44.644721Z'
+    enterprise: false
+    id: 50a2bd87252940488e6db960dfef3e2e
+    is_failed: false
+    latitude: 22.351993560791016
+    location:
+      countryRegion: India
+      countryRegionIso2: IN
+      formattedAddress: India
+    longitude: 79.36287689208984
+    name: Greenlam Industries Limited
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/50a2bd87252940488e6db960dfef3e2e
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    updated_on: '2024-01-26T16:03:44.644727Z'
+    web_domain: greenlamindustries.com
+    website: https://greenlamindustries.com
+  postal_code: '110037'
+  total_epds: 1
+  type: Plant
+  updated_on: '2024-03-14T23:48:31.221419Z'
+plant_specific: false
+private: false
+product_specific: true
+program_operator:
+  address: "Valhallav\xE4gen 81, 11428 Stockholm"
+  address_line: "81 Valhallav\xE4gen"
+  alt_names:
+  - EnviroDec
+  - environdec
+  - the International EPD System
+  - IES
+  - EPD International
+  - "International EPD\xAE System"
+  - TheInternational EPD System
+  - "The International EPD\xAE System"
+  - The International EPD
+  attachments:
+    General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2019-04-18T13:32:25.465368Z'
+  email_extensions:
+  - environdec.com
+  enterprise: true
+  id: 9857b3f664584fadbadd5e601d9368d4
+  image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+  is_failed: false
+  latitude: 59.34655
+  legal_name: EPD International AB
+  locality: Stockholm
+  location:
+    country: Sweden
+    countryCode: SE
+    countryCodeISO3: SWE
+    freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+    municipality: Stockholm
+    municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+    postalCode: '11428'
+    streetName: "Valhallav\xE4gen"
+    streetNumber: '81'
+  longitude: 18.07285
+  name: EPD International AB
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '11428'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  updated_on: '2024-08-13T12:36:34.205186Z'
+  web_domain: environdec.com
+  website: www.environdec.com
+program_operator_fkey: S-P-09221
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec374t2y5y
+standard_deviation: 2.93248069 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 12.56797575 kgCO2e
+uncertainty_factor: 1.2443540345646047
+updated_on: '2024-04-10T17:14:57.927406Z'
+use_stored_carbon: false
+verifier:
+  email: prabodha.acharya@gmail.com
+  name: Prabodha Acharya
+  org:
+    address: Bandra Kurla Complex Rd, Mumbai, Maharashtra, India
+    address_line: BKC Road
+    admin_district: MH
+    admin_district2: Mumbai Suburban
+    alt_names:
+    - JSW Cement Limited
+    confirmable_fields: []
+    confirmed_fields: []
+    country: IN
+    cqd_sync_unlocked: true
+    created_on: '2020-07-21T08:53:42.136916Z'
+    enterprise: true
+    id: e831edeb8af94dc784864680beac9d2b
+    is_failed: false
+    latitude: 19.0622678
+    locality: Mumbai
+    location:
+    - long_name: Bandra Kurla Complex Road
+      short_name: BKC Road
+      types:
+      - route
+    - long_name: Mumbai
+      short_name: Mumbai
+      types:
+      - locality
+      - political
+    - long_name: Mumbai Suburban
+      short_name: Mumbai Suburban
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Maharashtra
+      short_name: MH
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: India
+      short_name: IN
+      types:
+      - country
+      - political
+    longitude: 72.8595296
+    name: JSW Steel Limited
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/e831edeb8af94dc784864680beac9d2b
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '583119'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    updated_on: '2022-05-24T09:50:58.705857Z'
+    web_domain: jsw.in
+    website: http://www.jsw.in
+warnings:
+  density:
+  - Not specified
+  developer:
+  - Missing link
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - ODP impact not specified
+  - AP impact not specified
+  - EP-FRESH impact not specified
+  - EP-TERRESTRIAL impact not specified

@@ -1,0 +1,489 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+attachments:
+  ILCD / NorgeEpd: https://epdnorway.lca-data.com/showProcess.xhtml?uuid=2ea29843-ce55-44eb-9e60-3ad35e701a41
+best_practice: 2.856846537 kgCO2e
+biogenic_embodied_carbon_z: 0.2104756517984919
+box_id: '1550627713888'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2024-07-22T09:01:11Z'
+  declared_unit: 1 kg
+  description: Paintings and coatings measured by mass of ready-to-use product.
+  display_name: Paint By Mass
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: 9068d53b399b479f8277ad297a99ac31
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1 kg
+  massless: false
+  masterformat: 09 90 00 Painting and Coating
+  may_contain_trusted_vendor_declarations: false
+  name: PaintByMass
+  no_statistics: false
+  obsolete: false
+  openepd: Finishes >> PaintingAndCoating >> PaintByMass
+  openepd_name: Finishes >> PaintingAndCoating >> PaintByMass
+  parents: []
+  pct10_gwp: 1.715112329 kgCO2e
+  pct20_gwp: 2.245216507 kgCO2e
+  pct30_gwp: 2.611656534 kgCO2e
+  pct40_gwp: 3.104473027 kgCO2e
+  pct50_gwp: 3.772746573 kgCO2e
+  pct60_gwp: 4.618575294 kgCO2e
+  pct70_gwp: 5.422246602 kgCO2e
+  pct80_gwp: 6.436940657 kgCO2e
+  pct90_gwp: 7.686947577 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: By Mass
+  short_service_life_disclaimer: true
+  subcategories: []
+  updated_on: '2025-09-04T09:15:13.860419Z'
+  use_stored_carbon: ABSENT
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 4.086822425 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2024-06-04T19:41:18.608224Z'
+date_of_issue: '2018-01-01'
+date_validity_ends: '2023-01-01'
+declaration_type: Product EPD
+declared_unit: 1.0 kg
+density: 1400 kg / m^3
+description: Steelmaster 1200WF is a one component waterborne acrylic thin film intumescent
+  coating. This product is independently tested and approved for fire protection of
+  structural steel, exposed to cellulosic fire up to 180 minutes. The declared product
+  is specially designed as passive fire protection for steel constructions. It is
+  suitable for properly prepared carbon steel substrates exposed to internal environments
+  up to corrosivity category C3 (ISO 12944 -2). For information on Green Building
+  Standard credits, see "Additional Information" on page 4. The material composition
+  of the declared product is given below
+developer:
+  org:
+    address: Dokka, 1671 Fredrikstad, Norway
+    address_line: Dokka
+    admin_district: Viken
+    admin_district2: Fredrikstad
+    confirmable_fields: []
+    confirmed_fields: []
+    country: 'NO'
+    cqd_sync_unlocked: true
+    created_on: '2021-02-08T11:32:29.620886Z'
+    enterprise: true
+    id: d302c6f4a1d94860b40ad83a3fad15e5
+    is_failed: false
+    latitude: 59.2129658
+    locality: Thornton
+    location:
+    - long_name: Dokka
+      short_name: Dokka
+      types:
+      - route
+    - long_name: "Kr\xE5ker\xF8y"
+      short_name: "Kr\xE5ker\xF8y"
+      types:
+      - postal_town
+    - long_name: Fredrikstad
+      short_name: Fredrikstad
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Viken
+      short_name: Viken
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Norway
+      short_name: 'NO'
+      types:
+      - country
+      - political
+    - long_name: '1671'
+      short_name: '1671'
+      types:
+      - postal_code
+    longitude: 10.9253378
+    name: LCA.no AS
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/d302c6f4a1d94860b40ad83a3fad15e5
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '1671'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    updated_on: '2022-01-18T12:23:35.969339Z'
+    web_domain: lca.no
+    website: www.lca.no
+doc: https://epdnorway.lca-data.com/showProcess.xhtml?uuid=2ea29843-ce55-44eb-9e60-3ad35e701a41
+epd_degraded: false
+excluded: false
+externally_verified: true
+file_name: Steelmaster1200WF%2C_5ca2b411b466926376f2f9c5d864759dbbaffe16.pdf
+gwp: 3.471834481 kgCO2e
+gwp_per_category_declared_unit: 3.471834481 kgCO2e
+gwp_per_kg: 3.471834481 kgCO2e
+gwp_z: 0.2104756517984919
+id: c8c47ebc6cec49649c5700af130c005e
+image: https://static.buildingtransparency.org/images/38889b3e700f4e0fbab9b5c0ff0b3e0a.png
+impacts: {}
+industry_standards:
+- 'O 9001:2008 Certificate nr: 0044915-00'
+- ' ISO 14001:2004 Certificate nr 0044914- 0'
+- ' ISO 45001: 2018 Certificate nr: 0098139 rganisation no: 23 248 579 sue date: 0.07.2018'
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lowest_plausible_gwp: 2.856846537 kgCO2e
+manufacturer:
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-04-11T11:45:37.456734Z'
+  enterprise: false
+  id: c46cbc86875f4c4bbaf75a1af31dd8f1
+  is_failed: false
+  name: Jotun A/S
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/c46cbc86875f4c4bbaf75a1af31dd8f1
+  password_login_allowed: true
+  pilot_all_employees: false
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  updated_on: '2024-06-20T21:19:10.654272Z'
+  warnings:
+    address:
+    - Not specified
+  web_domain: jotun.no
+  website: jotun.no
+manufacturer_specific: true
+mass_per_declared_unit: 1 kg
+matched_plants_count: 0
+material_id: 8cb9d554657746da9a4ccb0a88d71071
+multiproduct: false
+my_capabilities: 1
+name: Steelmaster 1200WF, Jotun India Private Limited
+not_an_epd: false
+open_xpd_uuid: ec31cdzw
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec31cdzw
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  allows_facility_specific_epds: true
+  alt_names:
+  - "Teil B: Anforderungen an die EPD f\xFCr Beschichtungen mit organischen Bindemitteln"
+  - Beschichtungen mit organischen Bindemitteln
+  - IBU PCR Part B for\ncoatings with organic binders. .
+  attachments:
+    EnglishTranslation: https://app.box.com/file/1313284791908
+    URL: https://oekobaudat.de/OEKOBAU.DAT/resource/sources/c13732fe-da03-4a46-a560-06baecadf36e/Beschichtungen%20mit%20organischen%20Bindemitteln.pdf?version=00.01.000
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2023-10-17T11:27:16.169988Z'
+  declared_units:
+  - 1 kg
+  doc: https://oekobaudat.de/OEKOBAU.DAT/resource/sources/c13732fe-da03-4a46-a560-06baecadf36e/Beschichtungen%20mit%20organischen%20Bindemitteln.pdf?version=00.01.000
+  errors:
+    date_of_issue:
+    - Not specified
+    version:
+    - Not specified
+  failures:
+    date_of_issue:
+    - Not specified
+    version:
+    - Not specified
+  id: 98b5ee5d7e9c493b8937590872a5bd4d
+  is_failed: false
+  lcia_requirements:
+    EF 3.0:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: 'Part B: EPD requirements for coatings with organic binders'
+  open_xpd_uuid: ec3skhc4
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3skhc4
+  product_classes: {}
+  requires_mass: true
+  requires_uncertainty: false
+  short_link: buildingtransparency.org/p/ec3skhc4yd
+  short_name: Coatings with organic binders
+  updated_on: '2024-06-05T20:21:44.275995Z'
+  version: '1'
+pct80_gwp_per_category_declared_unit: 4.086822425 kgCO2e
+plant_geography:
+- IN
+plant_or_group:
+  address: Ranjangaon MIDC, Maharashtra 412220, India
+  admin_district: MH
+  admin_district2: Pune Division
+  carbon_intensity: 1200 kgCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: IN
+  cqd_sync_unlocked: true
+  created_on: '2024-06-04T17:36:43.938596Z'
+  id: 6a9e302577e54f37a6643e2592a36d66
+  is_failed: false
+  latitude: 18.7826998
+  locality: Shirur
+  location:
+  - long_name: Ranjangaon MIDC
+    short_name: Ranjangaon MIDC
+    types:
+    - neighborhood
+    - political
+  - long_name: Pune
+    short_name: Pune
+    types:
+    - administrative_area_level_3
+    - political
+  - long_name: Pune Division
+    short_name: Pune Division
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Maharashtra
+    short_name: MH
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: India
+    short_name: IN
+    types:
+    - country
+    - political
+  - long_name: '412220'
+    short_name: '412220'
+    types:
+    - postal_code
+  longitude: 74.2795524
+  name: Shirur, MH
+  openepd_id: 7JCPQ7MH+3R.jotun.no
+  owned_by:
+    confirmable_fields: []
+    confirmed_fields: []
+    cqd_sync_unlocked: true
+    created_on: '2024-04-11T11:45:37.456734Z'
+    enterprise: false
+    id: c46cbc86875f4c4bbaf75a1af31dd8f1
+    is_failed: false
+    name: Jotun A/S
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/c46cbc86875f4c4bbaf75a1af31dd8f1
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    updated_on: '2024-06-20T21:19:10.654272Z'
+    warnings:
+      address:
+      - Not specified
+    web_domain: jotun.no
+    website: jotun.no
+  postal_code: '412220'
+  total_epds: 9
+  type: Plant
+  updated_on: '2024-06-04T17:36:43.938606Z'
+plant_specific: true
+private: false
+product_specific: true
+program_operator:
+  address: Nedre Gate, 0551 Oslo
+  address_line: ' Nedre Gate'
+  admin_district: Oslo
+  alt_names:
+  - EPD Norway
+  - EPD Norge
+  - Norwegian EPD Foundation
+  - The Norwegian EPD Foundation
+  attachments:
+    Programme Instructions: https://www.epd-norge.no/getfile.php/1318421-1619688686/Dokumenter/GPI%20Det%20norske%20EPD%20programmet%20approved240419%20ver4-290421.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: 'NO'
+  cqd_sync_unlocked: true
+  created_on: '2020-02-24T22:53:55.785538Z'
+  email_extensions:
+  - epd-norge.no
+  enterprise: true
+  id: f75b428efeab456a82366b52aa5535ff
+  image: https://static.buildingtransparency.org/images/f96e8c9ac43a4a3fad91413de4dc479a.png
+  is_failed: false
+  latitude: 59.92015
+  locality: Oslo
+  location:
+    country: Norge
+    countryCode: 'NO'
+    countryCodeISO3: NOR
+    countrySubdivision: Oslo
+    freeformAddress: Nedre Gate, 0551 Oslo
+    localName: Oslo
+    municipality: Oslo
+    municipalitySubdivision: Oslo
+    postalCode: '0551'
+    streetName: Nedre Gate
+  longitude: 10.75449
+  name: EPD Norway
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/f75b428efeab456a82366b52aa5535ff
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '154'
+  postal_code: '0551'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  updated_on: '2024-08-27T13:32:28.156719Z'
+  web_domain: epd-norge.no
+  website: https://www.epd-norge.no/
+program_operator_fkey: NEPD-1586-610
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec31cdzwa9
+standard_deviation: 0.7307366254 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 4.086822425 kgCO2e
+uncertainty_factor: 1.1771363085536108
+updated_on: '2025-01-28T03:14:08.571353Z'
+use_stored_carbon: false
+verifier:
+  email: anne@norsus.no
+  name: Anne Roenning
+  org:
+    address: 4 Stadion, Fredrikstad, Viken 1671, Norway
+    address_line: 4 Stadion
+    admin_district: Viken
+    alt_names:
+    - "\xD8stfoldforskning"
+    - Ostfold Research
+    - Norwegian Institute for Sustainability Research
+    - NORSUS AS
+    confirmable_fields: []
+    confirmed_fields: []
+    country: 'NO'
+    cqd_sync_unlocked: true
+    created_on: '2020-07-30T18:49:43.650430Z'
+    email_extensions:
+    - ostfoldforskning.no
+    enterprise: true
+    id: 606e5a680316415e8e0396617065399f
+    image: https://static.buildingtransparency.org/images/eeedd6bea0a0438885b090ce2b7fcde2.png
+    is_failed: false
+    latitude: 59.21257
+    locality: Fredrikstad
+    location:
+      addressLine: 4 Stadion
+      adminDistrict: Viken
+      countryRegion: Norway
+      countryRegionIso2: 'NO'
+      formattedAddress: "Stadion 4, 1671 Kr\xE5ker\xF8y"
+      locality: Fredrikstad
+      postalCode: '1671'
+    longitude: 10.92977
+    name: NORSUS
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/606e5a680316415e8e0396617065399f
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '1671'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    updated_on: '2022-05-17T03:59:26.020553Z'
+    web_domain: norsus.no
+    website: https://norsus.no/en/
+warnings:
+  developer:
+  - Missing link
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  pcr:
+  - PCR validity dates not found

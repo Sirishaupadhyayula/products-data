@@ -1,0 +1,528 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+astm_standards: []
+attachments:
+  EnvirondecIlcd: https://data.environdec.com/resource/processes/a0cb6709-713a-48bd-c374-08dbfcbd856b?version=07.01.002
+best_practice: 620.1323723 kgCO2e
+biogenic_embodied_carbon_z: 0.08623224454924039
+box_id: '1540486631624'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2018-09-06T13:53:27.846834Z'
+  declared_unit: 1 t
+  default_distance: 664.65742 km
+  default_transport_mode: truck, unspecified
+  description: Broad category for construction materials made from steel and its alloys
+  display_name: Steel
+  draft: false
+  facility_type: MILL
+  generic_material: false
+  hide_service_life: true
+  id: db641aa0dbc34d6096547da02bf73f3a
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1000 kg
+  massless: false
+  masterformat: 05 00 00 Metals
+  may_contain_trusted_vendor_declarations: false
+  name: Steel
+  no_statistics: false
+  obsolete: false
+  openepd: Steel
+  openepd_name: Steel
+  parents: []
+  pct10_gwp: 793.3493622 kgCO2e
+  pct20_gwp: 1088.656024 kgCO2e
+  pct30_gwp: 1371.233235 kgCO2e
+  pct40_gwp: 1731.594787 kgCO2e
+  pct50_gwp: 2071.116037 kgCO2e
+  pct60_gwp: 2430.502599 kgCO2e
+  pct70_gwp: 2955.245143 kgCO2e
+  pct80_gwp: 3459.786598 kgCO2e
+  pct90_gwp: 4045.724492 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Steel
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  updated_on: '2025-09-04T09:15:08.797102Z'
+  use_stored_carbon: ABSENT
+cold_finished: false
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 717.1856277 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2024-05-24T16:50:57.578617Z'
+date_of_issue: '2024-03-21'
+date_validity_ends: '2029-03-20'
+declaration_type: Product EPD
+declared_unit: 1.0 t
+density: 7870 kg / m^3
+description: 'TI Macho TMT Bars are specifically crafted with recycled steel produced
+  in an Electric Induction Furnace
+
+  which is powered by mix of electricity from renewable energy and conventional sources.
+  TI MACHO
+
+  TMT bar combines High yield strength, High tensile strength and High elongation
+  properties to deliver
+
+  an unbeatable value proposition in structural steel. The Carbon percentage is controlled
+  within closed
+
+  tolerances to ensure High Ductility and Workability of steel. This value proposition
+  has been developed
+
+  through intensive R&D effort, which led in turn to a unique and computationally
+  validated quenching
+
+  process, relatively unaffected by process variations.'
+developer:
+  email: info@metsims.com
+  name: Metsims Sustainability Consulting Contact
+  org:
+    address: "Valhallav\xE4gen 81, 11428 Stockholm"
+    address_line: "81 Valhallav\xE4gen"
+    alt_names:
+    - EnviroDec
+    - environdec
+    - the International EPD System
+    - IES
+    - EPD International
+    - "International EPD\xAE System"
+    - TheInternational EPD System
+    - "The International EPD\xAE System"
+    - The International EPD
+    attachments:
+      General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+    confirmable_fields: []
+    confirmed_fields: []
+    country: SE
+    cqd_sync_unlocked: true
+    created_on: '2019-04-18T13:32:25.465368Z'
+    email_extensions:
+    - environdec.com
+    enterprise: true
+    id: 9857b3f664584fadbadd5e601d9368d4
+    image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+    is_failed: false
+    latitude: 59.34655
+    legal_name: EPD International AB
+    locality: Stockholm
+    location:
+      country: Sweden
+      countryCode: SE
+      countryCodeISO3: SWE
+      freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+      municipality: Stockholm
+      municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+      postalCode: '11428'
+      streetName: "Valhallav\xE4gen"
+      streetNumber: '81'
+    longitude: 18.07285
+    name: EPD International AB
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - '150'
+    postal_code: '11428'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    updated_on: '2024-08-13T12:36:34.205186Z'
+    web_domain: environdec.com
+    website: www.environdec.com
+doc: https://data.environdec.com/resource/processes/a0cb6709-713a-48bd-c374-08dbfcbd856b?version=07.01.002
+en_standards: []
+excluded: false
+externally_verified: true
+file_name: S-P-12016TIMachoTMTBars_2691d7ae142c5bc3d2c254d1470131689109348f.pdf
+galvanized: false
+gwp: 668.659 kgCO2e
+gwp_per_category_declared_unit: 668.659 kgCO2e
+gwp_per_kg: 0.668659 kgCO2e
+gwp_z: 0.08623224454924039
+id: c6c9f00b8ddf43cfaa259f89c5033a1b
+image: https://static.buildingtransparency.org/images/82217a13879a497ca779a30b38bf3bb9.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lca_discussion: ''
+lowest_plausible_gwp: 620.1323723 kgCO2e
+manufacturer:
+  address: Egmore, TN, India
+  admin_district: TN
+  admin_district2: Chennai
+  alt_names:
+  - Saint-Gobain India Private Limited
+  confirmable_fields: []
+  confirmed_fields: []
+  country: IN
+  cqd_sync_unlocked: true
+  created_on: '2020-09-22T12:48:43.457690Z'
+  enterprise: true
+  id: 183a22a25f164301809d5f99795e255e
+  is_failed: false
+  latitude: 13.076440811157227
+  locality: Egmore
+  location:
+    adminDistrict: TN
+    adminDistrict2: Chennai
+    countryRegion: India
+    countryRegionIso2: IN
+    formattedAddress: Egmore, India
+    locality: Egmore
+  longitude: 80.26013946533203
+  name: Saint-Gobain India
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/183a22a25f164301809d5f99795e255e
+  password_login_allowed: true
+  pilot_all_employees: false
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  updated_on: '2022-09-01T16:12:39.335741Z'
+  web_domain: saint-gobain.co.in
+  website: https://www.saint-gobain.co.in/
+manufacturer_specific: true
+mass_per_declared_unit: 1000 kg
+matched_plants_count: 0
+material_id: 384b6cca0baf4de2bf899cdeef768556
+multiproduct: false
+my_capabilities: 1
+name: S-P-12016 TI Macho TMT Bars
+not_an_epd: false
+open_xpd_uuid: ec3z01km
+original_data_format: ILCD+EPDv1_0
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3z01km
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  alt_names:
+  - EN 15804
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2019-10-09T11:58:48.464109Z'
+  date_of_issue: '2012-01-01'
+  date_validity_ends: '2025-01-30'
+  declared_units:
+  - 1 kg
+  - 1 m
+  - 1 m2
+  - 1 m3
+  - 1 unit
+  doc: https://standards.globalspec.com/std/1666865/EN%2015804
+  errors: {}
+  failures: {}
+  id: 9704e2e4b2564afe9d4ec51ea98f96cc
+  is_failed: false
+  lcia_requirements:
+    CML 2012:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: CEN standard EN 15804
+  open_xpd_uuid: ec3e5kdx
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3e5kdx
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3e5kdxhx
+  short_name: CEN standard EN 15804
+  status: Expired
+  updated_on: '2025-01-31T00:03:01.267203Z'
+  version: '1'
+pct80_gwp_per_category_declared_unit: 717.1856277 kgCO2e
+plant_geography:
+- IN
+plant_or_group:
+  address: Vasanadu, Andhra Pradesh 517425, India
+  admin_district: AP
+  carbon_intensity: 1200 kgCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: IN
+  cqd_sync_unlocked: true
+  created_on: '2024-05-24T16:50:57.115777Z'
+  id: a39a75613f474a00afbf7fe39283a730
+  is_failed: false
+  latitude: 12.6952326
+  locality: Vasanadu
+  location:
+  - long_name: Vasanadu
+    short_name: Vasanadu
+    types:
+    - locality
+    - political
+  - long_name: Chittoor
+    short_name: Chittoor
+    types:
+    - administrative_area_level_3
+    - political
+  - long_name: Andhra Pradesh
+    short_name: AP
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: India
+    short_name: IN
+    types:
+    - country
+    - political
+  - long_name: '517425'
+    short_name: '517425'
+    types:
+    - postal_code
+  longitude: 78.37568999999999
+  name: Sakthi Ferro Alloys India Private Limited
+  openepd_id: 7J4WM9WG+37.saint-gobain.co.in
+  owned_by:
+    address: Egmore, TN, India
+    admin_district: TN
+    admin_district2: Chennai
+    alt_names:
+    - Saint-Gobain India Private Limited
+    confirmable_fields: []
+    confirmed_fields: []
+    country: IN
+    cqd_sync_unlocked: true
+    created_on: '2020-09-22T12:48:43.457690Z'
+    enterprise: true
+    id: 183a22a25f164301809d5f99795e255e
+    is_failed: false
+    latitude: 13.076440811157227
+    locality: Egmore
+    location:
+      adminDistrict: TN
+      adminDistrict2: Chennai
+      countryRegion: India
+      countryRegionIso2: IN
+      formattedAddress: Egmore, India
+      locality: Egmore
+    longitude: 80.26013946533203
+    name: Saint-Gobain India
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/183a22a25f164301809d5f99795e255e
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    updated_on: '2022-09-01T16:12:39.335741Z'
+    web_domain: saint-gobain.co.in
+    website: https://www.saint-gobain.co.in/
+  postal_code: '517425'
+  total_epds: 1
+  type: Plant
+  updated_on: '2024-05-24T16:50:57.115787Z'
+plant_specific: true
+private: false
+product_specific: true
+program_operator:
+  address: "Valhallav\xE4gen 81, 11428 Stockholm"
+  address_line: "81 Valhallav\xE4gen"
+  alt_names:
+  - EnviroDec
+  - environdec
+  - the International EPD System
+  - IES
+  - EPD International
+  - "International EPD\xAE System"
+  - TheInternational EPD System
+  - "The International EPD\xAE System"
+  - The International EPD
+  attachments:
+    General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2019-04-18T13:32:25.465368Z'
+  email_extensions:
+  - environdec.com
+  enterprise: true
+  id: 9857b3f664584fadbadd5e601d9368d4
+  image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+  is_failed: false
+  latitude: 59.34655
+  legal_name: EPD International AB
+  locality: Stockholm
+  location:
+    country: Sweden
+    countryCode: SE
+    countryCodeISO3: SWE
+    freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+    municipality: Stockholm
+    municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+    postalCode: '11428'
+    streetName: "Valhallav\xE4gen"
+    streetNumber: '81'
+  longitude: 18.07285
+  name: EPD International AB
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '11428'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  updated_on: '2024-08-13T12:36:34.205186Z'
+  web_domain: environdec.com
+  website: www.environdec.com
+program_operator_fkey: S-P-12016
+requires_ocr: false
+resource_uses: {}
+sae_standards: []
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3z01kmjk
+stainless: false
+standard_deviation: 57.65996641 kgCO2e
+stored_carbon: 668.512 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 717.1856277 kgCO2e
+uncertainty_factor: 1.0725730570126406
+updated_on: '2024-05-24T16:51:17.744529Z'
+use_stored_carbon: false
+verifier:
+  email: sunilkumar@chakra4.in
+  name: Sunil Kumar C S
+  org:
+    address: 7th Block Road J P Nagar, Bengaluru, Karnataka
+    address_line: ' 7th Block Road J P Nagar'
+    admin_district: Karnataka
+    admin_district2: Bengaluru
+    confirmable_fields: []
+    confirmed_fields: []
+    country: IN
+    cqd_sync_unlocked: true
+    created_on: '2020-11-02T13:53:15.308330Z'
+    enterprise: true
+    id: 8addf2cb8eab4b95b04fb7c870f2ff1a
+    is_failed: false
+    latitude: 12.86901
+    locality: Bengaluru
+    location:
+      country: India
+      countryCode: IN
+      countryCodeISO3: IND
+      countrySecondarySubdivision: Bengaluru
+      countrySubdivision: Karnataka
+      freeformAddress: 7th Block Road J P Nagar, Bengaluru, Karnataka
+      localName: Bengaluru
+      municipality: Bengaluru
+      municipalitySubdivision: JP Nagar IX Phase
+      postalCode: 560062, 560108
+      streetName: 7th Block Road J P Nagar
+    longitude: 77.57009
+    name: Chakra4 Sustainability Consulting Services
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/8addf2cb8eab4b95b04fb7c870f2ff1a
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: 560062, 560108
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    updated_on: '2021-12-31T19:35:47.607207Z'
+    web_domain: chakra4.in
+    website: www.chakra4.in
+warnings:
+  developer:
+  - Developer is not employee of developer org
+  impacts:
+  - Impact set is suspicious by comparing its magnitudes
+  - PCR's required LCIA Method not found in the document
+  - EP-FRESH unit has unexpected dimension
+  - EP-TERRESTRIAL impact not specified
+  steel_post_consumer_recycled_content:
+  - Not specified
+  steel_recycled_content:
+  - Not specified
+  steel_yield_tensile_str:
+  - Not specified

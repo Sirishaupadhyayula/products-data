@@ -1,0 +1,540 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 13.16581906 kgCO2e
+biogenic_embodied_carbon_z: 0.2104756517984919
+box_id: '899169025173'
+category:
+  allows_any_declared_unit: true
+  beta_only: false
+  category_statistics_warning: true
+  created_on: '2019-09-10T11:29:28.686073Z'
+  declared_unit: 1 kg
+  default_distance: 1 km
+  default_transport_mode: none
+  description: A generic category for EPDs/Materials and categories that are explicitly
+    not yet supported by EC3. Assume that any data in this subcategory is unreliable.
+  display_name: Unsupported
+  draft: true
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: ac7f55e033154f4990e2b72c7ffc0c94
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1 kg
+  massless: false
+  masterformat: 00 00 00 No Masterformat Code
+  may_contain_trusted_vendor_declarations: false
+  name: Unsupported
+  no_statistics: true
+  obsolete: false
+  openepd: OtherMaterials >> Unsupported
+  openepd_name: OtherMaterials >> Unsupported
+  parents: []
+  pct10_gwp: 0.1192032994 kgCO2e
+  pct20_gwp: 0.4306329783 kgCO2e
+  pct30_gwp: 1.182474843 kgCO2e
+  pct40_gwp: 2.165922633 kgCO2e
+  pct50_gwp: 3.659294701 kgCO2e
+  pct60_gwp: 6.89621006 kgCO2e
+  pct70_gwp: 17.42095648 kgCO2e
+  pct80_gwp: 46.19042176 kgCO2e
+  pct90_gwp: 172.2185984 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Unsupported
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  updated_on: '2025-09-04T09:15:22.438449Z'
+  use_stored_carbon: OPTIONAL
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 18.83418094 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2021-12-23T14:29:58.155463Z'
+date_of_issue: '2021-04-09'
+date_validity_ends: '2026-09-04'
+declaration_type: Product EPD
+declared_unit: 3.33 kg
+description: 1.2.1   Product Identification
+developer:
+  email: gyprocindia@saint-gobain.com
+  name: Andheri Kurla Road
+  org:
+    address: 130 East Randolph Street, Chicago, IL 60601
+    address_line: 130 East Randolph Street
+    admin_district: IL
+    admin_district2: Cook
+    alt_names:
+    - PE International
+    - thinkstep, Inc.
+    - thinkstep AG
+    - thinkstep
+    - PE INTERNATIONAL AG
+    - Thinkstep AG
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-28T21:38:04.012143Z'
+    email: info@thinkstep.com
+    email_extensions:
+    - thinkstep.com
+    - pe-international.com
+    - sphera.com
+    enterprise: true
+    id: 72d41d92d6d741f68ce626557efcc1c0
+    image: https://static.buildingtransparency.org/images/a82275ae-15d5-4a2f-a24f-5a33d97cdcf2
+    is_failed: false
+    latitude: 41.88507
+    legal_name: Sphera
+    locality: Chicago
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Cook
+      countrySubdivision: IL
+      countrySubdivisionName: Illinois
+      countryTertiarySubdivision: Chicago
+      extendedPostalCode: '606016208'
+      freeformAddress: 130 East Randolph Street, Chicago, IL 60601
+      localName: Chicago
+      municipality: Chicago
+      municipalitySubdivision: Downtown Chicago
+      postalCode: '60601'
+      streetName: East Randolph Street
+      streetNumber: '130'
+    longitude: -87.62311
+    name: Sphera
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/72d41d92d6d741f68ce626557efcc1c0
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '60601'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: true
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    updated_on: '2022-02-02T15:47:47.511452Z'
+    web_domain: sphera.com
+    website: sphera.com
+doc: buildingtransparency.org/e/ec3hmrwnfx
+epd_degraded: true
+excluded: false
+externally_verified: false
+file_name: EPD-Raychem-Insulators_Updated_def.pdf
+gwp: 16 kgCO2e
+gwp_per_category_declared_unit: 16 kgCO2e
+gwp_per_kg: 4.804804805 kgCO2e
+gwp_z: 0.2104756517984919
+id: 7f828c9384694e19aa7f8021926e9c0d
+image: https://static.buildingtransparency.org/images/84fcef3447794399927a9779bbef9dfd.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lowest_plausible_gwp: 13.16581906 kgCO2e
+manufacturer:
+  address: 8F9H+4QM Abu Dhabi - United Arab Emirates
+  admin_district: Abu Dhabi
+  admin_district2: Mumbai
+  alt_names:
+  - M&P
+  confirmable_fields: []
+  confirmed_fields: []
+  country: AE
+  cqd_sync_unlocked: true
+  created_on: '2021-10-19T13:28:01.413646Z'
+  enterprise: false
+  id: 96f2172e32bf4d3b8c748f068f988fa3
+  is_failed: false
+  latitude: 24.3178375
+  locality: Abu Dhabi
+  location:
+  - long_name: 8F9H+4QM
+    short_name: 8F9H+4QM
+    types:
+    - plus_code
+  - long_name: Abu Dhabi
+    short_name: Abu Dhabi
+    types:
+    - locality
+    - political
+  - long_name: Abu Dhabi
+    short_name: Abu Dhabi
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: United Arab Emirates
+    short_name: AE
+    types:
+    - country
+    - political
+  longitude: 54.47942190000001
+  name: Mortar & Plaster
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/96f2172e32bf4d3b8c748f068f988fa3
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '400030'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  updated_on: '2022-05-24T10:04:02.217643Z'
+  web_domain: mpdrymix.com
+  website: www.mpdrymix.com
+manufacturer_specific: true
+mass_per_declared_unit: 3.33 kg
+matched_plants_count: 0
+material_id: a4f6c186cdc440229ea92a2525214d57
+multiproduct: false
+my_capabilities: 1
+name: 'Composite Insulators: EP6683-000_CLP-10-CBM20-110-400, EP6684-000_CS-45-CTP-140-450-M'
+not_an_epd: false
+open_xpd_uuid: ec3hmrwn
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3hmrwn
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2022-07-07T10:49:57.442950Z'
+  date_of_issue: '2020-01-20'
+  date_validity_ends: '2025-01-19'
+  declared_units:
+  - 1 kW
+  doc: https://cqd.app.box.com/file/985378220919
+  id: e2fbce958d20441a8226383bc00d1f76
+  is_failed: false
+  issuer_doc_id: EPDItaly007
+  lcia_requirements:
+    EF 3.0:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: PCR for electronic and electrical products and systems
+  open_xpd_uuid: ec3nd18p
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3nd18p
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3nd18pmb
+  short_name: PCR for electronic and electrical products and systems
+  status: Expired
+  updated_on: '2025-01-20T00:01:15.760336Z'
+  version: '1'
+pct80_gwp_per_category_declared_unit: 18.83418094 kgCO2e
+plant_geography:
+- IN
+plant_or_group:
+  address: Safari Crossing , Near Halol GIDC, Village - Kanjari, Taluka:Halol,, Abhetwa,
+    Halol, Gujarat 389950, India
+  admin_district: GJ
+  admin_district2: Panchmahal
+  alt_names: []
+  carbon_intensity: 1200 kgCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: IN
+  cqd_sync_unlocked: true
+  created_on: '2021-12-23T14:29:57.583781Z'
+  id: 271decad2f4241868f6fabbc51d99165
+  is_failed: false
+  latitude: 22.5278987
+  locality: Halol
+  location:
+  - long_name: Halol
+    short_name: Halol
+    types:
+    - locality
+    - political
+  - long_name: Abhetwa
+    short_name: Abhetwa
+    types:
+    - political
+    - sublocality
+    - sublocality_level_1
+  - long_name: Panchmahal
+    short_name: Panchmahal
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Gujarat
+    short_name: GJ
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: India
+    short_name: IN
+    types:
+    - country
+    - political
+  - long_name: '389950'
+    short_name: '389950'
+    types:
+    - postal_code
+  longitude: 73.4629583
+  name: Halol, GJ
+  openepd_id: 7JJMGFH7+55.mpdrymix.com
+  owned_by:
+    address: 8F9H+4QM Abu Dhabi - United Arab Emirates
+    admin_district: Abu Dhabi
+    admin_district2: Mumbai
+    alt_names:
+    - M&P
+    confirmable_fields: []
+    confirmed_fields: []
+    country: AE
+    cqd_sync_unlocked: true
+    created_on: '2021-10-19T13:28:01.413646Z'
+    enterprise: false
+    id: 96f2172e32bf4d3b8c748f068f988fa3
+    is_failed: false
+    latitude: 24.3178375
+    locality: Abu Dhabi
+    location:
+    - long_name: 8F9H+4QM
+      short_name: 8F9H+4QM
+      types:
+      - plus_code
+    - long_name: Abu Dhabi
+      short_name: Abu Dhabi
+      types:
+      - locality
+      - political
+    - long_name: Abu Dhabi
+      short_name: Abu Dhabi
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: United Arab Emirates
+      short_name: AE
+      types:
+      - country
+      - political
+    longitude: 54.47942190000001
+    name: Mortar & Plaster
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/96f2172e32bf4d3b8c748f068f988fa3
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '400030'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    updated_on: '2022-05-24T10:04:02.217643Z'
+    web_domain: mpdrymix.com
+    website: www.mpdrymix.com
+  postal_code: '389950'
+  total_epds: 1
+  type: Plant
+  updated_on: '2022-07-12T10:54:11.550707Z'
+plant_specific: true
+private: false
+product_specific: true
+program_operator:
+  address: Milan, Lomb., Italy
+  admin_district: Lomb.
+  admin_district2: Milan
+  alt_names:
+  - EPDItaly
+  confirmable_fields: []
+  confirmed_fields: []
+  country: IT
+  cqd_sync_unlocked: true
+  created_on: '2021-01-19T12:26:12.179543Z'
+  enterprise: true
+  id: b011aec992e745f082afafb210c3ec1b
+  is_failed: false
+  latitude: 45.463619232177734
+  locality: Milan
+  location:
+    adminDistrict: Lomb.
+    adminDistrict2: Milan
+    countryRegion: Italy
+    countryRegionIso2: IT
+    formattedAddress: Milan, Lomb., Italy
+    locality: Milan
+  longitude: 9.188116073608398
+  name: EPD Italy
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/b011aec992e745f082afafb210c3ec1b
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - IT
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  updated_on: '2024-07-24T16:52:59.588247Z'
+  web_domain: epditaly.it
+  website: https://www.epditaly.it/
+program_operator_fkey: RAYCHEM_CFP_EPD-001
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3hmrwnfx
+standard_deviation: 3.367610429 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 18.83418094 kgCO2e
+uncertainty_factor: 1.1771363085536108
+updated_on: '2024-03-14T03:11:15.230141Z'
+use_stored_carbon: false
+verifier:
+  email: gyprocindia@saint-gobain.com
+  name: Andheri Kurla Road
+  org:
+    address: Cruicetown, Navan Road, Co. Meath, Ireland
+    admin_district: MH
+    admin_district2: Pima County
+    alt_names:
+    - Gyproc Saint-Gobain
+    - Saint-Gobain Gypsum
+    - Gyproc AS (Norway)
+    - Gyproc Russia
+    - Gyproc Thailand
+    - Gyproc A/S (Denmark)
+    - Saint-Gobain Gyproc SA
+    - Saint-Gobain Gyproc - Gyproc Abu Dhabi
+    - Gyproc AB (Sweden)
+    - Saint-Gobain Gyproc Thailand
+    - Gypsum Industries Limited
+    - Saint-Gobain Gyproc India
+    - Saint-Gobain Construction Products Finland
+    - Saint-Gobain Construction Products Russia
+    - Saint-Gobain Construction Product Vietnam (SGCPV)
+    - Saint-Gobain Construction Products Romania, Rigips Bus...
+    - Saint-Gobain Construction Products Hungary Kft.
+    - Saint-Gobain Construction Products Polska Sp. z o.o
+    confirmable_fields: []
+    confirmed_fields: []
+    country: IE
+    cqd_sync_unlocked: true
+    created_on: '2019-10-15T18:40:47.361940Z'
+    email_extensions: []
+    enterprise: true
+    id: 23e296bb11864eef8a3e0098ba5a29c8
+    is_failed: false
+    latitude: 53.69745
+    locality: Navan Road
+    location:
+    - long_name: Navan Road
+      short_name: Navan Road
+      types:
+      - locality
+      - political
+    - long_name: Cruicetown
+      short_name: Cruicetown
+      types:
+      - neighborhood
+      - political
+    - long_name: County Meath
+      short_name: MH
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Ireland
+      short_name: IE
+      types:
+      - country
+      - political
+    longitude: -6.5996
+    name: Gyproc Saint-Gobain
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/23e296bb11864eef8a3e0098ba5a29c8
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '85706'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    updated_on: '2022-09-01T16:14:24.025820Z'
+    web_domain: saint-gobain-gyproc.com
+    website: http://www.saint-gobain-gyproc.com
+warnings:
+  category:
+  - Cannot recognize material category
+  density:
+  - Not specified
+  developer:
+  - Developer is not employee of developer org
+  impacts:
+  - Impact set is suspicious by having equal magnitudes
+  - PCR's required LCIA Method not found in the document
+  - AP impact not specified
+  - EP-TERRESTRIAL impact not specified

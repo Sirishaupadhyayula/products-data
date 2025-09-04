@@ -1,0 +1,502 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 1.535019214 kgCO2e
+biogenic_embodied_carbon_z: 0.2903446228191595
+box_id: '731003187467'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2024-07-22T09:01:11Z'
+  declared_unit: 1 m2
+  description: Paintings and coatings measured by area of host surface covered by
+    the ready-to-use product.
+  display_name: Paint By Area
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: 39f098d4c80648cbb524169224288ad5
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 0.1145833333 kg
+  massless: false
+  masterformat: 09 90 00 Painting and Coating
+  may_contain_trusted_vendor_declarations: false
+  name: PaintByArea
+  no_statistics: false
+  obsolete: false
+  openepd: Finishes >> PaintingAndCoating >> PaintByArea
+  openepd_name: Finishes >> PaintingAndCoating >> PaintByArea
+  parents: []
+  pct10_gwp: 0.1786864238 kgCO2e
+  pct20_gwp: 0.2361166168 kgCO2e
+  pct30_gwp: 0.2693487484 kgCO2e
+  pct40_gwp: 0.305114613 kgCO2e
+  pct50_gwp: 0.3413434865 kgCO2e
+  pct60_gwp: 0.3868281506 kgCO2e
+  pct70_gwp: 0.505207738 kgCO2e
+  pct80_gwp: 0.7664619692 kgCO2e
+  pct90_gwp: 1.576679741 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: By Area
+  short_service_life_disclaimer: true
+  subcategories: []
+  updated_on: '2025-09-04T09:15:13.954895Z'
+  use_stored_carbon: ABSENT
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 2.527780786 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2020-10-17T02:56:59.718949Z'
+date_of_issue: '2020-07-24'
+date_validity_ends: '2025-07-23'
+declaration_type: Product EPD
+declared_unit: 1 m2
+density: 2500 kg / m3
+description: This Environmental Product Declaration covers 49 water-based products
+  of Berger Paints India Limited. The water-based products are classified into Interior
+  Wall Coatings, Exterior Wall Coatings, Undercoats and Construction Chemicals. All
+  the Water-based products consists of pigments, filler, extenders, binder and other
+  additives, all dissolved in water. It emits low level of volatile organic compound
+  (VOC) as compared to other product types. This makes them environmentally friendly
+  product with minimal to zero harmful effects on your health. Paints are most commonly
+  used to protect, colour, or provide texture to objects.
+developer:
+  email: rajesh.singh@thinkstep.com
+  name: Rajesh Kumar Singh
+  org:
+    address: 7500 Stewart Ave, Wausau, WI 54401, USA
+    address_line: 7500 Stewart Ave
+    admin_district: WI
+    admin_district2: Marathon County
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2022-02-03T17:40:00.183142Z'
+    enterprise: false
+    id: 215fe49edac1494f85255ad38e55ea12
+    invalid_after: '2015-01-01'
+    is_failed: false
+    latitude: 44.9562397
+    locality: Wausau
+    location:
+    - long_name: '7500'
+      short_name: '7500'
+      types:
+      - street_number
+    - long_name: Stewart Avenue
+      short_name: Stewart Ave
+      types:
+      - route
+    - long_name: Wausau
+      short_name: Wausau
+      types:
+      - locality
+      - political
+    - long_name: Marathon County
+      short_name: Marathon County
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Wisconsin
+      short_name: WI
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: United States
+      short_name: US
+      types:
+      - country
+      - political
+    - long_name: '54401'
+      short_name: '54401'
+      types:
+      - postal_code
+    longitude: -89.73007299999999
+    name: thinkstep AG
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/215fe49edac1494f85255ad38e55ea12
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '54401'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    updated_on: '2022-03-14T14:05:21.980894Z'
+    web_domain: thinkstep.com
+    website: https://thinkstep.com/
+doc: buildingtransparency.org/e/ec3e6yyn40
+document_version: '2020-07-24'
+epd_degraded: false
+excluded: false
+externally_verified: true
+file_name: S-P-01419EPD.pdf
+gwp: 2.0314 kgCO2e
+gwp_per_category_declared_unit: 2.0314 kgCO2e
+gwp_per_kg: 18.46727273 kgCO2e
+gwp_z: 0.2903446228191595
+id: 0181dc217bc24a92953cc827045b633a
+image: https://static.buildingtransparency.org/images/1ebda4e2504d41a2820713e4bb48c92c.png
+impacts: {}
+industry_standards: []
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lowest_plausible_gwp: 1.535019214 kgCO2e
+manufacturer:
+  address: Agha Mehdi Street, Kolkata, West Bengal
+  address_line: ' Agha Mehdi Street'
+  admin_district: West Bengal
+  admin_district2: Kolkata
+  confirmable_fields: []
+  confirmed_fields: []
+  country: IN
+  cqd_sync_unlocked: true
+  created_on: '2020-11-17T16:55:23.001671Z'
+  enterprise: true
+  id: b4e4429b747c409a97f24a99711528f2
+  is_failed: false
+  latitude: 22.55579
+  locality: Kolkata
+  location:
+    country: India
+    countryCode: IN
+    countryCodeISO3: IND
+    countrySecondarySubdivision: Kolkata
+    countrySubdivision: West Bengal
+    freeformAddress: Agha Mehdi Street, Kolkata, West Bengal
+    localName: Kolkata
+    municipality: Kolkata
+    streetName: Agha Mehdi Street
+  longitude: 88.36187
+  name: Berger Paints India Limited
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/b4e4429b747c409a97f24a99711528f2
+  password_login_allowed: true
+  pilot_all_employees: false
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  updated_on: '2022-06-29T04:14:56.487776Z'
+  web_domain: bergerpaints.com
+  website: https://www.bergerpaints.com/
+manufacturer_specific: true
+mass_per_declared_unit: 0.11 kg
+matched_plants_count: 0
+material_id: ea52f06136c84610ae5986079f2cf520
+multiproduct: false
+my_capabilities: 1
+name: Berger Paints (Water-Based)
+not_an_epd: false
+open_xpd_uuid: ec3e6yyn
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3e6yyn
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2023-05-05T09:40:20.659202Z'
+  date_of_issue: '2020-09-18'
+  date_validity_ends: '2022-02-28'
+  doc: https://api.environdec.com/api/v1/EPDLibrary/Files/e1c50da7-1658-4a51-3a24-08d99c9745fc/Data
+  errors:
+    declared_units:
+    - Not specified
+  failures:
+    declared_units:
+    - Not specified
+  id: 3838a63e9d524999a7bf02cc6985ba83
+  is_failed: false
+  name: PCR 2012:01 Construction products and construction services (EN 15804:A1)
+    (expired) (2.34)
+  open_xpd_uuid: ec3a0j0t
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3a0j0t
+  short_link: buildingtransparency.org/p/ec3a0j0tzn
+  short_name: Construction products and construction services (EN 15804:A1) (expired)
+  status: Expired
+  updated_on: '2023-06-01T00:01:11.155590Z'
+  version: '2.34'
+pcr_notes: 'Described list of products: Bison Acrylic Emulsion, Bison Acrylic Distemper,
+  Easy Clean, Rangoli Total Care, Silk, Silk Illusion, BSE Glow, Silk Glamour, Easy
+  Clean Fresh, Easy Clean Matt, Silk BreatheEasy, Berger Never Miss, BSE Lite White
+  Base, Walmasta, Weathercoat All-Guard, Weathercoat Long Life, Weathercoat Smooth,
+  Weathercoat Floor Protektor, Walmasta Glow, Weathercoat AntiDustt, Weathercoat Champ,
+  Weathercoat Tartaruga, Weathercoat Texture, Weathercoat Hi-build, Ruff N Tuff -
+  Scratch, Ruff N Tuff - Pearl, Ruff N Tuff - Dholpur, Ruff N Tuff - Rollercoat, Ruff
+  N Tuff - Rollercast, Solitaire Stone, Solitaire Granite, Florentine Glitteratti,
+  Florentina Sandstone, Florentina Imprint, Florentina Vintage, Walmasta Lite, BP
+  White Primer W/T, BP Cement Primer W/T, Weathercoat Exterior Primer, Seal-O-Prime
+  W/T, BP Exterior Cement Primer'
+pct80_gwp_per_category_declared_unit: 2.527780786 kgCO2e
+plant_geography:
+- IN
+plant_or_group:
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2020-11-18T12:55:41.547218Z'
+  id: 200108c93e9f47fda58d87901ae5a7ea
+  is_failed: false
+  jurisdiction:
+  - IN
+  name: 8 plants of Berger Paints India Limited
+  owned_by:
+    address: Agha Mehdi Street, Kolkata, West Bengal
+    address_line: ' Agha Mehdi Street'
+    admin_district: West Bengal
+    admin_district2: Kolkata
+    confirmable_fields: []
+    confirmed_fields: []
+    country: IN
+    cqd_sync_unlocked: true
+    created_on: '2020-11-17T16:55:23.001671Z'
+    enterprise: true
+    id: b4e4429b747c409a97f24a99711528f2
+    is_failed: false
+    latitude: 22.55579
+    locality: Kolkata
+    location:
+      country: India
+      countryCode: IN
+      countryCodeISO3: IND
+      countrySecondarySubdivision: Kolkata
+      countrySubdivision: West Bengal
+      freeformAddress: Agha Mehdi Street, Kolkata, West Bengal
+      localName: Kolkata
+      municipality: Kolkata
+      streetName: Agha Mehdi Street
+    longitude: 88.36187
+    name: Berger Paints India Limited
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/b4e4429b747c409a97f24a99711528f2
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    updated_on: '2022-06-29T04:14:56.487776Z'
+    web_domain: bergerpaints.com
+    website: https://www.bergerpaints.com/
+  plants_count: 0
+  total_epds: 13
+  type: PlantGroup
+  updated_on: '2020-11-18T12:55:41.547227Z'
+plant_specific: false
+private: false
+product_specific: true
+program_operator:
+  address: "Valhallav\xE4gen 81, 11428 Stockholm"
+  address_line: "81 Valhallav\xE4gen"
+  alt_names:
+  - EnviroDec
+  - environdec
+  - the International EPD System
+  - IES
+  - EPD International
+  - "International EPD\xAE System"
+  - TheInternational EPD System
+  - "The International EPD\xAE System"
+  - The International EPD
+  attachments:
+    General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2019-04-18T13:32:25.465368Z'
+  email_extensions:
+  - environdec.com
+  enterprise: true
+  id: 9857b3f664584fadbadd5e601d9368d4
+  image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+  is_failed: false
+  latitude: 59.34655
+  legal_name: EPD International AB
+  locality: Stockholm
+  location:
+    country: Sweden
+    countryCode: SE
+    countryCodeISO3: SWE
+    freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+    municipality: Stockholm
+    municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+    postalCode: '11428'
+    streetName: "Valhallav\xE4gen"
+    streetNumber: '81'
+  longitude: 18.07285
+  name: EPD International AB
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '11428'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  updated_on: '2024-08-13T12:36:34.205186Z'
+  web_domain: environdec.com
+  website: www.environdec.com
+program_operator_fkey: S-P-01419
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3e6yyn40
+standard_deviation: 0.5898060668 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 2.527780786 kgCO2e
+uncertainty_factor: 1.2443540345646047
+updated_on: '2025-01-28T03:36:07.049641Z'
+use_stored_carbon: false
+verifier:
+  email: hudai.kara@metsims.com
+  name: Hudai Kara
+  org:
+    address: 4 Clearwater Pl, Oxford OX2 7NL, UK
+    address_line: 4 Clearwater Pl
+    admin_district: England
+    admin_district2: Oxfordshire
+    confirmable_fields: []
+    confirmed_fields: []
+    country: GB
+    cqd_sync_unlocked: true
+    created_on: '2020-08-05T16:51:17.469781Z'
+    email_extensions:
+    - metsims.com
+    enterprise: true
+    id: 2f5d682725cc405ab8849e8f25769c6a
+    image: https://static.buildingtransparency.org/images/2ffceb6c62eb45f4862928b9344ed7c2.png
+    is_failed: false
+    latitude: 51.7734539
+    legal_name: Metsims Limited
+    locality: Oxford
+    location:
+    - long_name: '4'
+      short_name: '4'
+      types:
+      - street_number
+    - long_name: Clearwater Place
+      short_name: Clearwater Pl
+      types:
+      - route
+    - long_name: Oxford
+      short_name: Oxford
+      types:
+      - postal_town
+    - long_name: Oxfordshire
+      short_name: Oxfordshire
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: England
+      short_name: England
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: United Kingdom
+      short_name: GB
+      types:
+      - country
+      - political
+    - long_name: OX2 7NL
+      short_name: OX2 7NL
+      types:
+      - postal_code
+    longitude: -1.2700055
+    name: Metsims Sustainability Consulting
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/2f5d682725cc405ab8849e8f25769c6a
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: OX2 7NL
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    updated_on: '2024-09-05T10:07:50.465795Z'
+    web_domain: metsims.com
+    website: https://www.metsims.com/
+warnings:
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified

@@ -1,0 +1,494 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 3.118031051 kgCO2e
+biogenic_embodied_carbon_z: 0.2903446228191595
+box_id: '1426290395861'
+category:
+  allows_any_declared_unit: false
+  beta_only: true
+  category_statistics_warning: false
+  created_on: '2022-05-18T14:05:17Z'
+  declared_unit: 1 m2
+  default_distance: 1647.968 km
+  default_transport_mode: truck, unspecified
+  description: Composite siding product made of cement and cellulose fibers.
+  display_name: Fiber-cement Siding
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: ad56c06d77e64ca6881bf08d48f31919
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 16.1 kg
+  massless: false
+  masterformat: 07 46 46 Fiber-Cement Siding
+  may_contain_trusted_vendor_declarations: false
+  name: FiberCementSiding
+  no_statistics: false
+  obsolete: false
+  openepd: Cladding >> Siding >> FiberCementSiding
+  openepd_name: Cladding >> Siding >> FiberCementSiding
+  parents: []
+  pct10_gwp: 5.656833441 kgCO2e
+  pct20_gwp: 7.267027562 kgCO2e
+  pct30_gwp: 8.467829205 kgCO2e
+  pct40_gwp: 9.154886375 kgCO2e
+  pct50_gwp: 10.2870748 kgCO2e
+  pct60_gwp: 11.96312265 kgCO2e
+  pct70_gwp: 14.31397751 kgCO2e
+  pct80_gwp: 16.04892181 kgCO2e
+  pct90_gwp: 24.32634311 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Fiber-cement
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  updated_on: '2025-09-04T09:15:19.624219Z'
+  use_stored_carbon: REQUIRED
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 5.134593045 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2024-01-26T18:16:46.793801Z'
+date_of_issue: '2022-07-28'
+date_validity_ends: '2027-08-27'
+declaration_type: Product EPD
+declared_unit: 1.0 m^2
+description: 'Vboard (Fibre cement board) product is generally made by mixing the
+  raw materials like silica, cellulose fibre, cement, Fly ash, additives etc. with
+  water to form a slurry as per IS:14862- 2000. The sheet is made by the use of a
+  laminar process method. This method gives the sheet an uniform thickness. Upon producing
+  the sheet, it is then pre- dried and auto-claved to gain the required material (physical
+  mechanical) strength. The Vboards are manufactured in range of different size and
+  thickness ranging from 4mm-25mm
+
+  The Vboard has a wide range of applications like Fire rated acoustic partitions,
+  Acoustic partitions, Wall panelling, Grid false ceiling, seamless false ceiling,
+  mezzanine flooring, kitchen cabinets, Wardrobes, etc.'
+developer:
+  email: info@environdec.com
+  name: International EPD System Staff
+  org:
+    address: "Valhallav\xE4gen 81, 11428 Stockholm"
+    address_line: "81 Valhallav\xE4gen"
+    alt_names:
+    - EnviroDec
+    - environdec
+    - the International EPD System
+    - IES
+    - EPD International
+    - "International EPD\xAE System"
+    - TheInternational EPD System
+    - "The International EPD\xAE System"
+    - The International EPD
+    attachments:
+      General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+    confirmable_fields: []
+    confirmed_fields: []
+    country: SE
+    cqd_sync_unlocked: true
+    created_on: '2019-04-18T13:32:25.465368Z'
+    email_extensions:
+    - environdec.com
+    enterprise: true
+    id: 9857b3f664584fadbadd5e601d9368d4
+    image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+    is_failed: false
+    latitude: 59.34655
+    legal_name: EPD International AB
+    locality: Stockholm
+    location:
+      country: Sweden
+      countryCode: SE
+      countryCodeISO3: SWE
+      freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+      municipality: Stockholm
+      municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+      postalCode: '11428'
+      streetName: "Valhallav\xE4gen"
+      streetNumber: '81'
+    longitude: 18.07285
+    name: EPD International AB
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - '150'
+    postal_code: '11428'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    updated_on: '2024-08-13T12:36:34.205186Z'
+    web_domain: environdec.com
+    website: www.environdec.com
+doc: buildingtransparency.org/e/ec3rtwuhn4
+document_version: '2022-07-28'
+epd_degraded: true
+excluded: false
+externally_verified: true
+file_name: S-P-06083%20Vnext-%20Fiber%20Cement%20Boards_dfd801204a1ad1d6c293ac5e4e3fa94a64bd6251.pdf
+gwp: 4.126312048 kgCO2e
+gwp_per_category_declared_unit: 4.126312048 kgCO2e
+gwp_z: 0.2903446228191595
+id: 0fea2f35a849423fa5c859fc6b747445
+image: https://static.buildingtransparency.org/images/f6f8d8d32b6446bab4f6ae67f66c1a6c.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lowest_plausible_gwp: 3.118031051 kgCO2e
+manufacturer:
+  address: India
+  confirmable_fields: []
+  confirmed_fields: []
+  country: IN
+  cqd_sync_unlocked: true
+  created_on: '2024-01-26T18:16:46.532814Z'
+  enterprise: false
+  id: 8a6874731bca4f46a53349d6dd54e49b
+  is_failed: false
+  latitude: 22.351993560791016
+  location:
+    countryRegion: India
+    countryRegionIso2: IN
+    formattedAddress: India
+  longitude: 79.36287689208984
+  name: Visaka Industries Limited
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/8a6874731bca4f46a53349d6dd54e49b
+  password_login_allowed: true
+  pilot_all_employees: false
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  updated_on: '2024-01-26T18:16:46.532819Z'
+  web_domain: visaka.co
+  website: https://www.visaka.co/
+manufacturer_specific: true
+matched_plants_count: 0
+material_id: 16d1f377611045d0a1d86262f0b5a783
+multiproduct: false
+my_capabilities: 1
+name: S-P-06083 Vnext- Fiber Cement Boards
+not_an_epd: false
+open_xpd_uuid: ec3rtwuh
+original_data_format: pdf_mixed
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3rtwuh
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2023-05-05T09:40:20.599644Z'
+  date_of_issue: '2022-11-01'
+  date_validity_ends: '2024-12-20'
+  doc: https://api.environdec.com/api/v1/EPDLibrary/Files/04600e1f-ab96-4e05-9040-08dabb52e166/Data
+  errors:
+    declared_units:
+    - Not specified
+  failures:
+    declared_units:
+    - Not specified
+  id: b17de4e528e34059856423c075d5817f
+  is_failed: false
+  name: PCR 2019:14 Construction products (EN 15804:A2) (1.2.5)
+  open_xpd_uuid: ec3urp21
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3urp21
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3urp21sh
+  short_name: Construction products (EN 15804:A2)
+  status: Expired
+  updated_on: '2024-12-21T04:05:09.395511Z'
+  version: 1.2.5
+pct80_gwp_per_category_declared_unit: 5.134593045 kgCO2e
+plant_geography:
+- IN
+plant_or_group:
+  address: Miryalaguda, Telangana 508207, India
+  admin_district: TS
+  carbon_intensity: 1200 kgCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: IN
+  cqd_sync_unlocked: true
+  created_on: '2024-03-15T00:15:48.668053Z'
+  id: c55aa455939f4b228f488b95b486ce6f
+  is_failed: false
+  latitude: 16.8738909
+  locality: Miryalaguda
+  location:
+  - long_name: Miryalaguda
+    short_name: Miryalaguda
+    types:
+    - locality
+    - political
+  - long_name: Nalgonda
+    short_name: Nalgonda
+    types:
+    - administrative_area_level_3
+    - political
+  - long_name: Telangana
+    short_name: TS
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: India
+    short_name: IN
+    types:
+    - country
+    - political
+  - long_name: '508207'
+    short_name: '508207'
+    types:
+    - postal_code
+  longitude: 79.56616939999999
+  name: Vnext Panels
+  openepd_id: 7J8XVHF8+HF.visaka.co
+  owned_by:
+    address: India
+    confirmable_fields: []
+    confirmed_fields: []
+    country: IN
+    cqd_sync_unlocked: true
+    created_on: '2024-01-26T18:16:46.532814Z'
+    enterprise: false
+    id: 8a6874731bca4f46a53349d6dd54e49b
+    is_failed: false
+    latitude: 22.351993560791016
+    location:
+      countryRegion: India
+      countryRegionIso2: IN
+      formattedAddress: India
+    longitude: 79.36287689208984
+    name: Visaka Industries Limited
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/8a6874731bca4f46a53349d6dd54e49b
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    updated_on: '2024-01-26T18:16:46.532819Z'
+    web_domain: visaka.co
+    website: https://www.visaka.co/
+  postal_code: '508207'
+  total_epds: 2
+  type: Plant
+  updated_on: '2024-03-15T00:15:48.668063Z'
+plant_specific: false
+private: false
+product_specific: true
+program_operator:
+  address: "Valhallav\xE4gen 81, 11428 Stockholm"
+  address_line: "81 Valhallav\xE4gen"
+  alt_names:
+  - EnviroDec
+  - environdec
+  - the International EPD System
+  - IES
+  - EPD International
+  - "International EPD\xAE System"
+  - TheInternational EPD System
+  - "The International EPD\xAE System"
+  - The International EPD
+  attachments:
+    General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2019-04-18T13:32:25.465368Z'
+  email_extensions:
+  - environdec.com
+  enterprise: true
+  id: 9857b3f664584fadbadd5e601d9368d4
+  image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+  is_failed: false
+  latitude: 59.34655
+  legal_name: EPD International AB
+  locality: Stockholm
+  location:
+    country: Sweden
+    countryCode: SE
+    countryCodeISO3: SWE
+    freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+    municipality: Stockholm
+    municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+    postalCode: '11428'
+    streetName: "Valhallav\xE4gen"
+    streetNumber: '81'
+  longitude: 18.07285
+  name: EPD International AB
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '11428'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  updated_on: '2024-08-13T12:36:34.205186Z'
+  web_domain: environdec.com
+  website: www.environdec.com
+program_operator_fkey: S-P-06083
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3rtwuhn4
+siding_insulated: false
+siding_paint_or_stain_required: true
+siding_ventilated: false
+standard_deviation: 1.198052515 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 5.134593045 kgCO2e
+uncertainty_factor: 1.2443540345646047
+updated_on: '2024-04-10T17:34:35.881533Z'
+use_stored_carbon: true
+verifier:
+  email: info@environdec.com
+  name: International EPD System Staff
+  org:
+    address: "Valhallav\xE4gen 81, 11428 Stockholm"
+    address_line: "81 Valhallav\xE4gen"
+    alt_names:
+    - EnviroDec
+    - environdec
+    - the International EPD System
+    - IES
+    - EPD International
+    - "International EPD\xAE System"
+    - TheInternational EPD System
+    - "The International EPD\xAE System"
+    - The International EPD
+    attachments:
+      General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+    confirmable_fields: []
+    confirmed_fields: []
+    country: SE
+    cqd_sync_unlocked: true
+    created_on: '2019-04-18T13:32:25.465368Z'
+    email_extensions:
+    - environdec.com
+    enterprise: true
+    id: 9857b3f664584fadbadd5e601d9368d4
+    image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+    is_failed: false
+    latitude: 59.34655
+    legal_name: EPD International AB
+    locality: Stockholm
+    location:
+      country: Sweden
+      countryCode: SE
+      countryCodeISO3: SWE
+      freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+      municipality: Stockholm
+      municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+      postalCode: '11428'
+      streetName: "Valhallav\xE4gen"
+      streetNumber: '81'
+    longitude: 18.07285
+    name: EPD International AB
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - '150'
+    postal_code: '11428'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    updated_on: '2024-08-13T12:36:34.205186Z'
+    web_domain: environdec.com
+    website: www.environdec.com
+warnings:
+  density:
+  - Not specified
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - ODP impact not specified
+  - EP-FRESH impact not specified
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified

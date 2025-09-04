@@ -1,0 +1,517 @@
+acid_etched: false
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 1800.704336 kgCO2e
+biogenic_embodied_carbon_z: 0.2903446228191595
+box_id: '1426298173560'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2022-05-10T14:05:46Z'
+  declared_unit: 1 m2
+  default_distance: 1437.14062 km
+  default_transport_mode: truck, unspecified
+  description: 'Solid glass panes without internal gaps which have been heat-treated
+    or otherwise substantially processed. Includes:
+
+    1. Coatings including low-e and other coatings (see PCR)
+
+    2. laminating (fire-rated, glass clad polycarbonate, interlayers
+
+    3. Heat treated (heat strengthened, tempered, fire-rated)
+
+    4. Mechanically or chemically processed or fabricated (edging, bending, etching,
+    drilling, notching, cutting, polishing, etc)
+
+    5. combined products of processing in 1-5.'
+  display_name: Processed Non-insulating Glass Panes
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: 6daae3d967104f5c8c85199b259f58c8
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 24.5 kg
+  massless: false
+  masterformat: 08 81 00 Glass Glazing
+  may_contain_trusted_vendor_declarations: false
+  name: ProcessedNonInsulatingGlassPanes
+  no_statistics: false
+  obsolete: false
+  openepd: Openings >> Glazing >> GlassPanes >> ProcessedNonInsulatingGlassPanes
+  openepd_name: Openings >> Glazing >> GlassPanes >> ProcessedNonInsulatingGlassPanes
+  parents: []
+  pct10_gwp: 6.175052724 kgCO2e
+  pct20_gwp: 20.15853536 kgCO2e
+  pct30_gwp: 33.79665558 kgCO2e
+  pct40_gwp: 60.35134068 kgCO2e
+  pct50_gwp: 83.37172032 kgCO2e
+  pct60_gwp: 120.824288 kgCO2e
+  pct70_gwp: 149.0736133 kgCO2e
+  pct80_gwp: 187.4893111 kgCO2e
+  pct90_gwp: 278.7277361 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Processed Glass
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  updated_on: '2025-09-04T09:15:21.439511Z'
+  use_stored_carbon: ABSENT
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 2965.295664 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2024-01-26T18:27:59.546954Z'
+date_of_issue: '2022-04-30'
+date_validity_ends: '2027-04-29'
+declaration_type: Product EPD
+declared_unit: 1.0 t
+description: 'After produce the bare pipes if required by customer, by using of water
+  based paint, Pipes may be protect. It is used in application areas such as firefighting
+  and utility water to increase corrosion resistance.
+
+  Note: Standard coating colors are Red, Blue, Grey, Green and Black.
+
+  Coating Standards
+
+  Epoxy Coating: EN ISO 12944-5, ANSI/AWWA C210 and as per customer requirement
+
+  Product Useage Area
+
+  Water Pipes: It is generally used in the transmission and distribution of non-flammable
+  light gases and liquids. It is used in applications such as water installation lines,
+  light gas lines, fire safety lines, water well lines, sleeve manufacturing, elbow
+  manufacturing, greenhouse constructions, and irrigation systems.
+
+  Length: 3.0 - 12.0 m
+
+  Industrial Pipes: It is used in sectors and applications such as construction structures,
+  automotive, machine manufacturing, scaffolding and formwork, conveyor, rack systems,
+  roof systems, furniture, piles and tunnels.
+
+  Scaffolding Pipes: It is used in scaffolding and formwork structures.
+
+  Boiler Pipes: It is used for the transmission of non-combustible and non-explosive
+  liquids at high temperature and pressure.
+
+  Threaded end, Bevel end, Plain end and Groove end Pipes: It is used in all installation
+  and construction areas of coupled connections.
+
+  Heat-Treated and Hot-Finished Pipes: It is used in all constructions with its mechanical
+  properties and improved grain structure by cold forming and heat treatment.'
+developer:
+  email: info@semtrio.com
+  name: "Ing. Luca Giacomello, PMP\xAE"
+  org:
+    confirmable_fields: []
+    confirmed_fields: []
+    cqd_sync_unlocked: true
+    created_on: '2021-11-08T10:52:39.989946Z'
+    enterprise: false
+    id: 11698ad0c0044db8be4cebaeec8f6b62
+    is_failed: false
+    name: Semtrio Sustainability Consulting
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/11698ad0c0044db8be4cebaeec8f6b62
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: false
+    updated_on: '2024-06-20T21:52:01.823392Z'
+    warnings:
+      address:
+      - Not specified
+    web_domain: semtrio.com
+    website: www.semtrio.com
+doc: buildingtransparency.org/e/ec3kjfbywz
+document_version: '2022-04-30'
+electrochromic: false
+epd_degraded: false
+errors: {}
+excluded: false
+externally_verified: true
+failures:
+  declared_unit:
+  - Declared unit not in same dimension with category declared unit
+file_name: S-P-06081%20ERW%20Epoxy%20Coated%20Steel%20Pipes_8e1cc6ad1d4cc11d7c6d94e4fda370cf65849bcc.pdf
+fire_protection: false
+fire_resistant: false
+gwp: 2383 kgCO2e
+gwp_per_kg: 2.383 kgCO2e
+gwp_z: 0.2903446228191595
+id: d11d61b83d134289a736409527fdd87f
+image: https://static.buildingtransparency.org/images/c4a506d2bcb3499e9fed28ef1ed19b6b.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+laminated: false
+language: en
+low_emissivity: true
+lowest_plausible_gwp: 1800.704336 kgCO2e
+manufacturer:
+  address: India
+  confirmable_fields: []
+  confirmed_fields: []
+  country: IN
+  cqd_sync_unlocked: true
+  created_on: '2024-01-26T15:00:23.774275Z'
+  enterprise: false
+  id: 8795f160091f4ce095dc165fc87bff06
+  is_failed: false
+  latitude: 22.351993560791016
+  location:
+    countryRegion: India
+    countryRegionIso2: IN
+    formattedAddress: India
+  longitude: 79.36287689208984
+  name: Goodluck India Limited
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/8795f160091f4ce095dc165fc87bff06
+  password_login_allowed: true
+  pilot_all_employees: false
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  updated_on: '2024-01-26T15:00:23.774280Z'
+  web_domain: goodluckindia.com
+  website: https://www.goodluckindia.com/
+manufacturer_specific: true
+mass_per_declared_unit: 1000 kg
+matched_plants_count: 0
+material_id: b16b7b0ad41b441180db0a0b1f2d122e
+multiproduct: false
+my_capabilities: 1
+name: S-P-06081 ERW Epoxy Coated Steel Pipes
+not_an_epd: false
+open_xpd_uuid: ec3kjfby
+original_data_format: pdf_mixed
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3kjfby
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-04-02T18:26:34.309086Z'
+  date_of_issue: '2024-03-01'
+  date_validity_ends: '2024-12-20'
+  doc: https://api.environdec.com/api/v1/EPDLibrary/Files/cfb8786b-c166-4d25-02ed-08dc38ee8ac8/Data
+  errors:
+    declared_units:
+    - Not specified
+  failures:
+    declared_units:
+    - Not specified
+  id: 79f87426c5154d8f878af1a15562e9d3
+  is_failed: false
+  name: PCR 2019:14 Construction products (EN 15804+A2) (1.3.3)
+  open_xpd_uuid: ec3pks1a
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3pks1a
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3pks1akr
+  short_name: Construction products (EN 15804+A2)
+  status: Expired
+  updated_on: '2024-12-21T04:05:11.344807Z'
+  version: 1.3.3
+plant_geography:
+- IN
+plant_or_group:
+  address: 78VX+JXV, Ramwadi, Bhachau, Gujarat 370140, India
+  admin_district: GJ
+  carbon_intensity: 1200 kgCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: IN
+  cqd_sync_unlocked: true
+  created_on: '2024-03-14T23:49:09.663900Z'
+  id: 808b5693a26849c9bddb183e8cdf09de
+  is_failed: false
+  latitude: 23.2941125
+  locality: Bhachau
+  location:
+  - long_name: 78VX+JXV
+    short_name: 78VX+JXV
+    types:
+    - plus_code
+  - long_name: Ramwadi
+    short_name: Ramwadi
+    types:
+    - political
+    - sublocality
+    - sublocality_level_1
+  - long_name: Bhachau
+    short_name: Bhachau
+    types:
+    - locality
+    - political
+  - long_name: Kachchh
+    short_name: Kachchh
+    types:
+    - administrative_area_level_3
+    - political
+  - long_name: Gujarat
+    short_name: GJ
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: India
+    short_name: IN
+    types:
+    - country
+    - political
+  - long_name: '370140'
+    short_name: '370140'
+    types:
+    - postal_code
+  longitude: 70.3499219
+  name: Goodluck Metallics
+  openepd_id: 7JMG78VX+JX.goodluckindia.com
+  owned_by:
+    address: India
+    confirmable_fields: []
+    confirmed_fields: []
+    country: IN
+    cqd_sync_unlocked: true
+    created_on: '2024-01-26T15:00:23.774275Z'
+    enterprise: false
+    id: 8795f160091f4ce095dc165fc87bff06
+    is_failed: false
+    latitude: 22.351993560791016
+    location:
+      countryRegion: India
+      countryRegionIso2: IN
+      formattedAddress: India
+    longitude: 79.36287689208984
+    name: Goodluck India Limited
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/8795f160091f4ce095dc165fc87bff06
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    updated_on: '2024-01-26T15:00:23.774280Z'
+    web_domain: goodluckindia.com
+    website: https://www.goodluckindia.com/
+  postal_code: '370140'
+  total_epds: 4
+  type: Plant
+  updated_on: '2024-03-14T23:49:09.663911Z'
+plant_specific: false
+private: false
+product_specific: true
+program_operator:
+  address: "Valhallav\xE4gen 81, 11428 Stockholm"
+  address_line: "81 Valhallav\xE4gen"
+  alt_names:
+  - EnviroDec
+  - environdec
+  - the International EPD System
+  - IES
+  - EPD International
+  - "International EPD\xAE System"
+  - TheInternational EPD System
+  - "The International EPD\xAE System"
+  - The International EPD
+  attachments:
+    General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2019-04-18T13:32:25.465368Z'
+  email_extensions:
+  - environdec.com
+  enterprise: true
+  id: 9857b3f664584fadbadd5e601d9368d4
+  image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+  is_failed: false
+  latitude: 59.34655
+  legal_name: EPD International AB
+  locality: Stockholm
+  location:
+    country: Sweden
+    countryCode: SE
+    countryCodeISO3: SWE
+    freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+    municipality: Stockholm
+    municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+    postalCode: '11428'
+    streetName: "Valhallav\xE4gen"
+    streetNumber: '81'
+  longitude: 18.07285
+  name: EPD International AB
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '11428'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  updated_on: '2024-08-13T12:36:34.205186Z'
+  web_domain: environdec.com
+  website: www.environdec.com
+program_operator_fkey: S-P-06081
+pyrolytic_coated: false
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3kjfbywz
+sputter_coat: false
+standard_deviation: 691.8912362 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+tempered: false
+third_party_verified: true
+toughened: false
+uncertainty_adjusted_gwp: 2965.295664 kgCO2e
+uncertainty_factor: 1.2443540345646047
+updated_on: '2024-04-10T17:26:20.474308Z'
+use_stored_carbon: false
+verifier:
+  email: info@environdec.com
+  name: International EPD System Staff
+  org:
+    address: "Valhallav\xE4gen 81, 11428 Stockholm"
+    address_line: "81 Valhallav\xE4gen"
+    alt_names:
+    - EnviroDec
+    - environdec
+    - the International EPD System
+    - IES
+    - EPD International
+    - "International EPD\xAE System"
+    - TheInternational EPD System
+    - "The International EPD\xAE System"
+    - The International EPD
+    attachments:
+      General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+    confirmable_fields: []
+    confirmed_fields: []
+    country: SE
+    cqd_sync_unlocked: true
+    created_on: '2019-04-18T13:32:25.465368Z'
+    email_extensions:
+    - environdec.com
+    enterprise: true
+    id: 9857b3f664584fadbadd5e601d9368d4
+    image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+    is_failed: false
+    latitude: 59.34655
+    legal_name: EPD International AB
+    locality: Stockholm
+    location:
+      country: Sweden
+      countryCode: SE
+      countryCodeISO3: SWE
+      freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+      municipality: Stockholm
+      municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+      postalCode: '11428'
+      streetName: "Valhallav\xE4gen"
+      streetNumber: '81'
+    longitude: 18.07285
+    name: EPD International AB
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - '150'
+    postal_code: '11428'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    updated_on: '2024-08-13T12:36:34.205186Z'
+    web_domain: environdec.com
+    website: www.environdec.com
+warnings:
+  density:
+  - Not specified
+  developer:
+  - Developer is not employee of developer org
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - ODP impact not specified
+  - EP-FRESH impact not specified
+  - EP-TERRESTRIAL impact not specified

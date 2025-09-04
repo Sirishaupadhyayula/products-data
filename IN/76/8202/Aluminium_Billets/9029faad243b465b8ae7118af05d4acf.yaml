@@ -1,0 +1,465 @@
+also_shown_in: []
+anodized: false
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 9052.038536 kgCO2e
+biogenic_embodied_carbon_z: 0.7509873500931957
+box_id: '1426272687991'
+category:
+  allows_any_declared_unit: false
+  beta_only: true
+  category_statistics_warning: false
+  created_on: '2021-04-26T10:43:43Z'
+  declared_unit: 1 kg
+  default_distance: 856.16888 km
+  default_transport_mode: truck, unspecified
+  description: Cast Aluminium ingots or billets for use in manufacturing more finished
+    products.
+  display_name: Aluminium Billets
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: c59115c0f3624ff29f86a29267993643
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1 kg
+  massless: false
+  masterformat: 05 00 00 METALS
+  may_contain_trusted_vendor_declarations: false
+  name: AluminiumBillets
+  no_statistics: false
+  obsolete: false
+  openepd: Aluminium >> AluminiumBillets
+  openepd_name: Aluminium >> AluminiumBillets
+  parents: []
+  pct10_gwp: 0.388403497 kgCO2e
+  pct20_gwp: 0.7934013965 kgCO2e
+  pct30_gwp: 1.499109425 kgCO2e
+  pct40_gwp: 2.860913399 kgCO2e
+  pct50_gwp: 4.19193145 kgCO2e
+  pct60_gwp: 5.532584934 kgCO2e
+  pct70_gwp: 7.647145044 kgCO2e
+  pct80_gwp: 9.822760806 kgCO2e
+  pct90_gwp: 11.17487183 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Billets
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30103301'
+  updated_on: '2025-09-04T09:15:14.131303Z'
+  use_stored_carbon: ABSENT
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 40147.96146 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2024-01-26T16:30:32.552143Z'
+date_of_issue: '2023-04-11'
+date_validity_ends: '2028-04-11'
+declaration_type: Product EPD
+declared_unit: 1.0 t
+density: 2700 kg / m^3
+description: "Aluminium Billets\nBillet casting line comprises of state-of-the-art\
+  \ Wagstaff Air Slip casting unit with all associated in-line metal treatment facilities\
+  \ consisting of dual rod grain refiner, degassing and metal filtration unit. Air\
+  \ slip casting technology together with installed in-line treatment facilities ensures\
+  \ that all products cast through the line meet all internal and surface quality\
+  \ requirements. The casting unit is fed by electrically heated tilting type furnaces.\n\
+  In-house laboratory is equipped with optical emission spectrometers to ensure that\
+  \ products meet the specified chemical composition. Cast billets are homogenized\
+  \ using continuous homogenizers and 100% ultrasound inspected before they are cut\
+  \ to the required lengths and packed at the sawing facility.\nPrimary Foundry Alloy\n\
+  In consistent focus towards value addition, Vedanta supplies primary alloys to various\
+  \ industrial segments. The casting facility comprises of state-of-the-art casting\
+  \ facility supplied by Properzi in cast bar (10 kg), equipped with associated in-line\
+  \ metal treatment facilities consisting of Degassing Metal Filtration Unit. In-house\
+  \ laboratory is equipped with spectrometers other allied inspecting facilities to\
+  \ ensure that all products meet the specified chemical, physical, surface static\
+  \ quality requirements.\nAluminium Wire Rods\nVedanta is one the leading wire rod\
+  \ manufacturers in the world with state-of-the-art Continuous Properzi mills, committed\
+  \ to manufacture products meeting world class quality standards. All the mills are\
+  \ fully equipped with in-line degassing and filtration systems to ensure good internal\
+  \ metal quality and cleanliness with eddy current measurement for superior surface\
+  \ finish. The chemical composition is ensured using state of art spectrometers.\
+  \ Experienced professionals test mechanical properties and conductivity using most\
+  \ modern equipment\u2019s in a highly equipped laboratory.\nAluminium Ingots Sows\n\
+  Vedanta produces Primary Aluminium ingots Sows that are re-m"
+developer:
+  org:
+    confirmable_fields: []
+    confirmed_fields: []
+    cqd_sync_unlocked: true
+    created_on: '2024-03-15T00:02:48.133395Z'
+    enterprise: false
+    errors:
+      web_domain:
+      - Not specified
+      website:
+      - Not specified
+    failures:
+      web_domain:
+      - Not specified
+      website:
+      - Not specified
+    id: d9d2df914a6f4125b1776e2e6864c724
+    is_failed: false
+    name: EPD International AB
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/d9d2df914a6f4125b1776e2e6864c724
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    updated_on: '2024-04-10T17:17:19.514714Z'
+    warnings:
+      address:
+      - Not specified
+doc: buildingtransparency.org/e/ec3rgxrh85
+document_version: '2023-04-11'
+epd_degraded: true
+excluded: false
+externally_verified: true
+file_name: S-P-06491%20PRIMARY%20ALUMINIUM_cb48689544b8ac1f7fecab3fce6b3fa9f1683bad.pdf
+gwp: 24600 kgCO2e
+gwp_per_category_declared_unit: 24.6 kgCO2e
+gwp_per_kg: 24.6 kgCO2e
+gwp_z: 0.7509873500931957
+id: 07ae0eb24c6044f7adbc628e6018073a
+image: https://static.buildingtransparency.org/images/3a166c5de7a2440ea6ee0bf729a9b797.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lowest_plausible_gwp: 9052.038536 kgCO2e
+manufacturer:
+  address: India
+  confirmable_fields: []
+  confirmed_fields: []
+  country: IN
+  cqd_sync_unlocked: true
+  created_on: '2024-01-26T16:30:32.266791Z'
+  enterprise: false
+  id: f3078e0b9ddc493598e25b91024baeb4
+  is_failed: false
+  latitude: 22.351993560791016
+  location:
+    countryRegion: India
+    countryRegionIso2: IN
+    formattedAddress: India
+  longitude: 79.36287689208984
+  name: VEDANTA ALUMINIUM LIMITED
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/f3078e0b9ddc493598e25b91024baeb4
+  password_login_allowed: true
+  pilot_all_employees: false
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  updated_on: '2024-01-26T16:30:32.266796Z'
+  web_domain: vedantalimited.com
+  website: http://www.vedantalimited.com/
+manufacturer_specific: true
+mass_per_declared_unit: 1000 kg
+matched_plants_count: 0
+material_id: 9029faad243b465b8ae7118af05d4acf
+multiproduct: false
+my_capabilities: 1
+name: S-P-06491 PRIMARY ALUMINIUM
+not_an_epd: false
+open_xpd_uuid: ec3rgxrh
+original_data_format: pdf_mixed
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3rgxrh
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+painted: false
+pcr:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2023-05-05T09:40:18.747078Z'
+  date_of_issue: '2022-09-12'
+  date_validity_ends: '2026-12-09'
+  doc: https://api.environdec.com/api/v1/EPDLibrary/Files/3ed7b359-3f5c-4dc3-838e-08dad6f6494e/Data
+  errors:
+    declared_units:
+    - Not specified
+  failures:
+    declared_units:
+    - Not specified
+  id: 89b36ed9e8de4e9d9999411318e83cbb
+  is_failed: false
+  name: PCR 2022:08 Basic aluminium products and special alloys (1.0)
+  open_xpd_uuid: ec3femj9
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3femj9
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3femj9zb
+  short_name: Basic aluminium products and special alloys
+  updated_on: '2024-04-05T04:28:00.417673Z'
+  version: '1.0'
+pct80_gwp_per_category_declared_unit: 40.14796146 kgCO2e
+plant_geography:
+- IN
+plant_or_group:
+  address: R25G+XM4, Brundamal, Odisha, India
+  admin_district: OR
+  admin_district2: Northern Division
+  carbon_intensity: 1200 kgCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: IN
+  cqd_sync_unlocked: true
+  created_on: '2024-03-20T15:31:37.839690Z'
+  id: 881007376a7d40bb9bdc497a521fd996
+  is_failed: false
+  latitude: 21.8098875
+  locality: Brundamal
+  location:
+  - long_name: R25G+XM4
+    short_name: R25G+XM4
+    types:
+    - plus_code
+  - long_name: Brundamal
+    short_name: Brundamal
+    types:
+    - locality
+    - political
+  - long_name: Jharsuguda
+    short_name: Jharsuguda
+    types:
+    - administrative_area_level_3
+    - political
+  - long_name: Northern Division
+    short_name: Northern Division
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Odisha
+    short_name: OR
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: India
+    short_name: IN
+    types:
+    - country
+    - political
+  longitude: 84.02670309999999
+  name: Vedanta Aluminium
+  openepd_id: 7MH6R25G+XM.vedantalimited.com
+  owned_by:
+    address: India
+    confirmable_fields: []
+    confirmed_fields: []
+    country: IN
+    cqd_sync_unlocked: true
+    created_on: '2024-01-26T16:30:32.266791Z'
+    enterprise: false
+    id: f3078e0b9ddc493598e25b91024baeb4
+    is_failed: false
+    latitude: 22.351993560791016
+    location:
+      countryRegion: India
+      countryRegionIso2: IN
+      formattedAddress: India
+    longitude: 79.36287689208984
+    name: VEDANTA ALUMINIUM LIMITED
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/f3078e0b9ddc493598e25b91024baeb4
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    updated_on: '2024-01-26T16:30:32.266796Z'
+    web_domain: vedantalimited.com
+    website: http://www.vedantalimited.com/
+  postal_code: '768202'
+  total_epds: 1
+  type: Plant
+  updated_on: '2024-03-20T15:31:37.839699Z'
+plant_specific: false
+private: false
+product_specific: true
+program_operator:
+  address: "Valhallav\xE4gen 81, 11428 Stockholm"
+  address_line: "81 Valhallav\xE4gen"
+  alt_names:
+  - EnviroDec
+  - environdec
+  - the International EPD System
+  - IES
+  - EPD International
+  - "International EPD\xAE System"
+  - TheInternational EPD System
+  - "The International EPD\xAE System"
+  - The International EPD
+  attachments:
+    General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2019-04-18T13:32:25.465368Z'
+  email_extensions:
+  - environdec.com
+  enterprise: true
+  id: 9857b3f664584fadbadd5e601d9368d4
+  image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+  is_failed: false
+  latitude: 59.34655
+  legal_name: EPD International AB
+  locality: Stockholm
+  location:
+    country: Sweden
+    countryCode: SE
+    countryCodeISO3: SWE
+    freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+    municipality: Stockholm
+    municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+    postalCode: '11428'
+    streetName: "Valhallav\xE4gen"
+    streetNumber: '81'
+  longitude: 18.07285
+  name: EPD International AB
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '11428'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  updated_on: '2024-08-13T12:36:34.205186Z'
+  web_domain: environdec.com
+  website: www.environdec.com
+program_operator_fkey: S-P-06491
+recycled_content: 0.0
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3rgxrh85
+standard_deviation: 18474.28881 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 40147.96146 kgCO2e
+uncertainty_factor: 1.6320309538384334
+updated_on: '2024-04-10T17:36:34.884797Z'
+use_stored_carbon: false
+verifier:
+  email: sinem.ozsoy@enexion.de
+  name: "Sinem \xD6zsoy Aydemir"
+  org:
+    confirmable_fields: []
+    confirmed_fields: []
+    cqd_sync_unlocked: true
+    created_on: '2024-03-20T15:31:38.242269Z'
+    enterprise: false
+    errors:
+      web_domain:
+      - Not specified
+      website:
+      - Not specified
+    failures:
+      web_domain:
+      - Not specified
+      website:
+      - Not specified
+    id: c8603d2b60f34ceaa8fa20d0f67f7d38
+    is_failed: false
+    name: Prof. Vladimir Koci
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/c8603d2b60f34ceaa8fa20d0f67f7d38
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    updated_on: '2024-03-20T15:31:56.465409Z'
+    warnings:
+      address:
+      - Not specified
+warnings:
+  developer:
+  - Missing link
+  impacts:
+  - Impact set is suspicious by having equal magnitudes
+  - PCR's required LCIA Method not found in the document
+  - ODP impact not specified
+  - EP-TERRESTRIAL impact not specified

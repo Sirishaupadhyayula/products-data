@@ -1,0 +1,665 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+attachments:
+  Spot: https://spot.ul.com/main-appproducts/detail/5b7cc3aa55b0e81b3c09404c
+best_practice: 1892.384616 kgCO2e
+biogenic_embodied_carbon_z: 0.28879058156387305
+box_id: '477244815246'
+category:
+  allows_any_declared_unit: true
+  beta_only: false
+  category_statistics_warning: true
+  created_on: '2019-09-10T11:29:28.686073Z'
+  declared_unit: 1 kg
+  default_distance: 1 km
+  default_transport_mode: none
+  description: A generic category for EPDs/Materials and categories that are explicitly
+    not yet supported by EC3. Assume that any data in this subcategory is unreliable.
+  display_name: Unsupported
+  draft: true
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: ac7f55e033154f4990e2b72c7ffc0c94
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1 kg
+  massless: false
+  masterformat: 00 00 00 No Masterformat Code
+  may_contain_trusted_vendor_declarations: false
+  name: Unsupported
+  no_statistics: true
+  obsolete: false
+  openepd: OtherMaterials >> Unsupported
+  openepd_name: OtherMaterials >> Unsupported
+  parents: []
+  pct10_gwp: 0.1192032994 kgCO2e
+  pct20_gwp: 0.4306329783 kgCO2e
+  pct30_gwp: 1.182474843 kgCO2e
+  pct40_gwp: 2.165922633 kgCO2e
+  pct50_gwp: 3.659294701 kgCO2e
+  pct60_gwp: 6.89621006 kgCO2e
+  pct70_gwp: 17.42095648 kgCO2e
+  pct80_gwp: 46.19042176 kgCO2e
+  pct90_gwp: 172.2185984 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Unsupported
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  updated_on: '2025-09-04T09:15:22.438449Z'
+  use_stored_carbon: OPTIONAL
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 3107.615384 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2019-06-18T12:24:42.692000Z'
+date_of_issue: '2018-08-16'
+date_validity_ends: '2023-08-16'
+declaration_type: Product EPD
+declared_unit: 1 t
+density: 6350 kg / m3
+description: "PosMAC(POSCO Magnesium Aluminium alloy Coating product) is a ternary\
+  \ alloy coated steel(Zn-3%Mg-2.5%Al) with high corrosion resistance developed with\
+  \ POSCO's own technology. PosMAC has two types of base metal HR/CR and range of\
+  \ steel grades/classes is specified deep drawing, structural steel and high strength\
+  \ low alloy steel according to Standard (KS D 3030, DIN EN 10346, ASTM A1046/M).\
+  \ PosMAC is available in from 60g/\u33A1 to 400g/\u33A1 coating weight. Figure 1\
+  \ Product configuration |4| PosMAC\xAE STRUCTURAL STEEL According to ISO 14025,\
+  \ EN 15804 and ISO 21930:2017 1.3."
+developer:
+  email: yoosung.park@hipathway.com
+  name: Yoo-Sung Park
+  org:
+    address: Geumcheon-gu, Seoul, South Korea
+    admin_district: Seoul
+    alt_names:
+    - H.I.Pathway Co., Ltd.
+    confirmable_fields: []
+    confirmed_fields: []
+    country: KR
+    cqd_sync_unlocked: true
+    created_on: '2019-08-23T11:43:22.737006Z'
+    email_extensions:
+    - hipathway.com
+    enterprise: true
+    id: a38aec499e574b1f9ca1cdd7f873c5b3
+    is_failed: false
+    latitude: 37.4518527
+    legal_name: H.I.P, Inc.
+    locality: GEUMCHEONGU
+    location:
+    - long_name: Geumcheon-gu
+      short_name: Geumcheon-gu
+      types:
+      - political
+      - sublocality
+      - sublocality_level_1
+    - long_name: Seoul
+      short_name: Seoul
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: South Korea
+      short_name: KR
+      types:
+      - country
+      - political
+    longitude: 126.9020358
+    name: H.I.P, Inc.
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/a38aec499e574b1f9ca1cdd7f873c5b3
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    updated_on: '2021-08-06T11:56:27.486815Z'
+    web_domain: hipathway.com
+    website: hipathway.com
+doc: buildingtransparency.org/e/ec3ds9j89x
+epd_degraded: false
+excluded: false
+externally_verified: true
+file_name: EPD - Product Specific_Posco_PosMac.pdf
+gwp: 2500 kgCO2e
+gwp_per_category_declared_unit: 2500 kgCO2e
+gwp_per_kg: 2.505 kgCO2e
+gwp_z: 0.28879058156387305
+id: 4f98dc5a0c044b1d9c9c6653e6da5f09
+image: https://static.buildingtransparency.org/images/db66fcd2129c4a56ba5a211228ac2883.png
+impacts: {}
+includes: []
+industry_standards: []
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lca_discussion: "## Product Component Notes\nshall occur. 1.12. Environment and health\
+  \ during use There is no possible conent or harmful substanes or emissions under\
+  \ normal condition of use. No environmental impact on the quality of water, air\
+  \ or soil is expected due to the metal release from steel alloys were generally\
+  \ very low. 1.13. Reference Service Life and Estimated Building Service Life Corrosion\
+  \ resistance in cross-section parts of PosMAC\xAE, is superior to that of GI(H)\
+  \ and galvalume. PosMAC\xAE also gets red-rust in cross-section parts when initially\
+  \ exposed outdoors. However as the time goes by, the corrosion(red- rust) area of\
+  \ PosMAC\xAE tends to decrease through the formation of its distinctive oxide-based\
+  \ material(simonkolleite). If the thickness of PosMAC\xAE is more than 1.6mm, we\
+  \ recommend post-treatment, because it is not fully covered by simonkolleite after\
+  \ 1 year. In addition when the thickness of PosMAC\xAE is less than 1.6mm and cross-section\
+  \ parts is clean without red-rust at initial construction, it is recommended to\
+  \ carry out post-treatment by the option of the customers. Table 7. Estimation of\
+  \ PosMAC\xAE\u2019s longevity Corrosion start Classification Test sample Thickness(mm)\
+  \ Post-treatment Estimate of longevity time to Fe 2.0 Cr 1,920hr 50 years PosMAC\xAE\
+  \ (POSCO) 2.0 Cr-free(NB) 3,700hr 100 years Ternary alloy 2.0 Cr-free 1,920hr 50\
+  \ years coated steel Competitor\u2019s high corrosion resistant Type 1 1.6 Cr 2,200hr\
+  \ 60 years Type 2 0.27 Cr-free 2,200hr 60 years GI(H) (POSCO) 2.0 Cr 960hr 25 years(base)\
+  \ Galvanized steel Batch GI 2.0 - 960hr 25 years (Domestic galvanizer) | 12 | PosMAC\xAE\
+  \ STRUCTURAL STEEL According to ISO 14025, EN 15804 and ISO 21930:2017 - Test Method:\
+  \ CCT(Cyclic Corrosion Test) CCT 1cycle(KS R1127: Test method of cyclic corrosion\
+  \ test for automobile steel sheets) : Salt spray 2Hr(5%NaCl, 35\u2103) \u2192 Dry\
+  \ 4Hr(25%RH, 60\u2103) \u2192 Wet 2Hr(95%RH 50\u2103) - Evaluation of longevity:\
+  \ Japan\u2019s bridge construction association stated that the longevity of a GI\
+  \ with K600 zinc coating has a corrosion resistance longevity of 25years. - The\
+  \ relative longevity of other comparable steel products was extracted. 1.14. Extraordinary\
+  \ effects Fire: The product does not emit fumes or fire-gases.The critical temperature\
+  \ for the integrity of the structure sustantially depends on component loading and\
+  \ restraining conditions Water: No environmental impact on the quality of water,\
+  \ air or soil is expected due to the metal release from steel alloys were generally\
+  \ very low. 1.15. Disposal Steel scrap has a relatively high economic value. Due\
+  \ to the recycling cycle is well established for the steel industry, steel scrap\
+  \ is not disposed of. 1.16. Further information Additional information on steel\
+  \ product can be found at http://www.posco.com/homepage/docs/eng5/jsp/product/info/s91e3000000m.jsp\
+  \ 2. Life Cycle Assessment Background Information 2.1. Declared Unit The declared\
+  \ unit is one metric ton (1,000 kg) of PosMAC\xAE 2.2. System Boundary Type of the\
+  \ EPD: cradle-to-gate - with options.Module A1-A3 were considered. Modules A1-A3\
+  \ of the structural steel production include the following - The provision of resources,\
+  \ additives and energy - Transport of resources and additives to the production\
+  \ site - Production processes on site including energy, production of additives,\
+  \ disposal of production residues, and consideration of related emissions. - Recycling\
+  \ of production/manufacturing scrap. | 13 | PosMAC\xAE STRUCTURAL STEEL According\
+  \ to ISO 14025, EN 15804 and ISO 21930:2017 2.3. Estimates and Assumptions POSCO\
+  \ provided all of the data for estimating environmental impact of PosMAC \xAE through\
+  \ primary data based on measurement. All primary data is provided as unit process\
+  \ data. Therefore, one can estimate crate to gate data for each unit processes.\
+  \ One modifies the unit processes data by input/output data for final process for\
+  \ PosMAC \xAE. It was not always possible to distinguish intermediate flows for\
+  \ the packaging process. One example of this is packaging. In order to avoid double\
+  \ counting of packaging impacts, total\n\n## LCA Notes\nType of the EPD: cradle-to-gate\
+  \ - with options.Module A1-A3 were considered. Modules A1-A3 of the structural steel\
+  \ production include the following - The provision of resources, additives and energy\
+  \ - Transport of resources and additives to the production site - Production processes\
+  \ on site including energy, production of additives, disposal of production residues,\
+  \ and consideration of related emissions. - Recycling of production/manufacturing\
+  \ scrap. | 13 | PosMAC\xAE STRUCTURAL STEEL According to ISO 14025, EN 15804 and\
+  \ ISO 21930:2017 2.3. Estimates and Assumptions POSCO provided all of the data for\
+  \ estimating environmental impact of PosMAC \xAE through primary data based on measurement.\
+  \ All primary data is provided as unit process data. Therefore, one can estimate\
+  \ crate to gate data for each unit processes. One modifies the unit processes data\
+  \ by input/output data for final process for PosMAC \xAE. It was not always possible\
+  \ to distinguish intermediate flows for the packaging process. One example of this\
+  \ is packaging. In order to avoid double counting of packaging impacts, total packaging\
+  \ for all products was aggregated in the production site. Where the water inputs\
+  \ and outputs did not balance, it was assumed the difference evaporated as water\
+  \ vapor. The renewable wasted product is assumed to be used as a raw material for\
+  \ reinforcing steel manufacturing. 2.4. Cut-off Criteria The cut-off criteria for\
+  \ including or excluding materials, energy and emissions data of the study are as\
+  \ follows: - Mass : If a flow is less than 1% of the cumulative mass of the model\
+  \ it may be excluded, providing its environmental relevance is not a concern. The\
+  \ total of neglected input flows per module shall be a maximum of 5% of mass. -\
+  \ Energy : All the input energy is included in the calculation for environmental\
+  \ impact. Environmental relevance : If a flow meets the above criteria for exclusion,\
+  \ yet is thought to potentially have a significant environmental impact, it was\
+  \ included. Material flows which leave the system (emissions) and whose environmental\
+  \ impact is greater than 1% of the whole impact of an impact category that has been\
+  \ considered in the assessment must be covered. This judgment was made based on\
+  \ experience and documented as necessary. The total of neglected input flows per\
+  \ module shall be a maximum of 5% of environmental impact. 2.5. Background data\
+  \ Background data are sourced from Ecoinvent v2.2 Databases and USLCI. 2.6. Data\
+  \ Quality Inventory data quality is judged by its precision (measured, calculated\
+  \ or estimated), completeness (e.g., unreported emissions), consistency (degree\
+  \ of uniformity of the methodology applied) and representativeness (geographical,\
+  \ temporal, and technological). To cover these requirements and to ensure reliable\
+  \ results, first-hand industry data in combination with consistent background LCA\
+  \ information from the Ecoinvent v2.2 and USLCI were used. The LCI datasets from\
+  \ the Ecoinvent v2.2 and USLCI database are widely distributed and used with the\
+  \ SimaPro Software. The datasets have been used in LCA models worldwide in industrial\
+  \ and scientific applications in internal as well as in many critically reviewed\
+  \ and published studies. In the process of providing these datasets, they are cross-checked\
+  \ with other databases and values from industry and science. | 14 | PosMAC\xAE STRUCTURAL\
+  \ STEEL According to ISO 14025, EN 15804 and ISO 21930:2017 2.7. Period under review\
+  \ The specific data collected at Pohang steelwork is the actual activity data of\
+  \ the production site between January 1, 2017 and December 31, 2017 (12 month) from\
+  \ Enterprise Resource Planning(ERP) system of POSCO. 2.8. Allocation The input /\
+  \ output of processes that are not related to the production of PosMAC \xAE (STS\
+  \ production process, office and laboratory operation) were excluded from the scope\
+  \ of environmental impact assessment. In addition to PosMAC\xAE production, the\
+  \ processes associated with the production of all the products produced in the steelwork\
+  \ (incin"
+lowest_plausible_gwp: 1892.384616 kgCO2e
+manufacturer:
+  address: 6261 Donghaean-ro, Goe-dong, Nam-gu, Pohang, Gyeongsangbuk-do, South Korea
+  admin_district: Gyeongsangbuk-do
+  confirmable_fields: []
+  confirmed_fields: []
+  country: KR
+  cqd_sync_unlocked: true
+  created_on: '2019-06-18T12:24:59.450733Z'
+  email_extensions:
+  - posco.co
+  enterprise: true
+  id: 1458ec19559c41198b4c385619e16a38
+  is_failed: false
+  latitude: 35.9985766
+  locality: Pohang
+  location:
+  - long_name: '6261'
+    short_name: '6261'
+    types:
+    - premise
+  - long_name: Donghaean-ro
+    short_name: Donghaean-ro
+    types:
+    - political
+    - sublocality
+    - sublocality_level_4
+  - long_name: Goe-dong
+    short_name: Goe-dong
+    types:
+    - political
+    - sublocality
+    - sublocality_level_2
+  - long_name: Nam-gu
+    short_name: Nam-gu
+    types:
+    - political
+    - sublocality
+    - sublocality_level_1
+  - long_name: Pohang
+    short_name: Pohang
+    types:
+    - locality
+    - political
+  - long_name: Gyeongsangbuk-do
+    short_name: Gyeongsangbuk-do
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: South Korea
+    short_name: KR
+    types:
+    - country
+    - political
+  - long_name: 790-300
+    short_name: 790-300
+    types:
+    - postal_code
+  longitude: 129.3829641
+  name: POSCO
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/1458ec19559c41198b4c385619e16a38
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: 790-300
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  updated_on: '2021-08-05T12:54:36.188369Z'
+  web_domain: posco.co
+  website: http://www.posco.co.kr
+manufacturer_specific: true
+mass_per_declared_unit: 1000 kg
+matched_plants_count: 0
+material_id: ec80004d9afb4d9b854073aa62f48b2c
+multiproduct: false
+my_capabilities: 1
+name: "PosMAC\xAE"
+not_an_epd: false
+open_xpd_uuid: ec3ds9j8
+original_data_format: pdf_mixed
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3ds9j8
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  allows_facility_specific_epds: true
+  alt_names: []
+  attachments:
+    EnglishTranslation: https://app.box.com/file/1314297062320
+    URL: https://oekobaudat.de/OEKOBAU.DAT/resource/sources/83733eb7-ecf0-43fb-aa6c-7281a558f71b/Structural_steels_15872.pdf?version=00.01.000
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2023-10-03T16:32:19.576926Z'
+  date_of_issue: '2017-11-30'
+  declared_units: []
+  doc: https://oekobaudat.de/OEKOBAU.DAT/resource/sources/aa110dd0-a6e0-42fc-9663-dee1c5687f8c/Structural_steels_12676.pdf?version=00.01.000
+  id: 0088265f13e4458badc139bbddcfb454
+  is_failed: false
+  lcia_requirements:
+    EF 3.0:
+      order: 1
+  name: 'Part B: Requirements on the EPD for Structural steels'
+  open_xpd_uuid: ec36nprd
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec36nprd
+  requires_mass: true
+  requires_uncertainty: false
+  short_link: buildingtransparency.org/p/ec36nprdc8
+  short_name: Structural steels
+  updated_on: '2023-10-03T16:57:16.225657Z'
+  version: 1.0/1.6/1.0
+pct80_gwp_per_category_declared_unit: 3107.615384 kgCO2e
+plant_geography:
+- '142'
+plant_or_group:
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2020-11-11T19:47:37.141616Z'
+  id: e42637ca9b5c4a28bd338e868c1e5664
+  is_failed: false
+  jurisdiction:
+  - '142'
+  name: South Korea - Multiple Plants
+  owned_by:
+    address: 6261 Donghaean-ro, Goe-dong, Nam-gu, Pohang, Gyeongsangbuk-do, South
+      Korea
+    admin_district: Gyeongsangbuk-do
+    confirmable_fields: []
+    confirmed_fields: []
+    country: KR
+    cqd_sync_unlocked: true
+    created_on: '2019-06-18T12:24:59.450733Z'
+    email_extensions:
+    - posco.co
+    enterprise: true
+    id: 1458ec19559c41198b4c385619e16a38
+    is_failed: false
+    latitude: 35.9985766
+    locality: Pohang
+    location:
+    - long_name: '6261'
+      short_name: '6261'
+      types:
+      - premise
+    - long_name: Donghaean-ro
+      short_name: Donghaean-ro
+      types:
+      - political
+      - sublocality
+      - sublocality_level_4
+    - long_name: Goe-dong
+      short_name: Goe-dong
+      types:
+      - political
+      - sublocality
+      - sublocality_level_2
+    - long_name: Nam-gu
+      short_name: Nam-gu
+      types:
+      - political
+      - sublocality
+      - sublocality_level_1
+    - long_name: Pohang
+      short_name: Pohang
+      types:
+      - locality
+      - political
+    - long_name: Gyeongsangbuk-do
+      short_name: Gyeongsangbuk-do
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: South Korea
+      short_name: KR
+      types:
+      - country
+      - political
+    - long_name: 790-300
+      short_name: 790-300
+      types:
+      - postal_code
+    longitude: 129.3829641
+    name: POSCO
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/1458ec19559c41198b4c385619e16a38
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: 790-300
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    updated_on: '2021-08-05T12:54:36.188369Z'
+    web_domain: posco.co
+    website: http://www.posco.co.kr
+  plants_count: 0
+  total_epds: 1
+  type: PlantGroup
+  updated_on: '2020-11-11T19:47:38.696006Z'
+plant_specific: false
+private: false
+product_classes: {}
+product_specific: true
+program_operator:
+  address: 2211 New Market Parkway Southeast, Marietta, GA 30067
+  address_line: 2211 New Market Parkway Southeast
+  admin_district: GA
+  admin_district2: Cobb
+  alt_names:
+  - ULE EPM
+  - Underwriters Labs
+  - Underwriters Laboratories
+  - UL E
+  - UL Enviornment
+  - UL Environment
+  - UL Solutions
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2018-09-19T16:12:16.017515Z'
+  email: epd@ul.com
+  email_extensions:
+  - ul.com
+  - ulenvironment.com
+  enterprise: true
+  id: 5b22feac0d67472191705631612b68fb
+  image: https://static.buildingtransparency.org/images/4c0e7d91-457c-4dc6-b750-25f8b49d0434.png
+  is_failed: false
+  latitude: 33.917988
+  legal_name: UL
+  locality: Marietta
+  location:
+    boundingBox:
+      entity: position
+      northEast: 33.918196,-84.495564
+      southWest: 33.917305,-84.497793
+    buildingNumber: '2211'
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Cobb
+    countrySubdivision: GA
+    countrySubdivisionName: Georgia
+    countryTertiarySubdivision: Marietta
+    extendedPostalCode: '300679393'
+    freeformAddress: 2211 New Market Parkway Southeast, Marietta, GA 30067
+    municipality: Marietta
+    municipalitySubdivision: Marietta
+    postalCode: '30067'
+    routeNumbers: []
+    street: New Market Parkway Southeast
+    streetName: New Market Parkway Southeast
+    streetNameAndNumber: 2211 New Market Parkway Southeast
+    streetNumber: '2211'
+  longitude: -84.49678
+  name: UL
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/5b22feac0d67472191705631612b68fb
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - US
+  - CA
+  postal_code: '30067'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: true
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: true
+  primary_activity_verifier: true
+  updated_on: '2025-04-26T00:06:55.791242Z'
+  web_domain: ul.com
+  website: https://www.ul.com/
+program_operator_fkey: 4788431944.101.1
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3ds9j89x
+standard_deviation: 721.9764539 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 3107.615384 kgCO2e
+uncertainty_factor: 1.2430461534441555
+updated_on: '2025-01-14T02:47:24.142167Z'
+use_stored_carbon: false
+verifier:
+  email: t.gloria@industrial-ecology.com
+  name: Thomas Gloria
+  org:
+    address: 35 Bracebridge Road, Newton Center, MA 02459
+    address_line: 35 Bracebridge Road
+    admin_district: MA
+    admin_district2: Middlesex
+    alt_names:
+    - IEC
+    - Industrial Ecology Consultsnts
+    - Ecology Consultants
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-08T20:01:22.263919Z'
+    email: t.gloria@industrial-ecology.com
+    email_extensions:
+    - industrial-ecology.com
+    enterprise: true
+    id: e4b1aa444bc74715a09d083b8b926d95
+    image: https://static.buildingtransparency.org/images/68511d2b-bb6f-4e53-8874-7c105f297dfb.png
+    is_failed: false
+    latitude: 42.331692
+    legal_name: Industrial Ecology Consultants
+    locality: Newton Center, Newton
+    location:
+      boundingBox:
+        entity: position
+        northEast: 42.331930,-71.201386
+        southWest: 42.331325,-71.201433
+      buildingNumber: '35'
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Middlesex
+      countrySubdivision: MA
+      countrySubdivisionName: Massachusetts
+      countryTertiarySubdivision: Newton
+      extendedPostalCode: 024591728
+      freeformAddress: 35 Bracebridge Road, Newton Center, MA 02459
+      municipality: Newton Center, Newton
+      municipalitySubdivision: Newton Center, Newton
+      postalCode: 02459
+      routeNumbers: []
+      street: Bracebridge Road
+      streetName: Bracebridge Road
+      streetNameAndNumber: 35 Bracebridge Road
+      streetNumber: '35'
+    longitude: -71.201431
+    name: Industrial Ecology Consultants
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/e4b1aa444bc74715a09d083b8b926d95
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: 02459
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    updated_on: '2021-04-20T03:01:07.510551Z'
+    web_domain: industrial-ecology.com
+    website: http://industrial-ecology.com/
+warnings:
+  category:
+  - Cannot recognize material category
+  impacts:
+  - Impact set is suspicious by having equal magnitudes
+  - EP-TERRESTRIAL impact not specified
+  pcr:
+  - PCR validity dates not found

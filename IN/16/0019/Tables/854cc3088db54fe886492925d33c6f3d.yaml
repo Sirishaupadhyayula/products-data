@@ -1,0 +1,477 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+box_id: '1426267158534'
+category:
+  allows_any_declared_unit: false
+  beta_only: true
+  category_statistics_warning: false
+  created_on: '2023-01-30T14:33:26Z'
+  declared_unit: 1 unit
+  description: Tables
+  display_name: Tables
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: 991e076afa2647f4aecca634d7f1de7d
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 39.402 kg
+  massless: false
+  masterformat: 12 64 16 Tables
+  may_contain_trusted_vendor_declarations: false
+  name: Tables
+  no_statistics: false
+  obsolete: false
+  openepd: Furnishings >> Tables
+  openepd_name: Furnishings >> Tables
+  parents: []
+  pct10_gwp: 27.85775202 kgCO2e
+  pct20_gwp: 47.15837988 kgCO2e
+  pct30_gwp: 61.01015762 kgCO2e
+  pct40_gwp: 83.5930228 kgCO2e
+  pct50_gwp: 118.8593111 kgCO2e
+  pct60_gwp: 156.065987 kgCO2e
+  pct70_gwp: 245.0061857 kgCO2e
+  pct80_gwp: 450.203003 kgCO2e
+  pct90_gwp: 584.4803013 kgCO2e
+  requires_mass_per_declared_unit: true
+  short_name: Tables
+  short_service_life_disclaimer: false
+  subcategories: []
+  unspsc: '56101519'
+  updated_on: '2025-09-04T09:15:08.355226Z'
+  use_stored_carbon: OPTIONAL
+confirmable_fields: []
+confirmed_fields: []
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2024-01-26T16:10:10.314902Z'
+date_of_issue: '2023-06-30'
+date_validity_ends: '2028-06-29'
+declaration_type: Product EPD
+declared_unit: 1.0 m^2
+description: HPL is a composite material composed of papers and resins. The product
+  is made by the saturation of multiple layers of paper with phenolic and melamine
+  resin. The HPL production share of each of the thicknesses is presented in Table
+  3-1 during the reference period of the data. Once the laminates are prepared it
+  is packed using polyethylene, polypropylene and wooden pallets. The packed laminates
+  are dispatched to customer.
+developer:
+  org:
+    address: India
+    confirmable_fields: []
+    confirmed_fields: []
+    country: IN
+    cqd_sync_unlocked: true
+    created_on: '2024-01-26T16:03:04.874506Z'
+    enterprise: false
+    id: 896b92b11d5847beb3a91184fab51afc
+    is_failed: false
+    latitude: 22.351993560791016
+    location:
+      countryRegion: India
+      countryRegionIso2: IN
+      formattedAddress: India
+    longitude: 79.36287689208984
+    name: Stylam Industries Limited
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/896b92b11d5847beb3a91184fab51afc
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    updated_on: '2024-01-26T16:03:04.874516Z'
+    web_domain: stylam.com
+    website: https://stylam.com/
+doc: buildingtransparency.org/e/ec3a2zcue3
+document_version: '2023-06-30'
+epd_degraded: false
+errors: {}
+excluded: false
+externally_verified: true
+failures:
+  declared_unit:
+  - Declared unit not in same dimension with category declared unit
+  impacts:
+  - GWP impact not specified
+file_name: S-P-09219%20High%20Pressure%20Laminates_866bf9c85414f330e8b85c6fab6f124c1a7cbec1.pdf
+id: f715d20abd524916baea8382e65dbb93
+image: https://static.buildingtransparency.org/images/0303acfaf9ca45a3abbc86f64f8c572f.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+language: en
+manufacturer:
+  address: India
+  confirmable_fields: []
+  confirmed_fields: []
+  country: IN
+  cqd_sync_unlocked: true
+  created_on: '2024-01-26T16:03:04.874506Z'
+  enterprise: false
+  id: 896b92b11d5847beb3a91184fab51afc
+  is_failed: false
+  latitude: 22.351993560791016
+  location:
+    countryRegion: India
+    countryRegionIso2: IN
+    formattedAddress: India
+  longitude: 79.36287689208984
+  name: Stylam Industries Limited
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/896b92b11d5847beb3a91184fab51afc
+  password_login_allowed: true
+  pilot_all_employees: false
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  updated_on: '2024-01-26T16:03:04.874516Z'
+  web_domain: stylam.com
+  website: https://stylam.com/
+manufacturer_specific: true
+matched_plants_count: 0
+material_id: 854cc3088db54fe886492925d33c6f3d
+multiproduct: false
+my_capabilities: 1
+name: S-P-09219 High Pressure Laminates
+not_an_epd: false
+open_xpd_uuid: ec3a2zcu
+original_data_format: pdf_mixed
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3a2zcu
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-04-02T18:26:34.309086Z'
+  date_of_issue: '2024-03-01'
+  date_validity_ends: '2024-12-20'
+  doc: https://api.environdec.com/api/v1/EPDLibrary/Files/cfb8786b-c166-4d25-02ed-08dc38ee8ac8/Data
+  errors:
+    declared_units:
+    - Not specified
+  failures:
+    declared_units:
+    - Not specified
+  id: 79f87426c5154d8f878af1a15562e9d3
+  is_failed: false
+  name: PCR 2019:14 Construction products (EN 15804+A2) (1.3.3)
+  open_xpd_uuid: ec3pks1a
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3pks1a
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3pks1akr
+  short_name: Construction products (EN 15804+A2)
+  status: Expired
+  updated_on: '2024-12-21T04:05:11.344807Z'
+  version: 1.3.3
+plant_geography:
+- IN
+plant_or_group:
+  address: 14, 7c, Madhya Marg, Sector 7-C, Sector 7, Chandigarh, 160019, India
+  address_line: 7c Madhya Marg
+  admin_district: CH
+  carbon_intensity: 1200 kgCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: IN
+  cqd_sync_unlocked: true
+  created_on: '2024-03-14T23:59:32.039596Z'
+  id: 1eb0c674c213461c929154beee608a05
+  is_failed: false
+  latitude: 30.728231
+  locality: Chandigarh
+  location:
+  - long_name: '14'
+    short_name: '14'
+    types:
+    - subpremise
+  - long_name: 7c
+    short_name: 7c
+    types:
+    - street_number
+  - long_name: Madhya Marg
+    short_name: Madhya Marg
+    types:
+    - route
+  - long_name: Sector 7-C
+    short_name: Sector 7-C
+    types:
+    - political
+    - sublocality
+    - sublocality_level_2
+  - long_name: Sector 7
+    short_name: Sector 7
+    types:
+    - political
+    - sublocality
+    - sublocality_level_1
+  - long_name: Chandigarh
+    short_name: Chandigarh
+    types:
+    - locality
+    - political
+  - long_name: Chandigarh
+    short_name: Chandigarh
+    types:
+    - administrative_area_level_3
+    - political
+  - long_name: Chandigarh
+    short_name: CH
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: India
+    short_name: IN
+    types:
+    - country
+    - political
+  - long_name: '160019'
+    short_name: '160019'
+    types:
+    - postal_code
+  longitude: 76.8022244
+  name: Stylam Industries Limited
+  openepd_id: 8J2RPRH2+7V.stylam.com
+  owned_by:
+    address: India
+    confirmable_fields: []
+    confirmed_fields: []
+    country: IN
+    cqd_sync_unlocked: true
+    created_on: '2024-01-26T16:03:04.874506Z'
+    enterprise: false
+    id: 896b92b11d5847beb3a91184fab51afc
+    is_failed: false
+    latitude: 22.351993560791016
+    location:
+      countryRegion: India
+      countryRegionIso2: IN
+      formattedAddress: India
+    longitude: 79.36287689208984
+    name: Stylam Industries Limited
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/896b92b11d5847beb3a91184fab51afc
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    updated_on: '2024-01-26T16:03:04.874516Z'
+    web_domain: stylam.com
+    website: https://stylam.com/
+  postal_code: '160019'
+  total_epds: 2
+  type: Plant
+  updated_on: '2024-08-02T20:00:02.906940Z'
+plant_specific: false
+private: false
+product_specific: true
+program_operator:
+  address: "Valhallav\xE4gen 81, 11428 Stockholm"
+  address_line: "81 Valhallav\xE4gen"
+  alt_names:
+  - EnviroDec
+  - environdec
+  - the International EPD System
+  - IES
+  - EPD International
+  - "International EPD\xAE System"
+  - TheInternational EPD System
+  - "The International EPD\xAE System"
+  - The International EPD
+  attachments:
+    General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2019-04-18T13:32:25.465368Z'
+  email_extensions:
+  - environdec.com
+  enterprise: true
+  id: 9857b3f664584fadbadd5e601d9368d4
+  image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+  is_failed: false
+  latitude: 59.34655
+  legal_name: EPD International AB
+  locality: Stockholm
+  location:
+    country: Sweden
+    countryCode: SE
+    countryCodeISO3: SWE
+    freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+    municipality: Stockholm
+    municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+    postalCode: '11428'
+    streetName: "Valhallav\xE4gen"
+    streetNumber: '81'
+  longitude: 18.07285
+  name: EPD International AB
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '11428'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  updated_on: '2024-08-13T12:36:34.205186Z'
+  web_domain: environdec.com
+  website: www.environdec.com
+program_operator_fkey: S-P-09219
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3a2zcue3
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+updated_on: '2024-04-10T17:19:27.787036Z'
+use_stored_carbon: false
+verifier:
+  email: prabodha.acharya@gmail.com
+  name: Prabodha Acharya
+  org:
+    address: Bandra Kurla Complex Rd, Mumbai, Maharashtra, India
+    address_line: BKC Road
+    admin_district: MH
+    admin_district2: Mumbai Suburban
+    alt_names:
+    - JSW Cement Limited
+    confirmable_fields: []
+    confirmed_fields: []
+    country: IN
+    cqd_sync_unlocked: true
+    created_on: '2020-07-21T08:53:42.136916Z'
+    enterprise: true
+    id: e831edeb8af94dc784864680beac9d2b
+    is_failed: false
+    latitude: 19.0622678
+    locality: Mumbai
+    location:
+    - long_name: Bandra Kurla Complex Road
+      short_name: BKC Road
+      types:
+      - route
+    - long_name: Mumbai
+      short_name: Mumbai
+      types:
+      - locality
+      - political
+    - long_name: Mumbai Suburban
+      short_name: Mumbai Suburban
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Maharashtra
+      short_name: MH
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: India
+      short_name: IN
+      types:
+      - country
+      - political
+    longitude: 72.8595296
+    name: JSW Steel Limited
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/e831edeb8af94dc784864680beac9d2b
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '583119'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    updated_on: '2022-05-24T09:50:58.705857Z'
+    web_domain: jsw.in
+    website: http://www.jsw.in
+warnings:
+  density:
+  - Not specified
+  developer:
+  - Missing link
+  impacts:
+  - ODP impact not specified
+  - AP impact not specified
+  - EP-FRESH impact not specified
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - POCP impact not specified

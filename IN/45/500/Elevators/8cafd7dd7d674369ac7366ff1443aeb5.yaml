@@ -1,0 +1,557 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+attachments:
+  EnvirondecIlcd: https://data.environdec.com/resource/processes/be31d84b-770b-424d-9bf4-08dbdfa8f0c9?version=07.01.002
+best_practice: 17.60655099 kgCO2e
+biogenic_embodied_carbon_z: 0.2903446228191595
+box_id: '1540465792070'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2023-01-17T15:24:00Z'
+  declared_unit: 1 tkm
+  description: Car that moves in a vertical shaft to carry passengers or freight between
+    the levels of a multistory building.
+  display_name: Elevators
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: 1a9cc72827924cc98ad38fbcadc7fa7f
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  massless: true
+  masterformat: 14 20 00 Elevators
+  may_contain_trusted_vendor_declarations: false
+  name: Elevators
+  no_statistics: false
+  obsolete: false
+  openepd: ConveyingEquipment >> Elevators
+  openepd_name: ConveyingEquipment >> Elevators
+  parents: []
+  pct10_gwp: 3.341090583 kgCO2e
+  pct20_gwp: 4.398667077 kgCO2e
+  pct30_gwp: 10.12904184 kgCO2e
+  pct40_gwp: 12.10756476 kgCO2e
+  pct50_gwp: 14.51678264 kgCO2e
+  pct60_gwp: 17.42095648 kgCO2e
+  pct70_gwp: 20.72073451 kgCO2e
+  pct80_gwp: 28.99344901 kgCO2e
+  pct90_gwp: 54.75157752 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Elevators
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '24101601'
+  updated_on: '2025-09-04T09:15:16.229632Z'
+  use_stored_carbon: ABSENT
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 28.99344901 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2024-06-05T21:11:14.622360Z'
+date_of_issue: '2024-03-15'
+date_validity_ends: '2029-03-15'
+declaration_type: Product EPD
+declared_unit: 1 tkm
+description: The product is designed for recycling and materials for energy recovery.
+developer:
+  org:
+    address: 31 Av. des Montoires, 45500 Gien, France
+    address_line: 31 Av. des Montoires
+    admin_district: Centre-Val de Loire
+    admin_district2: Loiret
+    alt_names:
+    - Otis Lift Company
+    attachments:
+      TransparencyCatalogURL: https://transparencycatalog.com/company/otis
+    confirmable_fields: []
+    confirmed_fields: []
+    country: FR
+    cqd_sync_unlocked: true
+    created_on: '2021-11-09T18:26:20.726705Z'
+    enterprise: false
+    id: 9ea51ba6d2a94a6bbf6a038f787ca5d0
+    is_failed: false
+    latitude: 47.703979
+    locality: Gien
+    location:
+    - long_name: '31'
+      short_name: '31'
+      types:
+      - street_number
+    - long_name: Avenue des Montoires
+      short_name: Av. des Montoires
+      types:
+      - route
+    - long_name: Gien
+      short_name: Gien
+      types:
+      - locality
+      - political
+    - long_name: Loiret
+      short_name: Loiret
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Centre-Val de Loire
+      short_name: Centre-Val de Loire
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: France
+      short_name: FR
+      types:
+      - country
+      - political
+    - long_name: '45500'
+      short_name: '45500'
+      types:
+      - postal_code
+    longitude: 2.6237905
+    name: OTIS Elevator Company
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/9ea51ba6d2a94a6bbf6a038f787ca5d0
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '45500'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    updated_on: '2023-05-16T13:04:31.731375Z'
+    web_domain: otis.com
+    website: www.otis.com
+doc: https://data.environdec.com/resource/processes/be31d84b-770b-424d-9bf4-08dbdfa8f0c9?version=07.01.002
+elevators_building_rise: Mid-rise
+elevators_rated_load: 1000 kg
+elevators_rated_speed: 1 m / s
+elevators_travel_length: 12 m
+elevators_usage_intensity:
+- Low
+excluded: false
+externally_verified: true
+file_name: S-P-08345OTISGEN3MACHINEROOMLESSELEVATOR_56295d2b1f749d248347364c2b2c84226734e2be.pdf
+gwp: 23.3 kgCO2e
+gwp_per_category_declared_unit: 23.3 kgCO2e
+gwp_z: 0.2903446228191595
+id: d68c6ffb73e549a99207279b1e23906e
+image: https://static.buildingtransparency.org/images/c3ea406c4640422a9531e4203d70b660.png
+impacts: {}
+includes: []
+industry_standards: []
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lowest_plausible_gwp: 17.60655099 kgCO2e
+manufacturer:
+  address: 31 Av. des Montoires, 45500 Gien, France
+  address_line: 31 Av. des Montoires
+  admin_district: Centre-Val de Loire
+  admin_district2: Loiret
+  alt_names:
+  - Otis Lift Company
+  attachments:
+    TransparencyCatalogURL: https://transparencycatalog.com/company/otis
+  confirmable_fields: []
+  confirmed_fields: []
+  country: FR
+  cqd_sync_unlocked: true
+  created_on: '2021-11-09T18:26:20.726705Z'
+  enterprise: false
+  id: 9ea51ba6d2a94a6bbf6a038f787ca5d0
+  is_failed: false
+  latitude: 47.703979
+  locality: Gien
+  location:
+  - long_name: '31'
+    short_name: '31'
+    types:
+    - street_number
+  - long_name: Avenue des Montoires
+    short_name: Av. des Montoires
+    types:
+    - route
+  - long_name: Gien
+    short_name: Gien
+    types:
+    - locality
+    - political
+  - long_name: Loiret
+    short_name: Loiret
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Centre-Val de Loire
+    short_name: Centre-Val de Loire
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: France
+    short_name: FR
+    types:
+    - country
+    - political
+  - long_name: '45500'
+    short_name: '45500'
+    types:
+    - postal_code
+  longitude: 2.6237905
+  name: OTIS Elevator Company
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/9ea51ba6d2a94a6bbf6a038f787ca5d0
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '45500'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  updated_on: '2023-05-16T13:04:31.731375Z'
+  web_domain: otis.com
+  website: www.otis.com
+manufacturer_specific: true
+matched_plants_count: 0
+material_id: 8cafd7dd7d674369ac7366ff1443aeb5
+multiproduct: false
+my_capabilities: 1
+name: S-P-08345 OTIS GEN3 MACHINE ROOM LESS ELEVATOR
+not_an_epd: false
+open_xpd_uuid: ec3rzu1n
+original_data_format: ILCD+EPDv1_0
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3rzu1n
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  alt_names:
+  - PCR 2019:14
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2020-10-02T00:28:26.619084Z'
+  date_of_issue: '2021-02-05'
+  date_validity_ends: '2024-12-20'
+  declared_units:
+  - 1 kg
+  - 1 m3
+  - 1 m2
+  - 1 m
+  - 1 item
+  doc: https://api.environdec.com/api/v1/EPDLibrary/Files/1a64e7bf-34d8-49fe-a833-08da599e304a/Data
+  errors: {}
+  failures: {}
+  id: 9ba7257d9c3b41698ec3619af5bd6bd8
+  is_failed: false
+  lcia_requirements:
+    EF 3.0:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: PCR 2019:14 Construction products (EN 15804:A2)
+  open_xpd_uuid: ec3k4xkr
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3k4xkr
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3k4xkrq7
+  short_name: Construction Products
+  status: Expired
+  updated_on: '2024-12-21T04:05:08.928212Z'
+  version: '1.11'
+pct80_gwp_per_category_declared_unit: 28.99344901 kgCO2e
+plant_geography:
+- '142'
+- MX
+- '005'
+plant_or_group:
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2025-01-14T17:45:19.858399Z'
+  id: ed66d08508054d0f93db5b1a2cb40c0e
+  is_failed: false
+  jurisdiction:
+  - '142'
+  - MX
+  - '005'
+  name: OTIS Tianjin, China, Singapore, Asia, Dubai, Middle East, Mexico, Latin America
+  owned_by:
+    address: 31 Av. des Montoires, 45500 Gien, France
+    address_line: 31 Av. des Montoires
+    admin_district: Centre-Val de Loire
+    admin_district2: Loiret
+    alt_names:
+    - Otis Lift Company
+    attachments:
+      TransparencyCatalogURL: https://transparencycatalog.com/company/otis
+    confirmable_fields: []
+    confirmed_fields: []
+    country: FR
+    cqd_sync_unlocked: true
+    created_on: '2021-11-09T18:26:20.726705Z'
+    enterprise: false
+    id: 9ea51ba6d2a94a6bbf6a038f787ca5d0
+    is_failed: false
+    latitude: 47.703979
+    locality: Gien
+    location:
+    - long_name: '31'
+      short_name: '31'
+      types:
+      - street_number
+    - long_name: Avenue des Montoires
+      short_name: Av. des Montoires
+      types:
+      - route
+    - long_name: Gien
+      short_name: Gien
+      types:
+      - locality
+      - political
+    - long_name: Loiret
+      short_name: Loiret
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Centre-Val de Loire
+      short_name: Centre-Val de Loire
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: France
+      short_name: FR
+      types:
+      - country
+      - political
+    - long_name: '45500'
+      short_name: '45500'
+      types:
+      - postal_code
+    longitude: 2.6237905
+    name: OTIS Elevator Company
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/9ea51ba6d2a94a6bbf6a038f787ca5d0
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '45500'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    updated_on: '2023-05-16T13:04:31.731375Z'
+    web_domain: otis.com
+    website: www.otis.com
+  plants_count: 0
+  total_epds: 1
+  type: PlantGroup
+  updated_on: '2025-01-14T18:06:16.349204Z'
+plant_specific: false
+private: false
+product_classes: {}
+product_specific: true
+program_operator:
+  address: "Valhallav\xE4gen 81, 11428 Stockholm"
+  address_line: "81 Valhallav\xE4gen"
+  alt_names:
+  - EnviroDec
+  - environdec
+  - the International EPD System
+  - IES
+  - EPD International
+  - "International EPD\xAE System"
+  - TheInternational EPD System
+  - "The International EPD\xAE System"
+  - The International EPD
+  attachments:
+    General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2019-04-18T13:32:25.465368Z'
+  email_extensions:
+  - environdec.com
+  enterprise: true
+  id: 9857b3f664584fadbadd5e601d9368d4
+  image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+  is_failed: false
+  latitude: 59.34655
+  legal_name: EPD International AB
+  locality: Stockholm
+  location:
+    country: Sweden
+    countryCode: SE
+    countryCodeISO3: SWE
+    freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+    municipality: Stockholm
+    municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+    postalCode: '11428'
+    streetName: "Valhallav\xE4gen"
+    streetNumber: '81'
+  longitude: 18.07285
+  name: EPD International AB
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '11428'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  updated_on: '2024-08-13T12:36:34.205186Z'
+  web_domain: environdec.com
+  website: www.environdec.com
+program_operator_fkey: S-P-08345
+reference_service_life: 25 years
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3rzu1n07
+standard_deviation: 6.765029712 kgCO2e
+stored_carbon: 1560 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 28.99344901 kgCO2e
+uncertainty_factor: 1.2443540345646047
+updated_on: '2025-05-23T05:44:56.849338Z'
+use_stored_carbon: false
+verifier:
+  org:
+    address: "Valhallav\xE4gen 81, 11428 Stockholms Stad"
+    address_line: "81 Valhallav\xE4gen"
+    alt_names:
+    - IVL
+    - SERI
+    - IVL Swedish Environmental ResearchInstitute
+    confirmable_fields: []
+    confirmed_fields: []
+    country: SE
+    cqd_sync_unlocked: true
+    created_on: '2019-11-05T21:13:16.517064Z'
+    email_extensions:
+    - ivl.se
+    enterprise: true
+    id: 13e4dbf4d20c440a95a1bb4496411d55
+    is_failed: false
+    latitude: 59.34653
+    legal_name: "IVL Svenska Milj\xF6institutet AB/IVL Swedish Environmental Research\
+      \ Institute Ltd"
+    locality: Stockholm
+    location:
+      country: Sverige
+      countryCode: SE
+      countryCodeISO3: SWE
+      freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholms Stad"
+      localName: Stockholms Stad
+      municipality: Stockholm
+      municipalitySubdivision: Stockholms Stad
+      postalCode: '11428'
+      streetName: "Valhallav\xE4gen"
+      streetNumber: '81'
+    longitude: 18.0733
+    name: IVL Swedish Environmental Research Institute
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/13e4dbf4d20c440a95a1bb4496411d55
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '11428'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    updated_on: '2022-07-08T05:48:37.193767Z'
+    web_domain: ivl.se
+    website: https://www.ivl.se
+warnings:
+  density:
+  - Not specified
+  developer:
+  - Missing link
+  impacts:
+  - Impact set is suspicious by having equal magnitudes
+  - PCR's required LCIA Method not found in the document
+  - EP-FRESH impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - B2_years are empty
+  - B6_years are empty
+  output_flows:
+  - B2_years are empty
+  - B6_years are empty
+  resource_uses:
+  - B2_years are empty
+  - B6_years are empty
+  verifier:
+  - Missing link

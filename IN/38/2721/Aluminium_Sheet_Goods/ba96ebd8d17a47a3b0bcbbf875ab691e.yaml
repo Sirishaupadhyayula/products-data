@@ -1,0 +1,547 @@
+also_shown_in: []
+anodized: false
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 1.291571352 kgCO2e
+biogenic_embodied_carbon_z: 0.7509873500931957
+box_id: '1426221947781'
+category:
+  allows_any_declared_unit: false
+  beta_only: true
+  category_statistics_warning: false
+  created_on: '2021-04-26T10:43:43Z'
+  declared_unit: 1 kg
+  default_distance: 856.16888 km
+  default_transport_mode: truck, unspecified
+  description: Rolled and/or Stamped Aluminium coil or sheets, often used in flashing,
+    trim, panels, and deck.
+  display_name: Aluminium Sheet Goods
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: 934cc56fb68a4757a0349ab293b55994
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1 kg
+  massless: false
+  masterformat: 05 00 00 METALS
+  may_contain_trusted_vendor_declarations: false
+  name: AluminiumSheetGoods
+  no_statistics: false
+  obsolete: false
+  openepd: Aluminium >> AluminiumSheetGoods
+  openepd_name: Aluminium >> AluminiumSheetGoods
+  parents: []
+  pct10_gwp: 1.565048982 kgCO2e
+  pct20_gwp: 2.135171668 kgCO2e
+  pct30_gwp: 2.811475467 kgCO2e
+  pct40_gwp: 3.173305131 kgCO2e
+  pct50_gwp: 3.234356337 kgCO2e
+  pct60_gwp: 3.723242264 kgCO2e
+  pct70_gwp: 4.886234776 kgCO2e
+  pct80_gwp: 6.437225594 kgCO2e
+  pct90_gwp: 13.97573387 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Sheet
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30102506'
+  updated_on: '2025-09-04T09:15:14.503117Z'
+  use_stored_carbon: ABSENT
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 5.728428648 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2024-01-26T14:51:14.444485Z'
+date_of_issue: '2024-01-02'
+date_validity_ends: '2029-01-01'
+declaration_type: Product EPD
+declared_unit: 1.0 kg
+density: 2700 kg / m^3
+description: 'Roofing Underlayment - A4, B4, C4, D4 and Ultra synthetic underlayment
+  are made of multiple layers of polypropylene laminated to form a strong barrier.
+  VBreathe has a monolithic, non-porous functional membrane enhancing its performance
+  as a true breathable roofing underlayment. PSU / PSU 2.0 and PSU Plus are self-adhesive
+  underlayment made of multiple polypropylene laminated layers with a polymer-modified
+  adhesive layer at the bottom.
+
+  Building Wrap - VHouse Building Wraps are a synthetic multilayer polypropylene laminated
+  water-resistive barrier (WRB), either monolithic or micro-perforated. These have
+  an excellent water holdout, drain ability and proper permanence or breathability
+  for water vapour. VHouse Building wraps have functional variants like VHouse Pro,
+  VHouse Max, VHouse Premium, and VHouse HPW.
+
+  Flashing Tape - Flashing Tapes are self-adhesive types used to seal the edges and
+  corners of the products at ends and around the door and window openings. These are
+  made of polypropylene, polyethene, polymer-modified adhesive and have easy-to-release
+  liners. VFlash Max and VFlash Pro are the two variants.'
+developer:
+  org:
+    address: "Valhallav\xE4gen 81, 11428 Stockholm"
+    address_line: "81 Valhallav\xE4gen"
+    alt_names:
+    - EnviroDec
+    - environdec
+    - the International EPD System
+    - IES
+    - EPD International
+    - "International EPD\xAE System"
+    - TheInternational EPD System
+    - "The International EPD\xAE System"
+    - The International EPD
+    attachments:
+      General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+    confirmable_fields: []
+    confirmed_fields: []
+    country: SE
+    cqd_sync_unlocked: true
+    created_on: '2019-04-18T13:32:25.465368Z'
+    email_extensions:
+    - environdec.com
+    enterprise: true
+    id: 9857b3f664584fadbadd5e601d9368d4
+    image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+    is_failed: false
+    latitude: 59.34655
+    legal_name: EPD International AB
+    locality: Stockholm
+    location:
+      country: Sweden
+      countryCode: SE
+      countryCodeISO3: SWE
+      freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+      municipality: Stockholm
+      municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+      postalCode: '11428'
+      streetName: "Valhallav\xE4gen"
+      streetNumber: '81'
+    longitude: 18.07285
+    name: EPD International AB
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - '150'
+    postal_code: '11428'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    updated_on: '2024-08-13T12:36:34.205186Z'
+    web_domain: environdec.com
+    website: www.environdec.com
+doc: https://data.environdec.com/resource/processes/8af90e51-4471-42de-aeaf-08db7e36184f?version=07.01.002
+document_version: '2024-01-02'
+epd_degraded: false
+errors:
+  stored_carbon:
+  - Expected a value greater than 0
+excluded: false
+externally_verified: true
+failures: {}
+file_name: S-P-09819%20Construction%20Product%20%28Roofing%20Underlayme_1efb6a8a7fa14a08e88572633f04db9cd5c1119d.pdf
+gwp: 3.51 kgCO2e
+gwp_per_category_declared_unit: 3.51 kgCO2e
+gwp_per_kg: 3.51 kgCO2e
+gwp_z: 0.7509873500931957
+id: 59d91ea88f2d4bd19ff3840c5244b7ca
+image: https://static.buildingtransparency.org/images/60a0ad1b4cbc46fc8626946707f1a9f4.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lca_discussion: ''
+lowest_plausible_gwp: 1.291571352 kgCO2e
+manufacturer:
+  address: 327, Santej - Vadsar Rd, Gujarat 382721, India
+  address_line: 327 Santej - Vadsar Rd
+  admin_district: GJ
+  confirmable_fields: []
+  confirmed_fields: []
+  country: IN
+  cqd_sync_unlocked: true
+  created_on: '2024-01-26T14:51:14.117130Z'
+  enterprise: false
+  id: c46b8d9f20334f8b975c3485e4db1c46
+  is_failed: false
+  latitude: 23.1202481
+  location:
+  - long_name: '327'
+    short_name: '327'
+    types:
+    - street_number
+  - long_name: Santej - Vadsar Road
+    short_name: Santej - Vadsar Rd
+    types:
+    - route
+  - long_name: Gandhinagar
+    short_name: Gandhinagar
+    types:
+    - administrative_area_level_3
+    - political
+  - long_name: Gujarat
+    short_name: GJ
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: India
+    short_name: IN
+    types:
+    - country
+    - political
+  - long_name: '382721'
+    short_name: '382721'
+    types:
+    - postal_code
+  longitude: 72.4758722
+  name: Veer Plastics Pvt. Ltd.
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/c46b8d9f20334f8b975c3485e4db1c46
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '382721'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  updated_on: '2024-01-26T14:51:14.117136Z'
+  web_domain: veerplastics.com
+  website: http://www.veerplastics.com/
+manufacturer_specific: true
+mass_per_declared_unit: 1 kg
+matched_plants_count: 0
+material_id: ba96ebd8d17a47a3b0bcbbf875ab691e
+multiproduct: false
+my_capabilities: 1
+name: S-P-09819 Construction Product (Roofing Underlayment, Building Wrap & Flashing
+  Tape)
+not_an_epd: false
+open_xpd_uuid: ec3cp4w3
+original_data_format: pdf_mixed
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3cp4w3
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+painted: false
+pcr:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-04-02T18:26:34.309086Z'
+  date_of_issue: '2024-03-01'
+  date_validity_ends: '2024-12-20'
+  doc: https://api.environdec.com/api/v1/EPDLibrary/Files/cfb8786b-c166-4d25-02ed-08dc38ee8ac8/Data
+  errors:
+    declared_units:
+    - Not specified
+  failures:
+    declared_units:
+    - Not specified
+  id: 79f87426c5154d8f878af1a15562e9d3
+  is_failed: false
+  name: PCR 2019:14 Construction products (EN 15804+A2) (1.3.3)
+  open_xpd_uuid: ec3pks1a
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3pks1a
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3pks1akr
+  short_name: Construction products (EN 15804+A2)
+  status: Expired
+  updated_on: '2024-12-21T04:05:11.344807Z'
+  version: 1.3.3
+pct80_gwp_per_category_declared_unit: 5.728428648 kgCO2e
+plant_geography:
+- IN
+plant_or_group:
+  address: Santej - Vadsar Rd, Santej, Gujarat, India
+  address_line: Santej - Vadsar Rd
+  admin_district: GJ
+  carbon_intensity: 1200 kgCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: IN
+  cqd_sync_unlocked: true
+  created_on: '2024-03-22T11:31:18.961805Z'
+  id: b190490e4e294fe0a8494134297d3754
+  is_failed: false
+  latitude: 23.1099331
+  locality: Santej
+  location:
+  - long_name: Santej - Vadsar Road
+    short_name: Santej - Vadsar Rd
+    types:
+    - route
+  - long_name: Santej
+    short_name: Santej
+    types:
+    - locality
+    - political
+  - long_name: Gandhinagar
+    short_name: Gandhinagar
+    types:
+    - administrative_area_level_3
+    - political
+  - long_name: Gujarat
+    short_name: GJ
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: India
+    short_name: IN
+    types:
+    - country
+    - political
+  longitude: 72.4692942
+  name: Veer Plastics Pvt Ltd
+  openepd_id: 7JMJ4F59+XP.veerplastics.com
+  owned_by:
+    address: 327, Santej - Vadsar Rd, Gujarat 382721, India
+    address_line: 327 Santej - Vadsar Rd
+    admin_district: GJ
+    confirmable_fields: []
+    confirmed_fields: []
+    country: IN
+    cqd_sync_unlocked: true
+    created_on: '2024-01-26T14:51:14.117130Z'
+    enterprise: false
+    id: c46b8d9f20334f8b975c3485e4db1c46
+    is_failed: false
+    latitude: 23.1202481
+    location:
+    - long_name: '327'
+      short_name: '327'
+      types:
+      - street_number
+    - long_name: Santej - Vadsar Road
+      short_name: Santej - Vadsar Rd
+      types:
+      - route
+    - long_name: Gandhinagar
+      short_name: Gandhinagar
+      types:
+      - administrative_area_level_3
+      - political
+    - long_name: Gujarat
+      short_name: GJ
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: India
+      short_name: IN
+      types:
+      - country
+      - political
+    - long_name: '382721'
+      short_name: '382721'
+      types:
+      - postal_code
+    longitude: 72.4758722
+    name: Veer Plastics Pvt. Ltd.
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/c46b8d9f20334f8b975c3485e4db1c46
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '382721'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    updated_on: '2024-01-26T14:51:14.117136Z'
+    web_domain: veerplastics.com
+    website: http://www.veerplastics.com/
+  total_epds: 1
+  type: Plant
+  updated_on: '2024-03-22T11:31:18.961815Z'
+plant_specific: false
+private: false
+product_specific: true
+program_operator:
+  address: "Valhallav\xE4gen 81, 11428 Stockholm"
+  address_line: "81 Valhallav\xE4gen"
+  alt_names:
+  - EnviroDec
+  - environdec
+  - the International EPD System
+  - IES
+  - EPD International
+  - "International EPD\xAE System"
+  - TheInternational EPD System
+  - "The International EPD\xAE System"
+  - The International EPD
+  attachments:
+    General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2019-04-18T13:32:25.465368Z'
+  email_extensions:
+  - environdec.com
+  enterprise: true
+  id: 9857b3f664584fadbadd5e601d9368d4
+  image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+  is_failed: false
+  latitude: 59.34655
+  legal_name: EPD International AB
+  locality: Stockholm
+  location:
+    country: Sweden
+    countryCode: SE
+    countryCodeISO3: SWE
+    freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+    municipality: Stockholm
+    municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+    postalCode: '11428'
+    streetName: "Valhallav\xE4gen"
+    streetNumber: '81'
+  longitude: 18.07285
+  name: EPD International AB
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '11428'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  updated_on: '2024-08-13T12:36:34.205186Z'
+  web_domain: environdec.com
+  website: www.environdec.com
+program_operator_fkey: S-P-09819
+recycled_content: 0.0
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3cp4w3gj
+standard_deviation: 2.635965599 kgCO2e
+stored_carbon: -3.64894 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 5.728428648 kgCO2e
+uncertainty_factor: 1.6320309538384334
+updated_on: '2024-04-10T18:15:59.810319Z'
+use_stored_carbon: false
+verifier:
+  email: sunilkumar@chakra4.in
+  name: Sunil Kumar C S
+  org:
+    address: 7th Block Road J P Nagar, Bengaluru, Karnataka
+    address_line: ' 7th Block Road J P Nagar'
+    admin_district: Karnataka
+    admin_district2: Bengaluru
+    confirmable_fields: []
+    confirmed_fields: []
+    country: IN
+    cqd_sync_unlocked: true
+    created_on: '2020-11-02T13:53:15.308330Z'
+    enterprise: true
+    id: 8addf2cb8eab4b95b04fb7c870f2ff1a
+    is_failed: false
+    latitude: 12.86901
+    locality: Bengaluru
+    location:
+      country: India
+      countryCode: IN
+      countryCodeISO3: IND
+      countrySecondarySubdivision: Bengaluru
+      countrySubdivision: Karnataka
+      freeformAddress: 7th Block Road J P Nagar, Bengaluru, Karnataka
+      localName: Bengaluru
+      municipality: Bengaluru
+      municipalitySubdivision: JP Nagar IX Phase
+      postalCode: 560062, 560108
+      streetName: 7th Block Road J P Nagar
+    longitude: 77.57009
+    name: Chakra4 Sustainability Consulting Services
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/8addf2cb8eab4b95b04fb7c870f2ff1a
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: 560062, 560108
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    updated_on: '2021-12-31T19:35:47.607207Z'
+    web_domain: chakra4.in
+    website: www.chakra4.in
+warnings:
+  developer:
+  - Missing link
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - ODP unit has unexpected dimension
+  - EP-TERRESTRIAL impact not specified

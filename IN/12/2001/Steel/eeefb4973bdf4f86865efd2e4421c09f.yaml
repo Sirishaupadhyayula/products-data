@@ -1,0 +1,575 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+astm_standards: []
+best_practice: 2138.598913 kgCO2e
+biogenic_embodied_carbon_z: 0.37894194806064957
+box_id: '1426257690869'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2018-09-06T13:53:27.846834Z'
+  declared_unit: 1 t
+  default_distance: 664.65742 km
+  default_transport_mode: truck, unspecified
+  description: Broad category for construction materials made from steel and its alloys
+  display_name: Steel
+  draft: false
+  facility_type: MILL
+  generic_material: false
+  hide_service_life: true
+  id: db641aa0dbc34d6096547da02bf73f3a
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1000 kg
+  massless: false
+  masterformat: 05 00 00 Metals
+  may_contain_trusted_vendor_declarations: false
+  name: Steel
+  no_statistics: false
+  obsolete: false
+  openepd: Steel
+  openepd_name: Steel
+  parents: []
+  pct10_gwp: 793.3493622 kgCO2e
+  pct20_gwp: 1088.656024 kgCO2e
+  pct30_gwp: 1371.233235 kgCO2e
+  pct40_gwp: 1731.594787 kgCO2e
+  pct50_gwp: 2071.116037 kgCO2e
+  pct60_gwp: 2430.502599 kgCO2e
+  pct70_gwp: 2955.245143 kgCO2e
+  pct80_gwp: 3459.786598 kgCO2e
+  pct90_gwp: 4045.724492 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Steel
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  updated_on: '2025-09-04T09:15:08.797102Z'
+  use_stored_carbon: ABSENT
+cold_finished: false
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 4141.401087 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2024-01-26T15:51:25.678530Z'
+date_of_issue: '2023-09-05'
+date_validity_ends: '2028-09-04'
+declaration_type: Product EPD
+declared_unit: 1000.0 kg
+density: 7870 kg / m^3
+description: 'JSP delivers a wide range of carbon steel and alloy steel grades with
+  ultra-low gas and sulfur contents. Semi-finished products like Slabs, Billets, Blooms,
+  Beam Blank, and Rounds are produced using virgin iron ore using world class steelmaking
+  and refining technology. These products are delivered in a very wide range of carbon
+  steel and alloy grades with ultra-low gas, controlled chemical composition, high
+  internal soundness and dimensional uniformity.
+
+  Besides captive use, semi-finished products from the company have carved an impressive
+  name for themselves in the Indian and international seamless pipe industry as well
+  as various leading integrated mills and rolling facilities in Europe, South-East
+  Asia, West Asia and the Middle East. Semi-finished steel products are used in Used
+  in Forging industry, rolling units, and seamless pipe manufacturers.'
+developer:
+  email: rsingh@sphera.com
+  name: Rajesh Kumar Singh
+  org:
+    address: "Valhallav\xE4gen 81, 11428 Stockholm"
+    address_line: "81 Valhallav\xE4gen"
+    alt_names:
+    - EnviroDec
+    - environdec
+    - the International EPD System
+    - IES
+    - EPD International
+    - "International EPD\xAE System"
+    - TheInternational EPD System
+    - "The International EPD\xAE System"
+    - The International EPD
+    attachments:
+      General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+    confirmable_fields: []
+    confirmed_fields: []
+    country: SE
+    cqd_sync_unlocked: true
+    created_on: '2019-04-18T13:32:25.465368Z'
+    email_extensions:
+    - environdec.com
+    enterprise: true
+    id: 9857b3f664584fadbadd5e601d9368d4
+    image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+    is_failed: false
+    latitude: 59.34655
+    legal_name: EPD International AB
+    locality: Stockholm
+    location:
+      country: Sweden
+      countryCode: SE
+      countryCodeISO3: SWE
+      freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+      municipality: Stockholm
+      municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+      postalCode: '11428'
+      streetName: "Valhallav\xE4gen"
+      streetNumber: '81'
+    longitude: 18.07285
+    name: EPD International AB
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - '150'
+    postal_code: '11428'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    updated_on: '2024-08-13T12:36:34.205186Z'
+    web_domain: environdec.com
+    website: www.environdec.com
+doc: https://data.environdec.com/resource/processes/7aa27d80-2fa5-4252-aea0-08db7e36184f?version=07.01.002
+document_version: '2023-09-05'
+en_standards: []
+epd_degraded: true
+excluded: false
+externally_verified: true
+file_name: S-P-09804%20Average%20Semi-Finished%20Steel%20Product_65b88a2987295da94d06021cd0982febedd92b51.pdf
+galvanized: false
+gwp: 3140 kgCO2e
+gwp_per_category_declared_unit: 3140 kgCO2e
+gwp_per_kg: 3.14 kgCO2e
+gwp_z: 0.37894194806064957
+id: 65317358c2454c9d8a1dae4c56bc1621
+image: https://static.buildingtransparency.org/images/3684aaca73e144d39f26cf074d892b58.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lca_discussion: ''
+lowest_plausible_gwp: 2138.598913 kgCO2e
+manufacturer:
+  address: 415/2, Sector 32, Gurugram, Haryana 122001, India
+  admin_district: HR
+  admin_district2: Gurgaon Division
+  confirmable_fields: []
+  confirmed_fields: []
+  country: IN
+  cqd_sync_unlocked: true
+  created_on: '2024-01-26T15:40:18.809603Z'
+  enterprise: false
+  id: 3121049e338740b390100fd8796515b6
+  is_failed: false
+  latitude: 28.44588
+  locality: Gurugram
+  location:
+  - long_name: 415/2
+    short_name: 415/2
+    types:
+    - premise
+  - long_name: Sector 32
+    short_name: Sector 32
+    types:
+    - political
+    - sublocality
+    - sublocality_level_1
+  - long_name: Gurugram
+    short_name: Gurugram
+    types:
+    - locality
+    - political
+  - long_name: Gurugram
+    short_name: Gurugram
+    types:
+    - administrative_area_level_3
+    - political
+  - long_name: Gurgaon Division
+    short_name: Gurgaon Division
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Haryana
+    short_name: HR
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: India
+    short_name: IN
+    types:
+    - country
+    - political
+  - long_name: '122001'
+    short_name: '122001'
+    types:
+    - postal_code
+  longitude: 77.04368099999999
+  name: Jindal Steel and Power
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/3121049e338740b390100fd8796515b6
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '122001'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  updated_on: '2024-01-26T15:40:18.809608Z'
+  web_domain: jindalsteelpower.com
+  website: https://www.jindalsteelpower.com/
+manufacturer_specific: true
+mass_per_declared_unit: 1000 kg
+matched_plants_count: 0
+material_id: eeefb4973bdf4f86865efd2e4421c09f
+multiproduct: false
+my_capabilities: 1
+name: S-P-09804 Average Semi-Finished Steel Product
+not_an_epd: false
+open_xpd_uuid: ec3h31nb
+original_data_format: pdf_mixed
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3h31nb
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2023-05-05T09:40:20.599644Z'
+  date_of_issue: '2022-11-01'
+  date_validity_ends: '2024-12-20'
+  doc: https://api.environdec.com/api/v1/EPDLibrary/Files/04600e1f-ab96-4e05-9040-08dabb52e166/Data
+  errors:
+    declared_units:
+    - Not specified
+  failures:
+    declared_units:
+    - Not specified
+  id: b17de4e528e34059856423c075d5817f
+  is_failed: false
+  name: PCR 2019:14 Construction products (EN 15804:A2) (1.2.5)
+  open_xpd_uuid: ec3urp21
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3urp21
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3urp21sh
+  short_name: Construction products (EN 15804:A2)
+  status: Expired
+  updated_on: '2024-12-21T04:05:09.395511Z'
+  version: 1.2.5
+pct80_gwp_per_category_declared_unit: 4141.401087 kgCO2e
+plant_geography:
+- IN
+plant_or_group:
+  address: India
+  carbon_intensity: 1200 kgCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: IN
+  cqd_sync_unlocked: true
+  created_on: '2024-03-14T23:50:30.083625Z'
+  id: 6acc3fe98f8c408fa581d5317e238ac6
+  is_failed: false
+  latitude: 22.351993560791016
+  location:
+    countryRegion: India
+    countryRegionIso2: IN
+    formattedAddress: India
+  longitude: 79.36287689208984
+  name: Angul and Patratu plants
+  openepd_id: 7JJX9927+Q5.jindalsteelpower.com
+  owned_by:
+    address: 415/2, Sector 32, Gurugram, Haryana 122001, India
+    admin_district: HR
+    admin_district2: Gurgaon Division
+    confirmable_fields: []
+    confirmed_fields: []
+    country: IN
+    cqd_sync_unlocked: true
+    created_on: '2024-01-26T15:40:18.809603Z'
+    enterprise: false
+    id: 3121049e338740b390100fd8796515b6
+    is_failed: false
+    latitude: 28.44588
+    locality: Gurugram
+    location:
+    - long_name: 415/2
+      short_name: 415/2
+      types:
+      - premise
+    - long_name: Sector 32
+      short_name: Sector 32
+      types:
+      - political
+      - sublocality
+      - sublocality_level_1
+    - long_name: Gurugram
+      short_name: Gurugram
+      types:
+      - locality
+      - political
+    - long_name: Gurugram
+      short_name: Gurugram
+      types:
+      - administrative_area_level_3
+      - political
+    - long_name: Gurgaon Division
+      short_name: Gurgaon Division
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Haryana
+      short_name: HR
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: India
+      short_name: IN
+      types:
+      - country
+      - political
+    - long_name: '122001'
+      short_name: '122001'
+      types:
+      - postal_code
+    longitude: 77.04368099999999
+    name: Jindal Steel and Power
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/3121049e338740b390100fd8796515b6
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '122001'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    updated_on: '2024-01-26T15:40:18.809608Z'
+    web_domain: jindalsteelpower.com
+    website: https://www.jindalsteelpower.com/
+  total_epds: 2
+  type: Plant
+  updated_on: '2024-03-14T23:50:30.083634Z'
+plant_specific: false
+private: false
+product_specific: true
+program_operator:
+  address: "Valhallav\xE4gen 81, 11428 Stockholm"
+  address_line: "81 Valhallav\xE4gen"
+  alt_names:
+  - EnviroDec
+  - environdec
+  - the International EPD System
+  - IES
+  - EPD International
+  - "International EPD\xAE System"
+  - TheInternational EPD System
+  - "The International EPD\xAE System"
+  - The International EPD
+  attachments:
+    General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2019-04-18T13:32:25.465368Z'
+  email_extensions:
+  - environdec.com
+  enterprise: true
+  id: 9857b3f664584fadbadd5e601d9368d4
+  image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+  is_failed: false
+  latitude: 59.34655
+  legal_name: EPD International AB
+  locality: Stockholm
+  location:
+    country: Sweden
+    countryCode: SE
+    countryCodeISO3: SWE
+    freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+    municipality: Stockholm
+    municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+    postalCode: '11428'
+    streetName: "Valhallav\xE4gen"
+    streetNumber: '81'
+  longitude: 18.07285
+  name: EPD International AB
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '11428'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  updated_on: '2024-08-13T12:36:34.205186Z'
+  web_domain: environdec.com
+  website: www.environdec.com
+program_operator_fkey: S-P-09804
+requires_ocr: false
+resource_uses: {}
+sae_standards: []
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3h31nbpw
+stainless: false
+standard_deviation: 1189.877717 kgCO2e
+stored_carbon: 3139.066 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 4141.401087 kgCO2e
+uncertainty_factor: 1.3189175434878426
+updated_on: '2024-04-10T18:19:49.356205Z'
+use_stored_carbon: false
+verifier:
+  email: hudai.kara@metsims.com
+  name: Hudai Kara
+  org:
+    address: 4 Clearwater Pl, Oxford OX2 7NL, UK
+    address_line: 4 Clearwater Pl
+    admin_district: England
+    admin_district2: Oxfordshire
+    confirmable_fields: []
+    confirmed_fields: []
+    country: GB
+    cqd_sync_unlocked: true
+    created_on: '2020-08-05T16:51:17.469781Z'
+    email_extensions:
+    - metsims.com
+    enterprise: true
+    id: 2f5d682725cc405ab8849e8f25769c6a
+    image: https://static.buildingtransparency.org/images/2ffceb6c62eb45f4862928b9344ed7c2.png
+    is_failed: false
+    latitude: 51.7734539
+    legal_name: Metsims Limited
+    locality: Oxford
+    location:
+    - long_name: '4'
+      short_name: '4'
+      types:
+      - street_number
+    - long_name: Clearwater Place
+      short_name: Clearwater Pl
+      types:
+      - route
+    - long_name: Oxford
+      short_name: Oxford
+      types:
+      - postal_town
+    - long_name: Oxfordshire
+      short_name: Oxfordshire
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: England
+      short_name: England
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: United Kingdom
+      short_name: GB
+      types:
+      - country
+      - political
+    - long_name: OX2 7NL
+      short_name: OX2 7NL
+      types:
+      - postal_code
+    longitude: -1.2700055
+    name: Metsims Sustainability Consulting
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/2f5d682725cc405ab8849e8f25769c6a
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: OX2 7NL
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    updated_on: '2024-09-05T10:07:50.465795Z'
+    web_domain: metsims.com
+    website: https://www.metsims.com/
+warnings:
+  developer:
+  - Developer is not employee of developer org
+  impacts:
+  - Impact set is suspicious by having equal magnitudes
+  - PCR's required LCIA Method not found in the document
+  - ODP unit has unexpected dimension
+  - AP unit has unexpected dimension
+  - EP-FRESH impact not specified
+  - EP-TERRESTRIAL impact not specified
+  steel_post_consumer_recycled_content:
+  - Not specified
+  steel_recycled_content:
+  - Not specified
+  steel_yield_tensile_str:
+  - Not specified

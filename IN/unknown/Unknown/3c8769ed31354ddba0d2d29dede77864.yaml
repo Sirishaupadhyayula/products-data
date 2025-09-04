@@ -1,0 +1,519 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 39.21802561 kgCO2e
+biogenic_embodied_carbon_z: 0.2903446228191595
+box_id: '1133699258505'
+category:
+  allows_any_declared_unit: true
+  beta_only: false
+  category_statistics_warning: true
+  created_on: '2020-03-23T16:33:06Z'
+  declared_unit: 1 kg
+  default_distance: 1 km
+  default_transport_mode: none
+  description: Materials with unknown category. Assume that any data in this subcategory
+    is unreliable.
+  display_name: Unknown
+  draft: true
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: 4e60b4ce77064596b309206c99a5d85e
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  massless: false
+  masterformat: 00 00 00 No Masterformat Code
+  may_contain_trusted_vendor_declarations: false
+  name: Unknown
+  no_statistics: true
+  obsolete: false
+  openepd: OtherMaterials >> Unknown
+  openepd_name: OtherMaterials >> Unknown
+  parents: []
+  pct10_gwp: 0 kgCO2e
+  pct20_gwp: 0 kgCO2e
+  pct30_gwp: 0 kgCO2e
+  pct40_gwp: 0 kgCO2e
+  pct50_gwp: 0 kgCO2e
+  pct60_gwp: 0 kgCO2e
+  pct70_gwp: 0 kgCO2e
+  pct80_gwp: 0 kgCO2e
+  pct90_gwp: 0 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Unknown
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  updated_on: '2025-09-04T09:15:22.222584Z'
+  use_stored_carbon: OPTIONAL
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 64.58197439 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2023-06-26T11:23:13.412403Z'
+date_of_issue: '2021-07-19'
+date_validity_ends: '2025-03-22'
+declaration_type: Product EPD
+declared_unit: 1 m2
+developer:
+  email: info@studiolce.it
+  name: Life Cycle Engineering
+  org:
+    address: 130 East Randolph Street, Chicago, IL 60601
+    address_line: 130 East Randolph Street
+    admin_district: IL
+    admin_district2: Cook
+    alt_names:
+    - PE International
+    - thinkstep, Inc.
+    - thinkstep AG
+    - thinkstep
+    - PE INTERNATIONAL AG
+    - Thinkstep AG
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-28T21:38:04.012143Z'
+    email: info@thinkstep.com
+    email_extensions:
+    - thinkstep.com
+    - pe-international.com
+    - sphera.com
+    enterprise: true
+    id: 72d41d92d6d741f68ce626557efcc1c0
+    image: https://static.buildingtransparency.org/images/a82275ae-15d5-4a2f-a24f-5a33d97cdcf2
+    is_failed: false
+    latitude: 41.88507
+    legal_name: Sphera
+    locality: Chicago
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Cook
+      countrySubdivision: IL
+      countrySubdivisionName: Illinois
+      countryTertiarySubdivision: Chicago
+      extendedPostalCode: '606016208'
+      freeformAddress: 130 East Randolph Street, Chicago, IL 60601
+      localName: Chicago
+      municipality: Chicago
+      municipalitySubdivision: Downtown Chicago
+      postalCode: '60601'
+      streetName: East Randolph Street
+      streetNumber: '130'
+    longitude: -87.62311
+    name: Sphera
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/72d41d92d6d741f68ce626557efcc1c0
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '60601'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: true
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    updated_on: '2022-02-02T15:47:47.511452Z'
+    web_domain: sphera.com
+    website: sphera.com
+doc: buildingtransparency.org/e/ec3uam64fj
+epd_degraded: false
+errors:
+  description:
+  - Not specified
+  name:
+  - Name is not extracted in sanitizer
+excluded: false
+externally_verified: true
+failures:
+  category:
+  - Cannot recognize material category
+file_name: Eurobond 150mm  EPD FINAL 2021_a6ea65b6e89e48f5a6a1e8518429ca02.pdf
+gwp: 51.9 kgCO2e
+gwp_per_category_declared_unit: 51.9 kgCO2e
+gwp_z: 0.2903446228191595
+id: 2278993b093a4251885fd87cf1fd74aa
+image: https://static.buildingtransparency.org/images/57836a529336429683ca836b2913e48e.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+language: en
+lowest_plausible_gwp: 39.21802561 kgCO2e
+manufacturer:
+  address: 78 Weldon Road, Corby, NN17 5UD
+  address_line: 78 Weldon Road
+  admin_district: ENG
+  admin_district2: Northamptonshire
+  alt_names: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: GB
+  cqd_sync_unlocked: true
+  created_on: '2018-10-22T22:11:55.411903Z'
+  email_extensions:
+  - tatasteelconstruction.com
+  enterprise: true
+  id: 2808eda200684c99832a345d80055e38
+  image: https://static.buildingtransparency.org/images/b9a9cde1-99e2-4fe5-bddf-7ca22fa0b721.png
+  is_failed: false
+  latitude: 52.491142
+  legal_name: Tata Steel
+  locality: Corby
+  location:
+    boundingBox:
+      entity: position
+      northEast: 52.491469,-0.672365
+      southWest: 52.490861,-0.674072
+    buildingNumber: '78'
+    country: United Kingdom
+    countryCode: GB
+    countryCodeISO3: GBR
+    countrySecondarySubdivision: Northamptonshire
+    countrySubdivision: ENG
+    countrySubdivisionName: England
+    extendedPostalCode: NN17 5UD, NN17 5UE
+    freeformAddress: 78 Weldon Road, Corby, NN17 5UD
+    municipality: Corby
+    municipalitySubdivision: Corby
+    postalCode: NN17
+    routeNumbers:
+    - A427
+    street: Weldon Road
+    streetName: Weldon Road
+    streetNameAndNumber: 78 Weldon Road
+    streetNumber: '78'
+  longitude: -0.67337
+  name: Tata Steel
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/2808eda200684c99832a345d80055e38
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: NN17
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: true
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  updated_on: '2024-03-15T14:14:29.955614Z'
+  web_domain: tatasteelconstruction.com
+  website: https://www.tatasteelconstruction.com/en_GB/
+manufacturer_specific: true
+matched_plants_count: 2
+material_id: 3c8769ed31354ddba0d2d29dede77864
+multiproduct: false
+my_capabilities: 1
+name: '#name_is_not_extracted'
+not_an_epd: false
+open_xpd_uuid: ec3uam64
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3uam64
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  alt_names:
+  - EN 15804
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2019-10-09T11:58:48.464109Z'
+  date_of_issue: '2012-01-01'
+  date_validity_ends: '2025-01-30'
+  declared_units:
+  - 1 kg
+  - 1 m
+  - 1 m2
+  - 1 m3
+  - 1 unit
+  doc: https://standards.globalspec.com/std/1666865/EN%2015804
+  errors: {}
+  failures: {}
+  id: 9704e2e4b2564afe9d4ec51ea98f96cc
+  is_failed: false
+  lcia_requirements:
+    CML 2012:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: CEN standard EN 15804
+  open_xpd_uuid: ec3e5kdx
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3e5kdx
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3e5kdxhx
+  short_name: CEN standard EN 15804
+  status: Expired
+  updated_on: '2025-01-31T00:03:01.267203Z'
+  version: '1'
+pct80_gwp_per_category_declared_unit: 64.58197439 kgCO2e
+plant_geography:
+- '001'
+plant_or_group:
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2023-02-13T22:22:47.506777Z'
+  id: ca63761cd41246d896de7190cb456e7c
+  is_failed: false
+  jurisdiction:
+  - '001'
+  name: Jamshedpur & Tarapur
+  owned_by:
+    address: 78 Weldon Road, Corby, NN17 5UD
+    address_line: 78 Weldon Road
+    admin_district: ENG
+    admin_district2: Northamptonshire
+    alt_names: []
+    confirmable_fields: []
+    confirmed_fields: []
+    country: GB
+    cqd_sync_unlocked: true
+    created_on: '2018-10-22T22:11:55.411903Z'
+    email_extensions:
+    - tatasteelconstruction.com
+    enterprise: true
+    id: 2808eda200684c99832a345d80055e38
+    image: https://static.buildingtransparency.org/images/b9a9cde1-99e2-4fe5-bddf-7ca22fa0b721.png
+    is_failed: false
+    latitude: 52.491142
+    legal_name: Tata Steel
+    locality: Corby
+    location:
+      boundingBox:
+        entity: position
+        northEast: 52.491469,-0.672365
+        southWest: 52.490861,-0.674072
+      buildingNumber: '78'
+      country: United Kingdom
+      countryCode: GB
+      countryCodeISO3: GBR
+      countrySecondarySubdivision: Northamptonshire
+      countrySubdivision: ENG
+      countrySubdivisionName: England
+      extendedPostalCode: NN17 5UD, NN17 5UE
+      freeformAddress: 78 Weldon Road, Corby, NN17 5UD
+      municipality: Corby
+      municipalitySubdivision: Corby
+      postalCode: NN17
+      routeNumbers:
+      - A427
+      street: Weldon Road
+      streetName: Weldon Road
+      streetNameAndNumber: 78 Weldon Road
+      streetNumber: '78'
+    longitude: -0.67337
+    name: Tata Steel
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/2808eda200684c99832a345d80055e38
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: NN17
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: true
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    updated_on: '2024-03-15T14:14:29.955614Z'
+    web_domain: tatasteelconstruction.com
+    website: https://www.tatasteelconstruction.com/en_GB/
+  plants_count: 0
+  total_epds: 1
+  type: PlantGroup
+  updated_on: '2023-02-13T22:22:48.395290Z'
+plant_specific: false
+private: false
+product_specific: true
+program_operator:
+  address: 78 Weldon Road, Corby, NN17 5UD
+  address_line: 78 Weldon Road
+  admin_district: ENG
+  admin_district2: Northamptonshire
+  alt_names: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: GB
+  cqd_sync_unlocked: true
+  created_on: '2018-10-22T22:11:55.411903Z'
+  email_extensions:
+  - tatasteelconstruction.com
+  enterprise: true
+  id: 2808eda200684c99832a345d80055e38
+  image: https://static.buildingtransparency.org/images/b9a9cde1-99e2-4fe5-bddf-7ca22fa0b721.png
+  is_failed: false
+  latitude: 52.491142
+  legal_name: Tata Steel
+  locality: Corby
+  location:
+    boundingBox:
+      entity: position
+      northEast: 52.491469,-0.672365
+      southWest: 52.490861,-0.674072
+    buildingNumber: '78'
+    country: United Kingdom
+    countryCode: GB
+    countryCodeISO3: GBR
+    countrySecondarySubdivision: Northamptonshire
+    countrySubdivision: ENG
+    countrySubdivisionName: England
+    extendedPostalCode: NN17 5UD, NN17 5UE
+    freeformAddress: 78 Weldon Road, Corby, NN17 5UD
+    municipality: Corby
+    municipalitySubdivision: Corby
+    postalCode: NN17
+    routeNumbers:
+    - A427
+    street: Weldon Road
+    streetName: Weldon Road
+    streetNameAndNumber: 78 Weldon Road
+    streetNumber: '78'
+  longitude: -0.67337
+  name: Tata Steel
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/2808eda200684c99832a345d80055e38
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: NN17
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: true
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  updated_on: '2024-03-15T14:14:29.955614Z'
+  web_domain: tatasteelconstruction.com
+  website: https://www.tatasteelconstruction.com/en_GB/
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3uam64fj
+standard_deviation: 15.06888592 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 64.58197439 kgCO2e
+uncertainty_factor: 1.2443540345646047
+updated_on: '2024-04-08T17:40:03.614732Z'
+use_stored_carbon: false
+verifier:
+  email: olivier.muller@fr.pwc.com
+  name: Olivier Muller
+  org:
+    address: 14 Boulevard d'Alsace-Lorraine, Amiens, 80000
+    address_line: 14 Boulevard d'Alsace-Lorraine
+    admin_district: Hauts-de-France
+    admin_district2: Somme
+    alt_names:
+    - "PwC Strat\xE9gie"
+    confirmable_fields: []
+    confirmed_fields: []
+    country: FR
+    cqd_sync_unlocked: true
+    created_on: '2020-09-07T13:05:24.250616Z'
+    email_extensions:
+    - fr.pwc.com
+    enterprise: true
+    id: 7452d55c0aa7423d96efdb093a07965e
+    is_failed: false
+    latitude: 49.89176
+    locality: Amiens
+    location:
+      country: France
+      countryCode: FR
+      countryCodeISO3: FRA
+      countrySecondarySubdivision: Somme
+      countrySubdivision: Hauts-de-France
+      freeformAddress: 14 Boulevard d'Alsace-Lorraine, Amiens, 80000
+      localName: Amiens
+      municipality: Amiens
+      postalCode: '80000'
+      streetName: Boulevard d'Alsace-Lorraine
+      streetNumber: '14'
+    longitude: 2.30733
+    name: PwC France
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/7452d55c0aa7423d96efdb093a07965e
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '80000'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    updated_on: '2022-02-02T16:01:06.238830Z'
+    web_domain: pwc.fr
+    website: https://www.pwc.fr/fr.html
+warnings:
+  density:
+  - Not specified
+  developer:
+  - Developer is not employee of developer org
+  impacts:
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified

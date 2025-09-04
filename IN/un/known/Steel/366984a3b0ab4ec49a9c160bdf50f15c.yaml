@@ -1,0 +1,542 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+astm_standards: []
+box_id: '1426222310297'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2018-09-06T13:53:27.846834Z'
+  declared_unit: 1 t
+  default_distance: 664.65742 km
+  default_transport_mode: truck, unspecified
+  description: Broad category for construction materials made from steel and its alloys
+  display_name: Steel
+  draft: false
+  facility_type: MILL
+  generic_material: false
+  hide_service_life: true
+  id: db641aa0dbc34d6096547da02bf73f3a
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1000 kg
+  massless: false
+  masterformat: 05 00 00 Metals
+  may_contain_trusted_vendor_declarations: false
+  name: Steel
+  no_statistics: false
+  obsolete: false
+  openepd: Steel
+  openepd_name: Steel
+  parents: []
+  pct10_gwp: 793.3493622 kgCO2e
+  pct20_gwp: 1088.656024 kgCO2e
+  pct30_gwp: 1371.233235 kgCO2e
+  pct40_gwp: 1731.594787 kgCO2e
+  pct50_gwp: 2071.116037 kgCO2e
+  pct60_gwp: 2430.502599 kgCO2e
+  pct70_gwp: 2955.245143 kgCO2e
+  pct80_gwp: 3459.786598 kgCO2e
+  pct90_gwp: 4045.724492 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Steel
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  updated_on: '2025-09-04T09:15:08.797102Z'
+  use_stored_carbon: ABSENT
+cold_finished: false
+confirmable_fields: []
+confirmed_fields: []
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2024-01-26T14:57:43.710159Z'
+date_of_issue: '2023-12-13'
+date_validity_ends: '2028-12-12'
+declaration_type: Product EPD
+density: 7870 kg / m^3
+description: "The Stainless-Steel Cast Rolled products are used in oil gas, food industry,\
+  \ engineering, utensils, and automobile segments. The generic details of products\
+  \ covered under this category of EPD is as follows:\n\u2022\tLength \u2013 The products\
+  \ range in length between 1.5 meters to 6 meters\n\u2022\tDiameter \u2013 The products\
+  \ range in diameter between 16 mm to 240 mm\nThe range of products included under\
+  \ this EPD are:\n1.\tStainless Steel Cast Rolled Long Products\n2.\tAlloy Steel\
+  \ Cast Rolled Long Products\n3.\tSpecial Steel Cast Rolled Long Products\nThe above\
+  \ listed categories of products are manufactured in different physical shapes by\
+  \ the Laxcon Steels based on customer demand, and names based on their shape like\
+  \ Bright Bars, Rolled Black Bar, Forged Bar, Precision Shaft Quality Bars, Continuous\
+  \ Cast Billets, Forging Quality Ingots, and Rolled Quality Angles."
+developer:
+  org:
+    address: Sarkhej-Bavla Rd, Ahmedabad, Gujarat, India
+    address_line: Sarkhej-Bavla Rd
+    admin_district: GJ
+    confirmable_fields: []
+    confirmed_fields: []
+    country: IN
+    cqd_sync_unlocked: true
+    created_on: '2024-01-26T14:57:42.571989Z'
+    enterprise: false
+    id: 1090d2f02aa3465cbbcc0800bfac1668
+    is_failed: false
+    latitude: 22.9572643
+    locality: Ahmedabad
+    location:
+    - long_name: Sarkhej-Bavla Road
+      short_name: Sarkhej-Bavla Rd
+      types:
+      - route
+    - long_name: Ahmedabad
+      short_name: Ahmedabad
+      types:
+      - locality
+      - political
+    - long_name: Ahmedabad
+      short_name: Ahmedabad
+      types:
+      - administrative_area_level_3
+      - political
+    - long_name: Gujarat
+      short_name: GJ
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: India
+      short_name: IN
+      types:
+      - country
+      - political
+    longitude: 72.4717996
+    name: Laxcon Steel Limited
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/1090d2f02aa3465cbbcc0800bfac1668
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    updated_on: '2024-01-26T14:57:42.571994Z'
+    web_domain: laxconsteels.com
+    website: http://www.laxconsteels.com/
+doc: buildingtransparency.org/e/ec3ghswhcs
+document_version: '2023-12-13'
+en_standards: []
+epd_degraded: false
+errors: {}
+excluded: false
+externally_verified: true
+failures:
+  declared_unit:
+  - Not specified
+  impacts:
+  - GWP impact not specified
+file_name: S-P-09813%20Stainless%20Steel%20Cast%20%26%20Rolled%20Products%20_59cd38f4efc08962b4a4e176eae8987a63d59f9b.pdf
+galvanized: false
+id: 93caa00cb74146e2af3571d2bef91591
+image: https://static.buildingtransparency.org/images/35295a4b2f304b56843d5631e9ffc0e2.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+language: en
+manufacturer:
+  address: Sarkhej-Bavla Rd, Ahmedabad, Gujarat, India
+  address_line: Sarkhej-Bavla Rd
+  admin_district: GJ
+  confirmable_fields: []
+  confirmed_fields: []
+  country: IN
+  cqd_sync_unlocked: true
+  created_on: '2024-01-26T14:57:42.571989Z'
+  enterprise: false
+  id: 1090d2f02aa3465cbbcc0800bfac1668
+  is_failed: false
+  latitude: 22.9572643
+  locality: Ahmedabad
+  location:
+  - long_name: Sarkhej-Bavla Road
+    short_name: Sarkhej-Bavla Rd
+    types:
+    - route
+  - long_name: Ahmedabad
+    short_name: Ahmedabad
+    types:
+    - locality
+    - political
+  - long_name: Ahmedabad
+    short_name: Ahmedabad
+    types:
+    - administrative_area_level_3
+    - political
+  - long_name: Gujarat
+    short_name: GJ
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: India
+    short_name: IN
+    types:
+    - country
+    - political
+  longitude: 72.4717996
+  name: Laxcon Steel Limited
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/1090d2f02aa3465cbbcc0800bfac1668
+  password_login_allowed: true
+  pilot_all_employees: false
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  updated_on: '2024-01-26T14:57:42.571994Z'
+  web_domain: laxconsteels.com
+  website: http://www.laxconsteels.com/
+manufacturer_specific: true
+matched_plants_count: 0
+material_id: 366984a3b0ab4ec49a9c160bdf50f15c
+multiproduct: false
+my_capabilities: 1
+name: S-P-09813 Stainless Steel Cast & Rolled Products
+not_an_epd: false
+open_xpd_uuid: ec3ghswh
+original_data_format: pdf_mixed
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3ghswh
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2022-07-07T12:44:47.452836Z'
+  date_of_issue: '2020-03-31'
+  date_validity_ends: '2024-03-27'
+  doc: '#broken-link https://api.environdec.com/api/v1/EPDLibrary/Files/8baf8fef-d8b7-400d-8caf-812504f6d8a8/Data'
+  errors:
+    declared_units:
+    - Not specified
+  failures:
+    declared_units:
+    - Not specified
+  id: 2c208dbd3cd84ffa895e65712608e665
+  is_failed: false
+  issuer_doc_id: '2015:03'
+  name: PCR 2015:03 Basic iron or steel products & special steels, except construction
+    products (2.0)
+  open_xpd_uuid: ec3zanzw
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3zanzw
+  short_link: buildingtransparency.org/p/ec3zanzw9f
+  short_name: Basic iron or steel products & special steels, except construction products
+  status: Expired
+  updated_on: '2025-08-16T06:36:01.607472Z'
+  version: '2.0'
+plant_geography:
+- IN
+plant_or_group:
+  address: Sarkhej-Bavla Rd, Ahmedabad, Gujarat, India
+  address_line: Sarkhej-Bavla Rd
+  admin_district: GJ
+  carbon_intensity: 1200 kgCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: IN
+  cqd_sync_unlocked: true
+  created_on: '2024-03-15T00:10:21.055140Z'
+  id: 0bb18c50ceee46ce8a5918fc995d14cf
+  is_failed: false
+  latitude: 22.9572643
+  locality: Ahmedabad
+  location:
+  - long_name: Sarkhej-Bavla Road
+    short_name: Sarkhej-Bavla Rd
+    types:
+    - route
+  - long_name: Ahmedabad
+    short_name: Ahmedabad
+    types:
+    - locality
+    - political
+  - long_name: Ahmedabad
+    short_name: Ahmedabad
+    types:
+    - administrative_area_level_3
+    - political
+  - long_name: Gujarat
+    short_name: GJ
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: India
+    short_name: IN
+    types:
+    - country
+    - political
+  longitude: 72.4717996
+  name: Laxcon Steel Limited
+  openepd_id: 7JJJXF4C+WP.laxconsteels.com
+  owned_by:
+    address: Sarkhej-Bavla Rd, Ahmedabad, Gujarat, India
+    address_line: Sarkhej-Bavla Rd
+    admin_district: GJ
+    confirmable_fields: []
+    confirmed_fields: []
+    country: IN
+    cqd_sync_unlocked: true
+    created_on: '2024-01-26T14:57:42.571989Z'
+    enterprise: false
+    id: 1090d2f02aa3465cbbcc0800bfac1668
+    is_failed: false
+    latitude: 22.9572643
+    locality: Ahmedabad
+    location:
+    - long_name: Sarkhej-Bavla Road
+      short_name: Sarkhej-Bavla Rd
+      types:
+      - route
+    - long_name: Ahmedabad
+      short_name: Ahmedabad
+      types:
+      - locality
+      - political
+    - long_name: Ahmedabad
+      short_name: Ahmedabad
+      types:
+      - administrative_area_level_3
+      - political
+    - long_name: Gujarat
+      short_name: GJ
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: India
+      short_name: IN
+      types:
+      - country
+      - political
+    longitude: 72.4717996
+    name: Laxcon Steel Limited
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/1090d2f02aa3465cbbcc0800bfac1668
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    updated_on: '2024-01-26T14:57:42.571994Z'
+    web_domain: laxconsteels.com
+    website: http://www.laxconsteels.com/
+  total_epds: 1
+  type: Plant
+  updated_on: '2024-03-15T00:10:21.055150Z'
+plant_specific: false
+private: false
+product_specific: true
+program_operator:
+  address: "Valhallav\xE4gen 81, 11428 Stockholm"
+  address_line: "81 Valhallav\xE4gen"
+  alt_names:
+  - EnviroDec
+  - environdec
+  - the International EPD System
+  - IES
+  - EPD International
+  - "International EPD\xAE System"
+  - TheInternational EPD System
+  - "The International EPD\xAE System"
+  - The International EPD
+  attachments:
+    General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2019-04-18T13:32:25.465368Z'
+  email_extensions:
+  - environdec.com
+  enterprise: true
+  id: 9857b3f664584fadbadd5e601d9368d4
+  image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+  is_failed: false
+  latitude: 59.34655
+  legal_name: EPD International AB
+  locality: Stockholm
+  location:
+    country: Sweden
+    countryCode: SE
+    countryCodeISO3: SWE
+    freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+    municipality: Stockholm
+    municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+    postalCode: '11428'
+    streetName: "Valhallav\xE4gen"
+    streetNumber: '81'
+  longitude: 18.07285
+  name: EPD International AB
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '11428'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  updated_on: '2024-08-13T12:36:34.205186Z'
+  web_domain: environdec.com
+  website: www.environdec.com
+program_operator_fkey: S-P-09813
+requires_ocr: false
+resource_uses: {}
+sae_standards: []
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3ghswhcs
+stainless: false
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+updated_on: '2024-04-10T17:24:58.378840Z'
+use_stored_carbon: false
+verifier:
+  email: info@environdec.com
+  name: International EPD System Staff
+  org:
+    address: "Valhallav\xE4gen 81, 11428 Stockholm"
+    address_line: "81 Valhallav\xE4gen"
+    alt_names:
+    - EnviroDec
+    - environdec
+    - the International EPD System
+    - IES
+    - EPD International
+    - "International EPD\xAE System"
+    - TheInternational EPD System
+    - "The International EPD\xAE System"
+    - The International EPD
+    attachments:
+      General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+    confirmable_fields: []
+    confirmed_fields: []
+    country: SE
+    cqd_sync_unlocked: true
+    created_on: '2019-04-18T13:32:25.465368Z'
+    email_extensions:
+    - environdec.com
+    enterprise: true
+    id: 9857b3f664584fadbadd5e601d9368d4
+    image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+    is_failed: false
+    latitude: 59.34655
+    legal_name: EPD International AB
+    locality: Stockholm
+    location:
+      country: Sweden
+      countryCode: SE
+      countryCodeISO3: SWE
+      freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+      municipality: Stockholm
+      municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+      postalCode: '11428'
+      streetName: "Valhallav\xE4gen"
+      streetNumber: '81'
+    longitude: 18.07285
+    name: EPD International AB
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - '150'
+    postal_code: '11428'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    updated_on: '2024-08-13T12:36:34.205186Z'
+    web_domain: environdec.com
+    website: www.environdec.com
+warnings:
+  developer:
+  - Missing link
+  impacts:
+  - ODP impact not specified
+  - AP impact not specified
+  - EP-FRESH impact not specified
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - POCP impact not specified
+  steel_post_consumer_recycled_content:
+  - Not specified
+  steel_recycled_content:
+  - Not specified
+  steel_yield_tensile_str:
+  - Not specified

@@ -1,0 +1,472 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 597.0568616 kgCO2e
+biogenic_embodied_carbon_z: 0.1570636813525011
+box_id: '648637630912'
+c1157: []
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2019-07-01T09:38:58.417514Z'
+  declared_unit: 1 t
+  default_distance: 440.95916 km
+  default_transport_mode: truck, unspecified
+  description: Cements, including Portland and blended cements, that can serve as
+    the primary binder in a concrete mix.
+  display_name: Cement
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: 8aff83d8d78249a0b3a78bfeca4b9720
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1000 kg
+  massless: false
+  masterformat: 00 00 00 No Masterformat Code
+  may_contain_trusted_vendor_declarations: false
+  name: Cement
+  no_statistics: false
+  obsolete: false
+  openepd: ManufacturingInputs >> CementitiousMaterials >> Cement
+  openepd_name: ManufacturingInputs >> CementitiousMaterials >> Cement
+  parents: []
+  pct10_gwp: 413.6207934 kgCO2e
+  pct20_gwp: 646.0995579 kgCO2e
+  pct30_gwp: 729.5884512 kgCO2e
+  pct40_gwp: 775.9036159 kgCO2e
+  pct50_gwp: 821.1883217 kgCO2e
+  pct60_gwp: 863.464275 kgCO2e
+  pct70_gwp: 909.1903657 kgCO2e
+  pct80_gwp: 965.6581308 kgCO2e
+  pct90_gwp: 1046.207492 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Cement
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30111601'
+  updated_on: '2025-09-04T09:15:04.338853Z'
+  use_stored_carbon: ABSENT
+cementitious:
+  fly_ash: 0.0
+  ggbs: 0.0
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 778.9431384 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2020-09-07T17:21:58.211461Z'
+date_of_issue: '2018-06-07'
+date_validity_ends: '2023-05-29'
+declaration_type: Product EPD
+declared_unit: 1000 kg
+density: 2400 kg / m3
+description: "ACC Suraksha Power: ACC Suraksha Power is developed through extensive\
+  \ research and is manufactured with the latest technology in state-of- the-art cement\
+  \ plants. This variety of cement requires less water, provides dense and impermeable\
+  \ concrete which increases the long term strength of the structure. ACC Suraksha\
+  \ Power can be handled without segregation. It provides high strength concrete resulting\
+  \ in strong, sturdy and eco-friendly constructions. ACC HPC Long Life: ACC HPC Long\
+  \ life is an engineered slag cement with specialized properties for better workability\
+  \ and cohesive mortar mix in concrete. This increases permeability, resistance to\
+  \ sulphate and chlorides, protects reinforcement against corrosion, reduces heat\
+  \ of hydration resulting in less chances for thermal crack formation. It provides\
+  \ a strong impermeable Cement Paste Matrix. This brand of cement is extensively\
+  \ used to produce high grade concrete, thus rendering concrete structures durable,\
+  \ long lasting and environment-friendly. ACC Concrete+ Xtra Strong: ACC Concrete+\
+  \ Xtra strong is the latest offering from ACC, India\u2019s leading manufacturer\
+  \ of cement and ready mix concrete. Faster, Stronger, Forever is our promise and\
+  \ Concrete+ Xtra Strong delivers. The product is designed to achieve required strength\
+  \ and better workability for a better and cohesive concrete. Concrete+ Xtra strong\
+  \ is produced by inter-grinding high strength cement clinker with high quality processed\
+  \ fly ash. This product utilises fly ash (a hazardous industrial waste) to help\
+  \ conserve natural resources, thus making it an eco-friendly product. Concrete+\
+  \ Xtra strong comes in an attractive 50 kg tamper proof bag. ACC Gold Water Shield:\
+  \ ACC Gold Water shield is the only one of its kind, specially formulated cement\
+  \ with high quality water repellent properties. ACC Gold Water shield is a result\
+  \ of minutely controlled process changes under sustainable environment along with\
+  \ adjustments in the input raw material dosage in order to get the desi"
+doc: buildingtransparency.org/e/ec3fbubknw
+epd_degraded: false
+excluded: false
+externally_verified: true
+file_name: S-P-01112EPDAveragePPCandPSCCement.pdf
+gwp: 688 kgCO2e
+gwp_per_category_declared_unit: 688 kgCO2e
+gwp_per_kg: 0.688 kgCO2e
+gwp_z: 0.1570636813525011
+id: 30e3eedf70cd4fd8b63b50a0d563718d
+image: https://static.buildingtransparency.org/images/22b683fcbbb84bf596223b150ea6e798.png
+impacts: {}
+includes: []
+industry_standards: []
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lowest_plausible_gwp: 597.0568616 kgCO2e
+manufacturer:
+  address: Pune - Bengaluru Hwy, 577501, India
+  address_line: Pune - Bengaluru Hwy
+  admin_district: Karnataka
+  admin_district2: Chitradurga
+  alt_names:
+  - ACC Limited
+  - ACC Concrete - ACC Limited
+  confirmable_fields: []
+  confirmed_fields: []
+  country: IN
+  cqd_sync_unlocked: true
+  created_on: '2020-09-22T12:59:26.603488Z'
+  enterprise: true
+  id: d5c26267cc4342ea8033e0a63eb640c6
+  image: https://static.buildingtransparency.org/images/9e52460dc4e94d188a216f0f5f0cf9ce.png
+  is_failed: false
+  latitude: 14.2176103
+  locality: Chitradurga
+  location:
+  - long_name: Pune - Bengaluru Highway
+    short_name: Pune - Bengaluru Hwy
+    types:
+    - route
+  - long_name: India
+    short_name: IN
+    types:
+    - country
+    - political
+  - long_name: '577501'
+    short_name: '577501'
+    types:
+    - postal_code
+  longitude: 76.4163107
+  name: ACC Concrete
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/d5c26267cc4342ea8033e0a63eb640c6
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '577501'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  updated_on: '2022-05-24T09:55:31.065692Z'
+  web_domain: acclimited.com
+  website: http://www.acclimited.com
+manufacturer_specific: true
+mass_per_declared_unit: 1000 kg
+matched_plants_count: 0
+material_id: e2a9e2b5020f4861ae1234d2abc63744
+multiproduct: true
+my_capabilities: 1
+name: Average PPC and PSC Cement
+not_an_epd: false
+open_xpd_uuid: ec3fbubk
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3fbubk
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2021-10-05T17:10:49.415600Z'
+  date_of_issue: '2014-02-12'
+  declared_units:
+  - 1 kg
+  - 1 m2
+  - 1 m3
+  - 1 m
+  - 1 unit
+  doc: https://www.en-standard.eu/une-en-15804-2012-a1-2014-sustainability-of-construction-works-environmental-product-declarations-core-rules-for-the-product-category-of-construction-products/
+  errors: {}
+  failures: {}
+  id: b4789241a24649db9ebc3934b058eed7
+  is_failed: false
+  lcia_requirements:
+    CML 2012:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: EN 15804:2012+A1:2014 Sustainability of construction works - Environmental
+    product declarations - Core rules for the product category of construction products
+  open_xpd_uuid: ec36npc1
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec36npc1
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec36npc1zw
+  short_name: EN 15804:2012+A1:2014
+  updated_on: '2022-09-30T13:57:55.003183Z'
+  version: '1'
+pct80_gwp_per_category_declared_unit: 778.9431384 kgCO2e
+plant_geography:
+- IN
+plant_or_group:
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2020-12-18T15:18:45.356060Z'
+  id: d9684d4004de40e28a6a427a26dd9c33
+  is_failed: false
+  jurisdiction:
+  - IN
+  name: ACC Limited
+  owned_by:
+    address: Pune - Bengaluru Hwy, 577501, India
+    address_line: Pune - Bengaluru Hwy
+    admin_district: Karnataka
+    admin_district2: Chitradurga
+    alt_names:
+    - ACC Limited
+    - ACC Concrete - ACC Limited
+    confirmable_fields: []
+    confirmed_fields: []
+    country: IN
+    cqd_sync_unlocked: true
+    created_on: '2020-09-22T12:59:26.603488Z'
+    enterprise: true
+    id: d5c26267cc4342ea8033e0a63eb640c6
+    image: https://static.buildingtransparency.org/images/9e52460dc4e94d188a216f0f5f0cf9ce.png
+    is_failed: false
+    latitude: 14.2176103
+    locality: Chitradurga
+    location:
+    - long_name: Pune - Bengaluru Highway
+      short_name: Pune - Bengaluru Hwy
+      types:
+      - route
+    - long_name: India
+      short_name: IN
+      types:
+      - country
+      - political
+    - long_name: '577501'
+      short_name: '577501'
+      types:
+      - postal_code
+    longitude: 76.4163107
+    name: ACC Concrete
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/d5c26267cc4342ea8033e0a63eb640c6
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '577501'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    updated_on: '2022-05-24T09:55:31.065692Z'
+    web_domain: acclimited.com
+    website: http://www.acclimited.com
+  plants_count: 0
+  total_epds: 15
+  type: PlantGroup
+  updated_on: '2020-12-18T15:18:45.356068Z'
+plant_specific: false
+private: false
+product_classes: {}
+product_specific: false
+program_operator:
+  address: "Valhallav\xE4gen 81, 11428 Stockholm"
+  address_line: "81 Valhallav\xE4gen"
+  alt_names:
+  - EnviroDec
+  - environdec
+  - the International EPD System
+  - IES
+  - EPD International
+  - "International EPD\xAE System"
+  - TheInternational EPD System
+  - "The International EPD\xAE System"
+  - The International EPD
+  attachments:
+    General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2019-04-18T13:32:25.465368Z'
+  email_extensions:
+  - environdec.com
+  enterprise: true
+  id: 9857b3f664584fadbadd5e601d9368d4
+  image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+  is_failed: false
+  latitude: 59.34655
+  legal_name: EPD International AB
+  locality: Stockholm
+  location:
+    country: Sweden
+    countryCode: SE
+    countryCodeISO3: SWE
+    freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+    municipality: Stockholm
+    municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+    postalCode: '11428'
+    streetName: "Valhallav\xE4gen"
+    streetNumber: '81'
+  longitude: 18.07285
+  name: EPD International AB
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '11428'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  updated_on: '2024-08-13T12:36:34.205186Z'
+  web_domain: environdec.com
+  website: www.environdec.com
+program_operator_fkey: S-P-01112
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3fbubknw
+standard_deviation: 108.0598128 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 778.9431384 kgCO2e
+uncertainty_factor: 1.1321847942262648
+updated_on: '2025-01-14T04:08:43.961698Z'
+use_stored_carbon: false
+verifier:
+  email: hudai.kara@metsims.com
+  name: Hudai Kara
+  org:
+    address: 4 Clearwater Pl, Oxford OX2 7NL, UK
+    address_line: 4 Clearwater Pl
+    admin_district: England
+    admin_district2: Oxfordshire
+    confirmable_fields: []
+    confirmed_fields: []
+    country: GB
+    cqd_sync_unlocked: true
+    created_on: '2020-08-05T16:51:17.469781Z'
+    email_extensions:
+    - metsims.com
+    enterprise: true
+    id: 2f5d682725cc405ab8849e8f25769c6a
+    image: https://static.buildingtransparency.org/images/2ffceb6c62eb45f4862928b9344ed7c2.png
+    is_failed: false
+    latitude: 51.7734539
+    legal_name: Metsims Limited
+    locality: Oxford
+    location:
+    - long_name: '4'
+      short_name: '4'
+      types:
+      - street_number
+    - long_name: Clearwater Place
+      short_name: Clearwater Pl
+      types:
+      - route
+    - long_name: Oxford
+      short_name: Oxford
+      types:
+      - postal_town
+    - long_name: Oxfordshire
+      short_name: Oxfordshire
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: England
+      short_name: England
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: United Kingdom
+      short_name: GB
+      types:
+      - country
+      - political
+    - long_name: OX2 7NL
+      short_name: OX2 7NL
+      types:
+      - postal_code
+    longitude: -1.2700055
+    name: Metsims Sustainability Consulting
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/2f5d682725cc405ab8849e8f25769c6a
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: OX2 7NL
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    updated_on: '2024-09-05T10:07:50.465795Z'
+    web_domain: metsims.com
+    website: https://www.metsims.com/
+warnings:
+  developer:
+  - Missing link
+  developer_org:
+  - Missing link
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  pcr:
+  - PCR validity dates not found
+white_cement: false

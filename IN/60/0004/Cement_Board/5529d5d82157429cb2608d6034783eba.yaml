@@ -1,0 +1,607 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 2.888251557 kgCO2e
+biogenic_embodied_carbon_z: 0.2104756517984919
+box_id: '648656660374'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2021-04-26T10:43:44Z'
+  declared_unit: 1 m2
+  default_distance: 189.90212 km
+  default_transport_mode: truck, unspecified
+  description: Hard cementitious boards, typically used as a tile backer.
+  display_name: Cement Board
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: 088ba9fc78a24ab1b5b1f93c0c44a96a
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 12.7 kg
+  massless: false
+  masterformat: 09 28 13 Cementitious Backing Board
+  may_contain_trusted_vendor_declarations: false
+  name: CementBoard
+  no_statistics: false
+  obsolete: false
+  openepd: Finishes >> CementBoard
+  openepd_name: Finishes >> CementBoard
+  parents: []
+  pct10_gwp: 6.449389085 kgCO2e
+  pct20_gwp: 6.7543537 kgCO2e
+  pct30_gwp: 6.973640969 kgCO2e
+  pct40_gwp: 7.706285325 kgCO2e
+  pct50_gwp: 8.716700012 kgCO2e
+  pct60_gwp: 10.19623696 kgCO2e
+  pct70_gwp: 11.46921114 kgCO2e
+  pct80_gwp: 13.23992693 kgCO2e
+  pct90_gwp: 17.24569197 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Cement Board
+  short_service_life_disclaimer: true
+  subcategories: []
+  template_builders: []
+  unspsc: '30161501'
+  updated_on: '2025-09-04T09:15:12.821221Z'
+  use_stored_carbon: ABSENT
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 4.131748443 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2022-07-18T01:56:17.483337Z'
+date_of_issue: '2019-06-07'
+date_validity_ends: '2024-06-06'
+declaration_type: Product EPD
+declared_unit: 1 m2
+density: 1200 kg / m3
+description: 'Greencor roofing sheet: Greencor is new age non-asbestos roofing material
+  made with the finest quality Portland cement, natural mineral binders and synthetic
+  fibres which gives an exceptional properties and edge over metal roofing sheet.
+  Hicem fibre cement board: These boards are manufactured using cement, cellulose
+  fibres and special additives. The boards are made in a laminar process and then
+  High-Pressure Steam curing (HPSC) processed to give a stable crystalline structure
+  which makes the board durable and dimensionally stable and provides superior sound
+  and thermal insulation properties. It clearly outperforms existing building materials
+  on most important parameters, including on Flexural Strength, Impact strength, water-resistance,
+  surface finish, fire resistance and resistance of fungus, borer termite attacks.
+  Hilux calcium silicate board: These are calcium silicate board made from siliceous
+  and calcareous material reinforced with cellulose fibres. The boards are made in
+  a laminar process and then High-Pressure Steam curing (HPSC) processed to give a
+  stable crystalline structure which makes the board durable and dimensionally stable
+  and provides superior sound and thermal insulation properties. It clearly outperforms
+  existing building materials on most important parameters, including on Flexural
+  Strength, Impact strength, water-resistance, surface finish, fire resistance and
+  resistance of fungus, borer termite attacks. Hilux finds niche applications across
+  wide spectrum of industries including Pharma, Hospitality, Textile, Engineering,
+  Information Technology and Medical care.'
+developer:
+  email: rajesh.singh@thinkstep.com
+  name: Rajesh Kumar Singh
+  org:
+    address: 7500 Stewart Ave, Wausau, WI 54401, USA
+    address_line: 7500 Stewart Ave
+    admin_district: WI
+    admin_district2: Marathon County
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2022-02-03T17:40:00.183142Z'
+    enterprise: false
+    id: 215fe49edac1494f85255ad38e55ea12
+    invalid_after: '2015-01-01'
+    is_failed: false
+    latitude: 44.9562397
+    locality: Wausau
+    location:
+    - long_name: '7500'
+      short_name: '7500'
+      types:
+      - street_number
+    - long_name: Stewart Avenue
+      short_name: Stewart Ave
+      types:
+      - route
+    - long_name: Wausau
+      short_name: Wausau
+      types:
+      - locality
+      - political
+    - long_name: Marathon County
+      short_name: Marathon County
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Wisconsin
+      short_name: WI
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: United States
+      short_name: US
+      types:
+      - country
+      - political
+    - long_name: '54401'
+      short_name: '54401'
+      types:
+      - postal_code
+    longitude: -89.73007299999999
+    name: thinkstep AG
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/215fe49edac1494f85255ad38e55ea12
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '54401'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    updated_on: '2022-03-14T14:05:21.980894Z'
+    web_domain: thinkstep.com
+    website: https://thinkstep.com/
+doc: buildingtransparency.org/e/ec35dj6zjn
+excluded: false
+externally_verified: true
+file_name: S-P-01410EPDFibrecementproduct(Greencorroofingsheet,HicemfibrecementboardandHiluxcalciumsilicateboard).pdf
+gwp: 3.51 kgCO2e
+gwp_per_category_declared_unit: 3.51 kgCO2e
+gwp_per_kg: 0.73125 kgCO2e
+gwp_z: 0.2104756517984919
+id: 50bcce254cf04d32ae721d3230cb3566
+image: https://static.buildingtransparency.org/images/bab312b1be8840f6b42d247bafd5b0a2.png
+impacts: {}
+includes: []
+industry_standards: []
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lowest_plausible_gwp: 2.888251557 kgCO2e
+manufacturer:
+  address: 98a, Dr Radha Krishnan Salai, Jagadambal Colony, Rotary Nagar, Mylapore,
+    Chennai, Tamil Nadu 600004, India
+  address_line: 98a Dr Radha Krishnan Salai
+  admin_district: TN
+  admin_district2: Chennai
+  confirmable_fields: []
+  confirmed_fields: []
+  country: IN
+  cqd_sync_unlocked: true
+  created_on: '2020-09-22T12:57:17.112423Z'
+  enterprise: true
+  id: a1c7a381920d44ad803a6282ba517811
+  is_failed: false
+  latitude: 13.043425
+  locality: Chennai
+  location:
+  - long_name: 98a
+    short_name: 98a
+    types:
+    - street_number
+  - long_name: Doctor Radha Krishnan Salai
+    short_name: Dr Radha Krishnan Salai
+    types:
+    - route
+  - long_name: Jagadambal Colony
+    short_name: Jagadambal Colony
+    types:
+    - neighborhood
+    - political
+  - long_name: Rotary Nagar
+    short_name: Rotary Nagar
+    types:
+    - political
+    - sublocality
+    - sublocality_level_2
+  - long_name: Mylapore
+    short_name: Mylapore
+    types:
+    - political
+    - sublocality
+    - sublocality_level_1
+  - long_name: Chennai
+    short_name: Chennai
+    types:
+    - locality
+    - political
+  - long_name: Chennai
+    short_name: Chennai
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Tamil Nadu
+    short_name: TN
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: India
+    short_name: IN
+    types:
+    - country
+    - political
+  - long_name: '600004'
+    short_name: '600004'
+    types:
+    - postal_code
+  longitude: 80.27578539999999
+  name: Ramco Industries Limited
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/a1c7a381920d44ad803a6282ba517811
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '600004'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  updated_on: '2021-10-01T10:45:55.159556Z'
+  web_domain: ramcoindltd.com
+  website: http://www.ramcoindltd.com/
+manufacturer_specific: true
+mass_per_declared_unit: 4.8 kg
+matched_plants_count: 0
+material_id: 5529d5d82157429cb2608d6034783eba
+multiproduct: true
+my_capabilities: 1
+name: Fibre cement product -  Hicem Fibre Cement Board 4 mm
+not_an_epd: false
+open_xpd_uuid: ec38qmrf
+original_data_format: pdf_manual
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec38qmrf
+output_flows: {}
+owner:
+  name: Bonnie Gan
+  user_id: bonnie.gan@c-change-labs.com
+pcr:
+  alt_names:
+  - Verified EPD based on IES PCR 2012:01
+  - 'IES 2012-01-09 PCR : Construction Products and Construction Services'
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2020-10-06T09:57:37.220869Z'
+  date_of_issue: '2018-11-15'
+  date_validity_ends: '2019-12-19'
+  declared_units:
+  - 1 unit
+  - 1 m
+  - 1 m2
+  - 1 m3
+  - 1 kg
+  doc: '#broken-link https://portal.environdec.com/api/api/v1/EPDLibrary/Files/8db1b3cb-e7b9-4716-bd72-c139274f5bed/Data'
+  errors: {}
+  failures: {}
+  id: 948c710f72fd4dfe85a6aaa91b7d327b
+  is_failed: false
+  lcia_requirements:
+    EF 3.0:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: PCR 2012:01 Construction products and construction services (EN 15804:A1)
+  open_xpd_uuid: ec3fjrzp
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3fjrzp
+  short_link: buildingtransparency.org/p/ec3fjrzpgw
+  short_name: Construction products and construction services (EN 15804:A1)
+  status: Sunset
+  updated_on: '2025-09-04T18:46:00.173346Z'
+  version: '2.3'
+pcr_notes: 'Described list of products: Greencor roofing sheet, Hicem fibre cement
+  board, Hilux calcium silicate board'
+pct80_gwp_per_category_declared_unit: 4.131748443 kgCO2e
+plant_geography:
+- IN
+plant_or_group:
+  address: Arakkonam, Tamil Nadu, India
+  admin_district: TN
+  admin_district2: Vellore
+  alt_names: []
+  carbon_intensity: 1200 kgCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: IN
+  cqd_sync_unlocked: true
+  created_on: '2022-07-18T01:54:57.645085Z'
+  id: de6f51650d394dacb13b541a1e655da1
+  is_failed: false
+  latitude: 13.0840593
+  locality: Arakkonam
+  location:
+  - long_name: Arakkonam
+    short_name: Arakkonam
+    types:
+    - locality
+    - political
+  - long_name: Vellore
+    short_name: Vellore
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Tamil Nadu
+    short_name: TN
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: India
+    short_name: IN
+    types:
+    - country
+    - political
+  longitude: 79.6704128
+  name: Arakkonam
+  openepd_id: 7J5X3MMC+J5.ramcoindltd.com
+  owned_by:
+    address: 98a, Dr Radha Krishnan Salai, Jagadambal Colony, Rotary Nagar, Mylapore,
+      Chennai, Tamil Nadu 600004, India
+    address_line: 98a Dr Radha Krishnan Salai
+    admin_district: TN
+    admin_district2: Chennai
+    confirmable_fields: []
+    confirmed_fields: []
+    country: IN
+    cqd_sync_unlocked: true
+    created_on: '2020-09-22T12:57:17.112423Z'
+    enterprise: true
+    id: a1c7a381920d44ad803a6282ba517811
+    is_failed: false
+    latitude: 13.043425
+    locality: Chennai
+    location:
+    - long_name: 98a
+      short_name: 98a
+      types:
+      - street_number
+    - long_name: Doctor Radha Krishnan Salai
+      short_name: Dr Radha Krishnan Salai
+      types:
+      - route
+    - long_name: Jagadambal Colony
+      short_name: Jagadambal Colony
+      types:
+      - neighborhood
+      - political
+    - long_name: Rotary Nagar
+      short_name: Rotary Nagar
+      types:
+      - political
+      - sublocality
+      - sublocality_level_2
+    - long_name: Mylapore
+      short_name: Mylapore
+      types:
+      - political
+      - sublocality
+      - sublocality_level_1
+    - long_name: Chennai
+      short_name: Chennai
+      types:
+      - locality
+      - political
+    - long_name: Chennai
+      short_name: Chennai
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Tamil Nadu
+      short_name: TN
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: India
+      short_name: IN
+      types:
+      - country
+      - political
+    - long_name: '600004'
+      short_name: '600004'
+      types:
+      - postal_code
+    longitude: 80.27578539999999
+    name: Ramco Industries Limited
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/a1c7a381920d44ad803a6282ba517811
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '600004'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    updated_on: '2021-10-01T10:45:55.159556Z'
+    web_domain: ramcoindltd.com
+    website: http://www.ramcoindltd.com/
+  total_epds: 4
+  type: Plant
+  units: SI
+  updated_on: '2022-07-18T02:00:05.386608Z'
+plant_specific: true
+private: false
+product_classes: {}
+product_specific: true
+program_operator:
+  address: "Valhallav\xE4gen 81, 11428 Stockholm"
+  address_line: "81 Valhallav\xE4gen"
+  alt_names:
+  - EnviroDec
+  - environdec
+  - the International EPD System
+  - IES
+  - EPD International
+  - "International EPD\xAE System"
+  - TheInternational EPD System
+  - "The International EPD\xAE System"
+  - The International EPD
+  attachments:
+    General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2019-04-18T13:32:25.465368Z'
+  email_extensions:
+  - environdec.com
+  enterprise: true
+  id: 9857b3f664584fadbadd5e601d9368d4
+  image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+  is_failed: false
+  latitude: 59.34655
+  legal_name: EPD International AB
+  locality: Stockholm
+  location:
+    country: Sweden
+    countryCode: SE
+    countryCodeISO3: SWE
+    freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+    municipality: Stockholm
+    municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+    postalCode: '11428'
+    streetName: "Valhallav\xE4gen"
+    streetNumber: '81'
+  longitude: 18.07285
+  name: EPD International AB
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '11428'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  updated_on: '2024-08-13T12:36:34.205186Z'
+  web_domain: environdec.com
+  website: www.environdec.com
+program_operator_fkey: S-P-01410
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec38qmrfea
+standard_deviation: 0.7387695378 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 4.131748443 kgCO2e
+uncertainty_factor: 1.1771363085536108
+updated_on: '2025-01-14T19:34:23.650769Z'
+use_stored_carbon: false
+verifier:
+  email: cssunil67@gmail.com
+  name: Sunil Kumar CS
+  org:
+    address: 7th Block Road J P Nagar, Bengaluru, Karnataka
+    address_line: ' 7th Block Road J P Nagar'
+    admin_district: Karnataka
+    admin_district2: Bengaluru
+    confirmable_fields: []
+    confirmed_fields: []
+    country: IN
+    cqd_sync_unlocked: true
+    created_on: '2020-11-02T13:53:15.308330Z'
+    enterprise: true
+    id: 8addf2cb8eab4b95b04fb7c870f2ff1a
+    is_failed: false
+    latitude: 12.86901
+    locality: Bengaluru
+    location:
+      country: India
+      countryCode: IN
+      countryCodeISO3: IND
+      countrySecondarySubdivision: Bengaluru
+      countrySubdivision: Karnataka
+      freeformAddress: 7th Block Road J P Nagar, Bengaluru, Karnataka
+      localName: Bengaluru
+      municipality: Bengaluru
+      municipalitySubdivision: JP Nagar IX Phase
+      postalCode: 560062, 560108
+      streetName: 7th Block Road J P Nagar
+    longitude: 77.57009
+    name: Chakra4 Sustainability Consulting Services
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/8addf2cb8eab4b95b04fb7c870f2ff1a
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: 560062, 560108
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    updated_on: '2021-12-31T19:35:47.607207Z'
+    web_domain: chakra4.in
+    website: www.chakra4.in
+warnings:
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified

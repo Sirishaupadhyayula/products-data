@@ -1,0 +1,509 @@
+also_shown_in: []
+applicable_in:
+- IN
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 12.46815843 kgCO2e
+biogenic_embodied_carbon_z: 0.2903446228191595
+box_id: '731002111226'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2020-05-12T14:34:34Z'
+  declared_unit: 1 m2
+  default_distance: 1647.968 km
+  default_transport_mode: truck, unspecified
+  description: Insulated metal panel (IMP) for exterior wall applications
+  display_name: Insulated Wall Panels
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: 8eb6a511c7d94f4f89e673b6e9badd3c
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 13.05 kg
+  massless: false
+  masterformat: 07 42 00 Wall Panels
+  may_contain_trusted_vendor_declarations: false
+  name: InsulatedWallPanels
+  no_statistics: false
+  obsolete: false
+  openepd: Cladding >> InsulatedWallPanels
+  openepd_name: Cladding >> InsulatedWallPanels
+  parents: []
+  pct10_gwp: 16.92017986 kgCO2e
+  pct20_gwp: 33.49407848 kgCO2e
+  pct30_gwp: 38.89254589 kgCO2e
+  pct40_gwp: 43.1932131 kgCO2e
+  pct50_gwp: 47.3208796 kgCO2e
+  pct60_gwp: 51.23178418 kgCO2e
+  pct70_gwp: 56.24121855 kgCO2e
+  pct80_gwp: 63.49240439 kgCO2e
+  pct90_gwp: 76.87330943 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Insulated Wall Panels
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30151800'
+  updated_on: '2025-09-04T09:15:19.672956Z'
+  use_stored_carbon: ABSENT
+cladding_insulating_material: EPS
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 20.53184157 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2022-08-19T12:21:10.502854Z'
+date_of_issue: '2020-08-04'
+date_validity_ends: '2025-08-03'
+declaration_type: Product EPD
+declared_unit: 1 m2
+description: The thermal protection of both existing and new buildings can be effectively
+  achieved by using thermal insulation externally as a building envelope much like
+  the action of a thermos flask. ETICS technology conforms to a set of globally acknowledged
+  standards which also take into account the procedures and installation techniques
+  related with application. These standards were historically established in Europe
+  but have since been taken to all parts of the globe. The system contains components
+  including the basic insulation material (EPS - Expanded Polystyrene Foam or Mineral
+  Wool), layers of adhesive, mechanical fasteners, a reinforced layer with fibre glass
+  mesh, reinforcements and accessories, primers and plasters. Addition of the system
+  to the external wall of a structure can create a major impact towards reducing the
+  amount of electricity needed for cooling/heating the interior of the building. The
+  topcoat finishing layer of ETICS successfully refreshes the external facade of a
+  structure through a variety of available finishes which also enhance the aesthetic
+  qualities of the building. Indeed, suitably designed and detailed ETICS retains
+  a fresh, clean appearance for a substantial period of time.
+developer:
+  email: rsingh@sphera.com
+  name: Rajesh Kumar Singh
+  org:
+    address: 130 East Randolph Street, Chicago, IL 60601
+    address_line: 130 East Randolph Street
+    admin_district: IL
+    admin_district2: Cook
+    alt_names:
+    - PE International
+    - thinkstep, Inc.
+    - thinkstep AG
+    - thinkstep
+    - PE INTERNATIONAL AG
+    - Thinkstep AG
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-28T21:38:04.012143Z'
+    email: info@thinkstep.com
+    email_extensions:
+    - thinkstep.com
+    - pe-international.com
+    - sphera.com
+    enterprise: true
+    id: 72d41d92d6d741f68ce626557efcc1c0
+    image: https://static.buildingtransparency.org/images/a82275ae-15d5-4a2f-a24f-5a33d97cdcf2
+    is_failed: false
+    latitude: 41.88507
+    legal_name: Sphera
+    locality: Chicago
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Cook
+      countrySubdivision: IL
+      countrySubdivisionName: Illinois
+      countryTertiarySubdivision: Chicago
+      extendedPostalCode: '606016208'
+      freeformAddress: 130 East Randolph Street, Chicago, IL 60601
+      localName: Chicago
+      municipality: Chicago
+      municipalitySubdivision: Downtown Chicago
+      postalCode: '60601'
+      streetName: East Randolph Street
+      streetNumber: '130'
+    longitude: -87.62311
+    name: Sphera
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/72d41d92d6d741f68ce626557efcc1c0
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '60601'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: true
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    updated_on: '2022-02-02T15:47:47.511452Z'
+    web_domain: sphera.com
+    website: sphera.com
+doc: buildingtransparency.org/e/ec38yh2qzf
+epd_degraded: false
+excluded: false
+externally_verified: true
+file_name: S-P-01418EPDupdated.pdf
+gwp: 16.5 kgCO2e
+gwp_per_category_declared_unit: 16.5 kgCO2e
+gwp_per_kg: 0.8056640625 kgCO2e
+gwp_z: 0.2903446228191595
+id: c51612e1e07a4d40b2873f50eae641dd
+image: https://static.buildingtransparency.org/images/e8820405c7c440febd62446ed045c90e.png
+impacts: {}
+includes: []
+industry_standards: []
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- IN
+language: en
+lowest_plausible_gwp: 12.46815843 kgCO2e
+manufacturer:
+  address: Agha Mehdi Street, Kolkata, West Bengal
+  address_line: ' Agha Mehdi Street'
+  admin_district: West Bengal
+  admin_district2: Kolkata
+  confirmable_fields: []
+  confirmed_fields: []
+  country: IN
+  cqd_sync_unlocked: true
+  created_on: '2020-11-17T16:55:23.001671Z'
+  enterprise: true
+  id: b4e4429b747c409a97f24a99711528f2
+  is_failed: false
+  latitude: 22.55579
+  locality: Kolkata
+  location:
+    country: India
+    countryCode: IN
+    countryCodeISO3: IND
+    countrySecondarySubdivision: Kolkata
+    countrySubdivision: West Bengal
+    freeformAddress: Agha Mehdi Street, Kolkata, West Bengal
+    localName: Kolkata
+    municipality: Kolkata
+    streetName: Agha Mehdi Street
+  longitude: 88.36187
+  name: Berger Paints India Limited
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/b4e4429b747c409a97f24a99711528f2
+  password_login_allowed: true
+  pilot_all_employees: false
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  updated_on: '2022-06-29T04:14:56.487776Z'
+  web_domain: bergerpaints.com
+  website: https://www.bergerpaints.com/
+manufacturer_specific: true
+mass_per_declared_unit: 20.48 kg
+matched_plants_count: 0
+material_id: 6321096c72f240dfad059536d5f37c33
+multiproduct: true
+my_capabilities: 1
+name: Berger ETICS with Mineral-woolboard (50mm)
+not_an_epd: false
+open_xpd_uuid: ec3f8nur
+original_data_format: pdf_manual
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3f8nur
+output_flows: {}
+owner:
+  name: Oleh Chyhyryn
+  user_id: oleg.chigirin@c-change-labs.com
+pcr:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2020-04-10T10:59:57.316112Z'
+  date_of_issue: '2019-12-20'
+  date_validity_ends: '2020-06-30'
+  declared_units:
+  - 1 unit
+  - 1 m
+  - 1 m2
+  - 1 m3
+  - 1 kg
+  doc: '#broken-link https://portal.environdec.com/api/api/v1/EPDLibrary/Files/8db1b3cb-e7b9-4716-bd72-c139274f5bed/Data'
+  errors: {}
+  failures: {}
+  id: fd799ac38f924438bf55649d05bc1827
+  is_failed: false
+  lcia_requirements:
+    EF 3.0:
+      impacts: []
+      order: 1
+  name: PCR 2012:01 Construction products and construction services (EN 15804:A1)
+  open_xpd_uuid: ec3x1hy9
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3x1hy9
+  short_link: buildingtransparency.org/p/ec3x1hy9yp
+  short_name: Construction products and construction services (EN 15804:A1)
+  status: Sunset
+  updated_on: '2025-09-04T18:46:00.185277Z'
+  version: '2.31'
+pct80_gwp_per_category_declared_unit: 20.53184157 kgCO2e
+plant_geography:
+- IN
+plant_or_group:
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2020-11-18T12:55:41.547218Z'
+  id: 200108c93e9f47fda58d87901ae5a7ea
+  is_failed: false
+  jurisdiction:
+  - IN
+  name: 8 plants of Berger Paints India Limited
+  owned_by:
+    address: Agha Mehdi Street, Kolkata, West Bengal
+    address_line: ' Agha Mehdi Street'
+    admin_district: West Bengal
+    admin_district2: Kolkata
+    confirmable_fields: []
+    confirmed_fields: []
+    country: IN
+    cqd_sync_unlocked: true
+    created_on: '2020-11-17T16:55:23.001671Z'
+    enterprise: true
+    id: b4e4429b747c409a97f24a99711528f2
+    is_failed: false
+    latitude: 22.55579
+    locality: Kolkata
+    location:
+      country: India
+      countryCode: IN
+      countryCodeISO3: IND
+      countrySecondarySubdivision: Kolkata
+      countrySubdivision: West Bengal
+      freeformAddress: Agha Mehdi Street, Kolkata, West Bengal
+      localName: Kolkata
+      municipality: Kolkata
+      streetName: Agha Mehdi Street
+    longitude: 88.36187
+    name: Berger Paints India Limited
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/b4e4429b747c409a97f24a99711528f2
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    updated_on: '2022-06-29T04:14:56.487776Z'
+    web_domain: bergerpaints.com
+    website: https://www.bergerpaints.com/
+  plants_count: 0
+  total_epds: 13
+  type: PlantGroup
+  updated_on: '2020-11-18T12:55:41.547227Z'
+plant_specific: false
+private: false
+product_classes: {}
+product_specific: true
+program_operator:
+  address: "Valhallav\xE4gen 81, 11428 Stockholm"
+  address_line: "81 Valhallav\xE4gen"
+  alt_names:
+  - EnviroDec
+  - environdec
+  - the International EPD System
+  - IES
+  - EPD International
+  - "International EPD\xAE System"
+  - TheInternational EPD System
+  - "The International EPD\xAE System"
+  - The International EPD
+  attachments:
+    General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2019-04-18T13:32:25.465368Z'
+  email_extensions:
+  - environdec.com
+  enterprise: true
+  id: 9857b3f664584fadbadd5e601d9368d4
+  image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+  is_failed: false
+  latitude: 59.34655
+  legal_name: EPD International AB
+  locality: Stockholm
+  location:
+    country: Sweden
+    countryCode: SE
+    countryCodeISO3: SWE
+    freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+    municipality: Stockholm
+    municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+    postalCode: '11428'
+    streetName: "Valhallav\xE4gen"
+    streetNumber: '81'
+  longitude: 18.07285
+  name: EPD International AB
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '11428'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  updated_on: '2024-08-13T12:36:34.205186Z'
+  web_domain: environdec.com
+  website: www.environdec.com
+program_operator_fkey: S-P-01418
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3f8nur2u
+standard_deviation: 4.790686277 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+thickness: 50 mm
+third_party_verified: true
+uncertainty_adjusted_gwp: 20.53184157 kgCO2e
+uncertainty_factor: 1.2443540345646047
+updated_on: '2025-01-14T19:31:25.080025Z'
+use_stored_carbon: false
+verifier:
+  email: hudai.kara@metsims.com
+  name: Hudai Kara
+  org:
+    address: 4 Clearwater Pl, Oxford OX2 7NL, UK
+    address_line: 4 Clearwater Pl
+    admin_district: England
+    admin_district2: Oxfordshire
+    confirmable_fields: []
+    confirmed_fields: []
+    country: GB
+    cqd_sync_unlocked: true
+    created_on: '2020-08-05T16:51:17.469781Z'
+    email_extensions:
+    - metsims.com
+    enterprise: true
+    id: 2f5d682725cc405ab8849e8f25769c6a
+    image: https://static.buildingtransparency.org/images/2ffceb6c62eb45f4862928b9344ed7c2.png
+    is_failed: false
+    latitude: 51.7734539
+    legal_name: Metsims Limited
+    locality: Oxford
+    location:
+    - long_name: '4'
+      short_name: '4'
+      types:
+      - street_number
+    - long_name: Clearwater Place
+      short_name: Clearwater Pl
+      types:
+      - route
+    - long_name: Oxford
+      short_name: Oxford
+      types:
+      - postal_town
+    - long_name: Oxfordshire
+      short_name: Oxfordshire
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: England
+      short_name: England
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: United Kingdom
+      short_name: GB
+      types:
+      - country
+      - political
+    - long_name: OX2 7NL
+      short_name: OX2 7NL
+      types:
+      - postal_code
+    longitude: -1.2700055
+    name: Metsims Sustainability Consulting
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/2f5d682725cc405ab8849e8f25769c6a
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: OX2 7NL
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    updated_on: '2024-09-05T10:07:50.465795Z'
+    web_domain: metsims.com
+    website: https://www.metsims.com/
+warnings:
+  density:
+  - Not specified
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  pcr:
+  - EPD issued after PCR expiry date. Check version or expiry of PCR.

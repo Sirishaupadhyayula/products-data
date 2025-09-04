@@ -1,0 +1,552 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 36.19544174 kgCO2e
+biogenic_embodied_carbon_z: 0.2903446228191595
+box_id: '1426262279581'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2020-05-25T14:43:05Z'
+  declared_unit: 1 t
+  default_distance: 189 km
+  default_transport_mode: truck, unspecified
+  description: Solid masonry units made from clay or shale
+  display_name: Brick
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: 41ff8f44d89c4cdbbcdf2671a35286f5
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1000 kg
+  massless: false
+  masterformat: 04 21 00 Clay Unit Masonry
+  may_contain_trusted_vendor_declarations: false
+  name: Brick
+  no_statistics: false
+  obsolete: false
+  openepd: Masonry >> Brick
+  openepd_name: Masonry >> Brick
+  parents: []
+  pct10_gwp: 112.1898151 kgCO2e
+  pct20_gwp: 137.5157515 kgCO2e
+  pct30_gwp: 156.8483925 kgCO2e
+  pct40_gwp: 171.4637304 kgCO2e
+  pct50_gwp: 191.3146729 kgCO2e
+  pct60_gwp: 216.6943015 kgCO2e
+  pct70_gwp: 255.5922144 kgCO2e
+  pct80_gwp: 286.8894493 kgCO2e
+  pct90_gwp: 489.0764387 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Brick
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30131600'
+  updated_on: '2025-09-04T09:15:03.274536Z'
+  use_stored_carbon: ABSENT
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 59.60455826 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2024-01-26T17:09:40.289029Z'
+date_of_issue: '2023-02-03'
+date_validity_ends: '2028-02-02'
+declaration_type: Product EPD
+declared_unit: 1.0 t
+description: Clay Product consist of handmade bricks, soft mud bricks, extruded bricks
+  facing and solid and extruded blocks. For manufacturing, the clay is procured from
+  designated clay providers, further the clay is weathered at one factory location
+  for up to 2 months and then sent for mechanised clay preparation in Box feeder,
+  Crusher and Filter Mixer.
+developer:
+  email: rsingh@sphera.com
+  name: Rajesh Kumar Singh
+  org:
+    address: 130 East Randolph Street, Chicago, IL 60601
+    address_line: 130 East Randolph Street
+    admin_district: IL
+    admin_district2: Cook
+    alt_names:
+    - PE International
+    - thinkstep, Inc.
+    - thinkstep AG
+    - thinkstep
+    - PE INTERNATIONAL AG
+    - Thinkstep AG
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-28T21:38:04.012143Z'
+    email: info@thinkstep.com
+    email_extensions:
+    - thinkstep.com
+    - pe-international.com
+    - sphera.com
+    enterprise: true
+    id: 72d41d92d6d741f68ce626557efcc1c0
+    image: https://static.buildingtransparency.org/images/a82275ae-15d5-4a2f-a24f-5a33d97cdcf2
+    is_failed: false
+    latitude: 41.88507
+    legal_name: Sphera
+    locality: Chicago
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Cook
+      countrySubdivision: IL
+      countrySubdivisionName: Illinois
+      countryTertiarySubdivision: Chicago
+      extendedPostalCode: '606016208'
+      freeformAddress: 130 East Randolph Street, Chicago, IL 60601
+      localName: Chicago
+      municipality: Chicago
+      municipalitySubdivision: Downtown Chicago
+      postalCode: '60601'
+      streetName: East Randolph Street
+      streetNumber: '130'
+    longitude: -87.62311
+    name: Sphera
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/72d41d92d6d741f68ce626557efcc1c0
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '60601'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: true
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    updated_on: '2022-02-02T15:47:47.511452Z'
+    web_domain: sphera.com
+    website: sphera.com
+doc: buildingtransparency.org/e/ec3e7wfxp6
+document_version: '2023-02-03'
+epd_degraded: false
+excluded: false
+externally_verified: true
+file_name: S-P-06476%20Clay%20Products_26ca1028372cb00d36cd07db3c631d9de9796f30.pdf
+gwp: 47.9 kgCO2e
+gwp_per_category_declared_unit: 47.9 kgCO2e
+gwp_per_kg: 0.0479 kgCO2e
+gwp_z: 0.2903446228191595
+id: a4c5209d84b943058d9907adb45453f7
+image: https://static.buildingtransparency.org/images/6988d3bfbad24c799c4e0cc6775ef3c0.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lowest_plausible_gwp: 36.19544174 kgCO2e
+manufacturer:
+  address: Hariharpur, Uttar Pradesh 272164, India
+  admin_district: UP
+  admin_district2: Basti Division
+  confirmable_fields: []
+  confirmed_fields: []
+  country: IN
+  cqd_sync_unlocked: true
+  created_on: '2024-01-26T17:09:39.838403Z'
+  enterprise: false
+  id: 8f60ae1d580740048a735e51199f34d1
+  is_failed: false
+  latitude: 26.6643802
+  locality: Hariharpur
+  location:
+  - long_name: Hariharpur
+    short_name: Hariharpur
+    types:
+    - locality
+    - political
+  - long_name: Sant Kabir Nagar
+    short_name: Sant Kabir Nagar
+    types:
+    - administrative_area_level_3
+    - political
+  - long_name: Basti Division
+    short_name: Basti Division
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Uttar Pradesh
+    short_name: UP
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: India
+    short_name: IN
+    types:
+    - country
+    - political
+  - long_name: '272164'
+    short_name: '272164'
+    types:
+    - postal_code
+  longitude: 83.0025643
+  name: 'PRAYAG CLAY PRODUCTS LIMITED '
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/8f60ae1d580740048a735e51199f34d1
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '272164'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  updated_on: '2024-01-26T17:09:39.838410Z'
+  web_domain: pcpindia.com
+  website: https://www.pcpindia.com/
+manufacturer_specific: true
+mass_per_declared_unit: 1000 kg
+matched_plants_count: 0
+material_id: ba448c6dadd145a1b7b648e9cc726e49
+multiproduct: false
+my_capabilities: 1
+name: S-P-06476 Clay Products
+not_an_epd: false
+open_xpd_uuid: ec3e7wfx
+original_data_format: pdf_mixed
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3e7wfx
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-04-02T18:26:34.309086Z'
+  date_of_issue: '2024-03-01'
+  date_validity_ends: '2024-12-20'
+  doc: https://api.environdec.com/api/v1/EPDLibrary/Files/cfb8786b-c166-4d25-02ed-08dc38ee8ac8/Data
+  errors:
+    declared_units:
+    - Not specified
+  failures:
+    declared_units:
+    - Not specified
+  id: 79f87426c5154d8f878af1a15562e9d3
+  is_failed: false
+  name: PCR 2019:14 Construction products (EN 15804+A2) (1.3.3)
+  open_xpd_uuid: ec3pks1a
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3pks1a
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3pks1akr
+  short_name: Construction products (EN 15804+A2)
+  status: Expired
+  updated_on: '2024-12-21T04:05:11.344807Z'
+  version: 1.3.3
+pct80_gwp_per_category_declared_unit: 59.60455826 kgCO2e
+plant_geography:
+- IN
+plant_or_group:
+  address: Varanasi, Uttar Pradesh, India
+  admin_district: UP
+  admin_district2: Varanasi Division
+  carbon_intensity: 1200 kgCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: IN
+  cqd_sync_unlocked: true
+  created_on: '2024-03-15T00:05:08.623403Z'
+  id: f1853f677039490a81e8db61cea1435a
+  is_failed: false
+  latitude: 25.3176452
+  locality: Varanasi
+  location:
+  - long_name: Varanasi
+    short_name: Varanasi
+    types:
+    - locality
+    - political
+  - long_name: Varanasi
+    short_name: Varanasi
+    types:
+    - administrative_area_level_3
+    - political
+  - long_name: Varanasi Division
+    short_name: Varanasi Division
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Uttar Pradesh
+    short_name: UP
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: India
+    short_name: IN
+    types:
+    - country
+    - political
+  longitude: 82.9739144
+  name: Prayag Clay Products Limited
+  openepd_id: 7MQ48X9F+3H.pcpindia.com
+  owned_by:
+    address: Hariharpur, Uttar Pradesh 272164, India
+    admin_district: UP
+    admin_district2: Basti Division
+    confirmable_fields: []
+    confirmed_fields: []
+    country: IN
+    cqd_sync_unlocked: true
+    created_on: '2024-01-26T17:09:39.838403Z'
+    enterprise: false
+    id: 8f60ae1d580740048a735e51199f34d1
+    is_failed: false
+    latitude: 26.6643802
+    locality: Hariharpur
+    location:
+    - long_name: Hariharpur
+      short_name: Hariharpur
+      types:
+      - locality
+      - political
+    - long_name: Sant Kabir Nagar
+      short_name: Sant Kabir Nagar
+      types:
+      - administrative_area_level_3
+      - political
+    - long_name: Basti Division
+      short_name: Basti Division
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Uttar Pradesh
+      short_name: UP
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: India
+      short_name: IN
+      types:
+      - country
+      - political
+    - long_name: '272164'
+      short_name: '272164'
+      types:
+      - postal_code
+    longitude: 83.0025643
+    name: 'PRAYAG CLAY PRODUCTS LIMITED '
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/8f60ae1d580740048a735e51199f34d1
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '272164'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    updated_on: '2024-01-26T17:09:39.838410Z'
+    web_domain: pcpindia.com
+    website: https://www.pcpindia.com/
+  total_epds: 1
+  type: Plant
+  updated_on: '2024-03-15T00:05:08.623413Z'
+plant_specific: false
+private: false
+product_specific: true
+program_operator:
+  address: "Valhallav\xE4gen 81, 11428 Stockholm"
+  address_line: "81 Valhallav\xE4gen"
+  alt_names:
+  - EnviroDec
+  - environdec
+  - the International EPD System
+  - IES
+  - EPD International
+  - "International EPD\xAE System"
+  - TheInternational EPD System
+  - "The International EPD\xAE System"
+  - The International EPD
+  attachments:
+    General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2019-04-18T13:32:25.465368Z'
+  email_extensions:
+  - environdec.com
+  enterprise: true
+  id: 9857b3f664584fadbadd5e601d9368d4
+  image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+  is_failed: false
+  latitude: 59.34655
+  legal_name: EPD International AB
+  locality: Stockholm
+  location:
+    country: Sweden
+    countryCode: SE
+    countryCodeISO3: SWE
+    freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+    municipality: Stockholm
+    municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+    postalCode: '11428'
+    streetName: "Valhallav\xE4gen"
+    streetNumber: '81'
+  longitude: 18.07285
+  name: EPD International AB
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '11428'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  updated_on: '2024-08-13T12:36:34.205186Z'
+  web_domain: environdec.com
+  website: www.environdec.com
+program_operator_fkey: S-P-06476
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3e7wfxp6
+standard_deviation: 13.90750743 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 59.60455826 kgCO2e
+uncertainty_factor: 1.2443540345646047
+updated_on: '2024-04-10T17:23:08.449025Z'
+use_stored_carbon: false
+verifier:
+  email: prabodha.acharya@gmail.com
+  name: Prabodha Acharya
+  org:
+    address: Bandra Kurla Complex Rd, Mumbai, Maharashtra, India
+    address_line: BKC Road
+    admin_district: MH
+    admin_district2: Mumbai Suburban
+    alt_names:
+    - JSW Cement Limited
+    confirmable_fields: []
+    confirmed_fields: []
+    country: IN
+    cqd_sync_unlocked: true
+    created_on: '2020-07-21T08:53:42.136916Z'
+    enterprise: true
+    id: e831edeb8af94dc784864680beac9d2b
+    is_failed: false
+    latitude: 19.0622678
+    locality: Mumbai
+    location:
+    - long_name: Bandra Kurla Complex Road
+      short_name: BKC Road
+      types:
+      - route
+    - long_name: Mumbai
+      short_name: Mumbai
+      types:
+      - locality
+      - political
+    - long_name: Mumbai Suburban
+      short_name: Mumbai Suburban
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Maharashtra
+      short_name: MH
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: India
+      short_name: IN
+      types:
+      - country
+      - political
+    longitude: 72.8595296
+    name: JSW Steel Limited
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/e831edeb8af94dc784864680beac9d2b
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '583119'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    updated_on: '2022-05-24T09:50:58.705857Z'
+    web_domain: jsw.in
+    website: http://www.jsw.in
+warnings:
+  density:
+  - Not specified
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - ODP impact not specified
+  - AP impact not specified
+  - EP-TERRESTRIAL impact not specified

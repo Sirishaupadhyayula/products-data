@@ -1,0 +1,622 @@
+abuse_resistant: false
+also_shown_in:
+- allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2021-04-26T10:43:43Z'
+  declared_unit: 1 m2
+  default_distance: 189 km
+  default_transport_mode: truck, unspecified
+  description: Gypsum board used for sheathing exteriors, shaft walls, and interior
+    walls/ceilings requiring moisture resistance.
+  display_name: Gypsum Sheathing Board
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: 4063336edfe749b480a9f932d4109fe6
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 10.25309804 kg
+  massless: false
+  masterformat: 06 16 43 Gypsum Sheathing
+  may_contain_trusted_vendor_declarations: false
+  name: GypsumSheathingBoard
+  no_statistics: false
+  obsolete: false
+  openepd: Sheathing >> GypsumSheathingBoard
+  openepd_name: Sheathing >> GypsumSheathingBoard
+  parents: []
+  pct10_gwp: 2.50737338 kgCO2e
+  pct20_gwp: 2.650474094 kgCO2e
+  pct30_gwp: 3.502856607 kgCO2e
+  pct40_gwp: 3.773170558 kgCO2e
+  pct50_gwp: 3.860889275 kgCO2e
+  pct60_gwp: 4.147947337 kgCO2e
+  pct70_gwp: 4.395342299 kgCO2e
+  pct80_gwp: 5.40049651 kgCO2e
+  pct90_gwp: 5.852524132 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Gypsum Sheathing
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30161509'
+  updated_on: '2025-09-04T09:15:18.295379Z'
+  use_stored_carbon: ABSENT
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 2.608477902 kgCO2e
+biogenic_embodied_carbon_z: 0.2104756517984919
+box_id: '648701641962'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2018-09-06T13:53:29.851882Z'
+  declared_unit: 1000 sqft
+  default_distance: 189 km
+  default_transport_mode: truck, unspecified
+  description: Gypsum board used for interior walls, ceilings, and similar applications.
+  display_name: Gypsum Board
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: 0d1d4544c70f4a82938c79d88f86ec5d
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1021.93344 kg
+  massless: false
+  masterformat: 09 29 00 Gypsum Board
+  may_contain_trusted_vendor_declarations: false
+  name: Gypsum
+  no_statistics: false
+  obsolete: false
+  openepd: Finishes >> Gypsum
+  openepd_name: Finishes >> Gypsum
+  parents: []
+  pct10_gwp: 116.6986908 kgCO2e
+  pct20_gwp: 173.406409 kgCO2e
+  pct30_gwp: 215.7175728 kgCO2e
+  pct40_gwp: 261.0344476 kgCO2e
+  pct50_gwp: 294.7908953 kgCO2e
+  pct60_gwp: 337.102059 kgCO2e
+  pct70_gwp: 385.4210975 kgCO2e
+  pct80_gwp: 450.7779532 kgCO2e
+  pct90_gwp: 559.7332729 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Gypsum Board
+  short_service_life_disclaimer: true
+  subcategories: []
+  template_builders: []
+  unspsc: '30161509'
+  updated_on: '2025-09-04T09:15:13.355405Z'
+  use_stored_carbon: ABSENT
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 3.731522098 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2020-09-07T18:06:08.653706Z'
+date_of_issue: '2018-03-08'
+date_validity_ends: '2022-12-04'
+declaration_type: Product EPD
+declared_unit: 1 m2
+density: 573 kg / m3
+description: "Gypboard\xAE Plain plasterboard is a standard gypsum board consisting\
+  \ of an aerated gypsum core encased in and firmly bonded to, strong paper liners.\
+  \ Suitable for use in most system applications where normal fire, structural and\
+  \ acoustic levels are specified. The product is ideal for false ceilings and standard\
+  \ drywall partitions. Gypboard\xAE Plain plasterboard is available in sizes 9.5\
+  \ mm, 12.5 mm and 15 mm; this EPD applies to 12.5 mm and 15 mm Plain plasterboard."
+developer:
+  email: gyprocindia@saint-gobain.com
+  name: Andheri Kurla Road
+  org:
+    address: 130 East Randolph Street, Chicago, IL 60601
+    address_line: 130 East Randolph Street
+    admin_district: IL
+    admin_district2: Cook
+    alt_names:
+    - PE International
+    - thinkstep, Inc.
+    - thinkstep AG
+    - thinkstep
+    - PE INTERNATIONAL AG
+    - Thinkstep AG
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-28T21:38:04.012143Z'
+    email: info@thinkstep.com
+    email_extensions:
+    - thinkstep.com
+    - pe-international.com
+    - sphera.com
+    enterprise: true
+    id: 72d41d92d6d741f68ce626557efcc1c0
+    image: https://static.buildingtransparency.org/images/a82275ae-15d5-4a2f-a24f-5a33d97cdcf2
+    is_failed: false
+    latitude: 41.88507
+    legal_name: Sphera
+    locality: Chicago
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Cook
+      countrySubdivision: IL
+      countrySubdivisionName: Illinois
+      countryTertiarySubdivision: Chicago
+      extendedPostalCode: '606016208'
+      freeformAddress: 130 East Randolph Street, Chicago, IL 60601
+      localName: Chicago
+      municipality: Chicago
+      municipalitySubdivision: Downtown Chicago
+      postalCode: '60601'
+      streetName: East Randolph Street
+      streetNumber: '130'
+    longitude: -87.62311
+    name: Sphera
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/72d41d92d6d741f68ce626557efcc1c0
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '60601'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: true
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    updated_on: '2022-02-02T15:47:47.511452Z'
+    web_domain: sphera.com
+    website: sphera.com
+doc: buildingtransparency.org/e/ec370jndm5
+excluded: false
+externally_verified: true
+file_name: epd94512.5mmand15mmGypboardPlain.pdf
+foil_backing: false
+gwp: 3.17 kgCO2e
+gwp_per_category_declared_unit: 294.5026368 kgCO2e
+gwp_per_kg: 0.442613795 kgCO2e
+gwp_z: 0.2104756517984919
+gypsum_thickness: 12.5 mm
+id: 49eeb86cf1004b53a90a5979b1bd67cf
+image: https://static.buildingtransparency.org/images/ad8c523c8f874baebd5bd6eff2461b68.png
+impacts: {}
+includes: []
+industry_standards: []
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lowest_plausible_gwp: 2.608477902 kgCO2e
+manufacturer:
+  address: Cruicetown, Navan Road, Co. Meath, Ireland
+  admin_district: MH
+  admin_district2: Pima County
+  alt_names:
+  - Gyproc Saint-Gobain
+  - Saint-Gobain Gypsum
+  - Gyproc AS (Norway)
+  - Gyproc Russia
+  - Gyproc Thailand
+  - Gyproc A/S (Denmark)
+  - Saint-Gobain Gyproc SA
+  - Saint-Gobain Gyproc - Gyproc Abu Dhabi
+  - Gyproc AB (Sweden)
+  - Saint-Gobain Gyproc Thailand
+  - Gypsum Industries Limited
+  - Saint-Gobain Gyproc India
+  - Saint-Gobain Construction Products Finland
+  - Saint-Gobain Construction Products Russia
+  - Saint-Gobain Construction Product Vietnam (SGCPV)
+  - Saint-Gobain Construction Products Romania, Rigips Bus...
+  - Saint-Gobain Construction Products Hungary Kft.
+  - Saint-Gobain Construction Products Polska Sp. z o.o
+  confirmable_fields: []
+  confirmed_fields: []
+  country: IE
+  cqd_sync_unlocked: true
+  created_on: '2019-10-15T18:40:47.361940Z'
+  email_extensions: []
+  enterprise: true
+  id: 23e296bb11864eef8a3e0098ba5a29c8
+  is_failed: false
+  latitude: 53.69745
+  locality: Navan Road
+  location:
+  - long_name: Navan Road
+    short_name: Navan Road
+    types:
+    - locality
+    - political
+  - long_name: Cruicetown
+    short_name: Cruicetown
+    types:
+    - neighborhood
+    - political
+  - long_name: County Meath
+    short_name: MH
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: Ireland
+    short_name: IE
+    types:
+    - country
+    - political
+  longitude: -6.5996
+  name: Gyproc Saint-Gobain
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/23e296bb11864eef8a3e0098ba5a29c8
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '85706'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  updated_on: '2022-09-01T16:14:24.025820Z'
+  web_domain: saint-gobain-gyproc.com
+  website: http://www.saint-gobain-gyproc.com
+manufacturer_specific: true
+mass_per_declared_unit: 7.162 kg
+matched_plants_count: 0
+material_id: 8cab1ac156a84020948381e7dde6de3b
+moisture_resistant: false
+mold_resistant: false
+multiproduct: true
+my_capabilities: 1
+name: "12.5 mm Gypboard\xAE Plain"
+not_an_epd: false
+open_xpd_uuid: ec370jnd
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec370jnd
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  alt_names:
+  - Verified EPD based on IES PCR 2012:01
+  - Verified EPD based on IES PCR 2012:01
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2021-11-22T16:23:43.732783Z'
+  date_of_issue: '2021-11-08'
+  date_validity_ends: '2022-02-28'
+  declared_units:
+  - 1 unit
+  - 1 m
+  - 1 m2
+  - 1 m3
+  - 1 kg
+  doc: '#broken-link https://portal.environdec.com/api/api/v1/EPDLibrary/Files/e1c50da7-1658-4a51-3a24-08d99c9745fc/Data'
+  errors: {}
+  failures: {}
+  id: c9417ac88ccb4bf49992cb16442ca3c2
+  is_failed: false
+  lcia_requirements:
+    EF 3.0:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: PCR 2012:01 Construction products and construction services (EN 15804:A1)
+  open_xpd_uuid: ec3rwzf4
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3rwzf4
+  short_link: buildingtransparency.org/p/ec3rwzf4at
+  short_name: Construction products and construction services (EN 15804:A1)
+  status: Expired
+  updated_on: '2025-09-04T18:46:00.221384Z'
+  version: '2.34'
+pcr_notes: "Described list of products: 12.5 mm Gypboard\xAE Plain, 15 mm Gypboard\xAE\
+  \ Plain"
+pct80_gwp_per_category_declared_unit: 346.6697467 kgCO2e
+plant_geography:
+- IN
+plant_or_group:
+  address: Bengaluru, Karnataka, India
+  admin_district: KA
+  admin_district2: Bangalore Urban
+  carbon_intensity: 1200 kgCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: IN
+  cqd_sync_unlocked: true
+  created_on: '2022-05-17T00:42:29.711469Z'
+  id: c13db2106a64457ab42023b84f602727
+  is_failed: false
+  latitude: 12.9715987
+  locality: Bengaluru
+  location:
+  - long_name: Bengaluru
+    short_name: Bengaluru
+    types:
+    - locality
+    - political
+  - long_name: Bangalore Urban
+    short_name: Bangalore Urban
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Karnataka
+    short_name: KA
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: India
+    short_name: IN
+    types:
+    - country
+    - political
+  longitude: 77.5945627
+  name: Bengaluru
+  openepd_id: 7J4VXHCV+JR.saint-gobain-gyproc.com
+  owned_by:
+    address: Cruicetown, Navan Road, Co. Meath, Ireland
+    admin_district: MH
+    admin_district2: Pima County
+    alt_names:
+    - Gyproc Saint-Gobain
+    - Saint-Gobain Gypsum
+    - Gyproc AS (Norway)
+    - Gyproc Russia
+    - Gyproc Thailand
+    - Gyproc A/S (Denmark)
+    - Saint-Gobain Gyproc SA
+    - Saint-Gobain Gyproc - Gyproc Abu Dhabi
+    - Gyproc AB (Sweden)
+    - Saint-Gobain Gyproc Thailand
+    - Gypsum Industries Limited
+    - Saint-Gobain Gyproc India
+    - Saint-Gobain Construction Products Finland
+    - Saint-Gobain Construction Products Russia
+    - Saint-Gobain Construction Product Vietnam (SGCPV)
+    - Saint-Gobain Construction Products Romania, Rigips Bus...
+    - Saint-Gobain Construction Products Hungary Kft.
+    - Saint-Gobain Construction Products Polska Sp. z o.o
+    confirmable_fields: []
+    confirmed_fields: []
+    country: IE
+    cqd_sync_unlocked: true
+    created_on: '2019-10-15T18:40:47.361940Z'
+    email_extensions: []
+    enterprise: true
+    id: 23e296bb11864eef8a3e0098ba5a29c8
+    is_failed: false
+    latitude: 53.69745
+    locality: Navan Road
+    location:
+    - long_name: Navan Road
+      short_name: Navan Road
+      types:
+      - locality
+      - political
+    - long_name: Cruicetown
+      short_name: Cruicetown
+      types:
+      - neighborhood
+      - political
+    - long_name: County Meath
+      short_name: MH
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Ireland
+      short_name: IE
+      types:
+      - country
+      - political
+    longitude: -6.5996
+    name: Gyproc Saint-Gobain
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/23e296bb11864eef8a3e0098ba5a29c8
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '85706'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    updated_on: '2022-09-01T16:14:24.025820Z'
+    web_domain: saint-gobain-gyproc.com
+    website: http://www.saint-gobain-gyproc.com
+  total_epds: 2
+  type: Plant
+  units: SI
+  updated_on: '2022-05-17T00:42:29.711475Z'
+plant_specific: true
+private: false
+product_classes: {}
+product_specific: true
+program_operator:
+  address: "Valhallav\xE4gen 81, 11428 Stockholm"
+  address_line: "81 Valhallav\xE4gen"
+  alt_names:
+  - EnviroDec
+  - environdec
+  - the International EPD System
+  - IES
+  - EPD International
+  - "International EPD\xAE System"
+  - TheInternational EPD System
+  - "The International EPD\xAE System"
+  - The International EPD
+  attachments:
+    General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2019-04-18T13:32:25.465368Z'
+  email_extensions:
+  - environdec.com
+  enterprise: true
+  id: 9857b3f664584fadbadd5e601d9368d4
+  image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+  is_failed: false
+  latitude: 59.34655
+  legal_name: EPD International AB
+  locality: Stockholm
+  location:
+    country: Sweden
+    countryCode: SE
+    countryCodeISO3: SWE
+    freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+    municipality: Stockholm
+    municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+    postalCode: '11428'
+    streetName: "Valhallav\xE4gen"
+    streetNumber: '81'
+  longitude: 18.07285
+  name: EPD International AB
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '11428'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  updated_on: '2024-08-13T12:36:34.205186Z'
+  web_domain: environdec.com
+  website: www.environdec.com
+program_operator_fkey: S-P-00945
+reference_service_life: 50 year
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec370jndm5
+standard_deviation: 0.6672078162 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 3.731522098 kgCO2e
+uncertainty_factor: 1.1771363085536108
+updated_on: '2025-01-14T04:45:38.592620Z'
+use_stored_carbon: false
+verifier:
+  email: a.norton@renuables.co.ul
+  name: Andrew Norton
+  org:
+    address: Boston, NY 14025
+    admin_district: NY
+    admin_district2: Erie
+    alt_names:
+    - Renuables
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2020-10-30T19:38:29.450597Z'
+    email_extensions:
+    - renuables.co.uk
+    - renuables.co.ul
+    enterprise: true
+    id: 374808c991f84ec5a7d6ad9749a285ad
+    is_failed: false
+    latitude: 42.61805
+    locality: Boston, Colden, Springville, Eden, Hamburg
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Erie
+      countrySubdivision: NY
+      countrySubdivisionName: New York
+      countryTertiarySubdivision: Boston, Colden, Concord
+      freeformAddress: Boston, NY 14025
+      municipality: Boston, Colden, Springville, Eden, Hamburg
+      postalCode: '14025'
+    longitude: -78.72804
+    name: Callum Hill of Renuables Ltd
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/374808c991f84ec5a7d6ad9749a285ad
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '14025'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    updated_on: '2022-03-17T10:54:36.467660Z'
+    web_domain: renuables.co.uk
+    website: www.renuables.co.uk
+warnings:
+  developer:
+  - Developer is not employee of developer org
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified

@@ -1,0 +1,570 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 24.48549446 kgCO2e
+biogenic_embodied_carbon_z: 0.060539243470661246
+box_id: '648658275225'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2022-05-10T14:05:46Z'
+  declared_unit: 1 kg
+  default_distance: 1437.14062 km
+  default_transport_mode: truck, unspecified
+  description: Monolithic, uncoated flat glass panes that are not substantially processed.
+  display_name: Flat Glass Panes
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: ca0d30f6f7e04106afbf0124f0ae35f3
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1 kg
+  massless: false
+  masterformat: 08 81 00 Glass Glazing
+  may_contain_trusted_vendor_declarations: false
+  name: FlatGlassPanes
+  no_statistics: false
+  obsolete: false
+  openepd: Openings >> Glazing >> GlassPanes >> FlatGlassPanes
+  openepd_name: Openings >> Glazing >> GlassPanes >> FlatGlassPanes
+  parents: []
+  pct10_gwp: 1.224080446 kgCO2e
+  pct20_gwp: 1.26233296 kgCO2e
+  pct30_gwp: 1.27432127 kgCO2e
+  pct40_gwp: 1.294875056 kgCO2e
+  pct50_gwp: 1.303551782 kgCO2e
+  pct60_gwp: 1.31866848 kgCO2e
+  pct70_gwp: 1.342315489 kgCO2e
+  pct80_gwp: 1.426845612 kgCO2e
+  pct90_gwp: 1.448753197 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Flat Glass
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  updated_on: '2025-09-04T09:15:21.521231Z'
+  use_stored_carbon: ABSENT
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 27.11450554 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2020-10-15T19:36:57.678436Z'
+date_of_issue: '2018-11-01'
+date_validity_ends: '2023-10-31'
+declaration_type: Product EPD
+declared_unit: 20 kg
+density: 2500 kg / m3
+description: 'Clear Float Glass AIS Clear Float Glass is a high-quality clear glass
+  with high-precision flatness (surface smoothness) compared to other types of glass.
+  This type of glass ensures 100% distortion-free vision as it is manufactured using
+  a superior process in the AIS state-of-the-art facilities. It is characterized by
+  its uniform thickness and smooth surface which ensures crystal clear vision Has
+  a sparkling and brilliant lustre Allows various processing techniques such as insulation,
+  glazing, lamination, thermal toughening, enameling, silk-screen printing, sandblasting,
+  acid-etching, and bending. AIS Tinted Glass AIS Tinted Glass is manufactured by
+  adding certain metal oxides to the raw material which imparts a tint and adds heat
+  absorbing properties to the glass. Absorbs 30% to 45% of solar heat (depending on
+  tint and thickness), thus reducing air-conditioning usage and energy costs Protects
+  against glare and harmful UV rays Can be used in both exterior and interior applications
+  Available shades are: French Bronze, Dark Grey, Green, Cool Green, Dark Blue, Royal
+  Blue, and Aqua Blue Comes in various thicknesses and sizes'
+developer:
+  email: rajesh.singh@thinkstep.com
+  name: Rajesh Kumar Singh
+  org:
+    address: 7500 Stewart Ave, Wausau, WI 54401, USA
+    address_line: 7500 Stewart Ave
+    admin_district: WI
+    admin_district2: Marathon County
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2022-02-03T17:40:00.183142Z'
+    enterprise: false
+    id: 215fe49edac1494f85255ad38e55ea12
+    invalid_after: '2015-01-01'
+    is_failed: false
+    latitude: 44.9562397
+    locality: Wausau
+    location:
+    - long_name: '7500'
+      short_name: '7500'
+      types:
+      - street_number
+    - long_name: Stewart Avenue
+      short_name: Stewart Ave
+      types:
+      - route
+    - long_name: Wausau
+      short_name: Wausau
+      types:
+      - locality
+      - political
+    - long_name: Marathon County
+      short_name: Marathon County
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Wisconsin
+      short_name: WI
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: United States
+      short_name: US
+      types:
+      - country
+      - political
+    - long_name: '54401'
+      short_name: '54401'
+      types:
+      - postal_code
+    longitude: -89.73007299999999
+    name: thinkstep AG
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/215fe49edac1494f85255ad38e55ea12
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '54401'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    updated_on: '2022-03-14T14:05:21.980894Z'
+    web_domain: thinkstep.com
+    website: https://thinkstep.com/
+doc: buildingtransparency.org/e/ec3y0wfjfb
+excluded: false
+externally_verified: true
+file_name: S-P-01114EPDFloatglass.pdf
+flat_glass_panes_thickness: 8 mm
+gwp: 25.8 kgCO2e
+gwp_per_category_declared_unit: 1.29 kgCO2e
+gwp_per_kg: 1.29 kgCO2e
+gwp_z: 0.060539243470661246
+id: 1054dd15c18243969486a02d1ebfbd31
+impacts: {}
+includes: []
+industry_standards: []
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+lowest_plausible_gwp: 24.48549446 kgCO2e
+manufacturer:
+  address: Sector 30, Vashi, Navi Mumbai, Maharashtra 400703, India
+  admin_district: MH
+  admin_district2: Thane
+  confirmable_fields: []
+  confirmed_fields: []
+  country: IN
+  cqd_sync_unlocked: true
+  created_on: '2021-01-27T17:09:03.105135Z'
+  enterprise: true
+  id: 9fd8d22086494a878abcf5fc662fd71b
+  is_failed: false
+  latitude: 19.0667863
+  locality: Navi Mumbai
+  location:
+  - long_name: Sector 30
+    short_name: Sector 30
+    types:
+    - political
+    - sublocality
+    - sublocality_level_2
+  - long_name: Vashi
+    short_name: Vashi
+    types:
+    - political
+    - sublocality
+    - sublocality_level_1
+  - long_name: Navi Mumbai
+    short_name: Navi Mumbai
+    types:
+    - locality
+    - political
+  - long_name: Thane
+    short_name: Thane
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Maharashtra
+    short_name: MH
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: India
+    short_name: IN
+    types:
+    - country
+    - political
+  - long_name: '400703'
+    short_name: '400703'
+    types:
+    - postal_code
+  longitude: 72.9955111
+  name: Asahi Glass India Ltd. (AIS)
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/9fd8d22086494a878abcf5fc662fd71b
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '400703'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  updated_on: '2021-12-11T08:01:42.585211Z'
+  web_domain: aisglass.com
+  website: http://www.aisglass.com
+manufacturer_specific: true
+mass_per_declared_unit: 20 kg
+matched_plants_count: 2
+material_id: c64c8edee39340bf9e7c27e6e6461874
+multiproduct: true
+my_capabilities: 1
+name: 8 mm thickness Float Glass
+not_an_epd: false
+open_xpd_uuid: ec3y0wfj
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3y0wfj
+output_flows: {}
+owner:
+  name: Shiva Zargar
+  user_id: shiva.zargar@ubc.ca
+pcr:
+  alt_names:
+  - Verified EPD based on IES PCR 2012:01
+  - Verified EPD based on IES PCR 2012:01
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2020-10-06T10:45:53.048797Z'
+  date_of_issue: '2020-09-18'
+  date_validity_ends: '2021-11-07'
+  declared_units:
+  - 1 unit
+  - 1 m
+  - 1 m2
+  - 1 m3
+  - 1 kg
+  doc: '#broken-link https://portal.environdec.com/api/api/v1/EPDLibrary/Files/e1c50da7-1658-4a51-3a24-08d99c9745fc/Data'
+  errors: {}
+  failures: {}
+  id: 98de9b5558464f6d85aa4aacd602a2bb
+  is_failed: false
+  lcia_requirements:
+    EF 3.0:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: PCR 2012:01 Construction products and construction services (EN 15804:A1)
+  open_xpd_uuid: ec3xmr3j
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3xmr3j
+  short_link: buildingtransparency.org/p/ec3xmr3jq6
+  short_name: Construction products and construction services (EN 15804:A1)
+  status: Expired
+  updated_on: '2025-09-04T18:46:00.209894Z'
+  version: '2.33'
+pcr_notes: 'Described list of products: 1 m2 of average float glass of thicknesses:
+  3 mm, 3.5 mm, 4 mm, 5 mm, 6 mm, 8 mm, 10 mm and 12 mm'
+pct80_gwp_per_category_declared_unit: 1.355725277 kgCO2e
+plant_geography:
+- IN
+plant_or_group:
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2020-12-18T15:08:47.447635Z'
+  id: 499b60ec818b44ec8a43aaa50d8cb1d7
+  is_failed: false
+  jurisdiction:
+  - IN
+  name: Toloje and Roorkee
+  owned_by:
+    address: Sector 30, Vashi, Navi Mumbai, Maharashtra 400703, India
+    admin_district: MH
+    admin_district2: Thane
+    confirmable_fields: []
+    confirmed_fields: []
+    country: IN
+    cqd_sync_unlocked: true
+    created_on: '2021-01-27T17:09:03.105135Z'
+    enterprise: true
+    id: 9fd8d22086494a878abcf5fc662fd71b
+    is_failed: false
+    latitude: 19.0667863
+    locality: Navi Mumbai
+    location:
+    - long_name: Sector 30
+      short_name: Sector 30
+      types:
+      - political
+      - sublocality
+      - sublocality_level_2
+    - long_name: Vashi
+      short_name: Vashi
+      types:
+      - political
+      - sublocality
+      - sublocality_level_1
+    - long_name: Navi Mumbai
+      short_name: Navi Mumbai
+      types:
+      - locality
+      - political
+    - long_name: Thane
+      short_name: Thane
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Maharashtra
+      short_name: MH
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: India
+      short_name: IN
+      types:
+      - country
+      - political
+    - long_name: '400703'
+      short_name: '400703'
+      types:
+      - postal_code
+    longitude: 72.9955111
+    name: Asahi Glass India Ltd. (AIS)
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/9fd8d22086494a878abcf5fc662fd71b
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '400703'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    updated_on: '2021-12-11T08:01:42.585211Z'
+    web_domain: aisglass.com
+    website: http://www.aisglass.com
+  plants_count: 0
+  total_epds: 24
+  type: PlantGroup
+  updated_on: '2021-02-16T14:50:24.867064Z'
+plant_specific: false
+private: false
+product_classes: {}
+product_specific: true
+program_operator:
+  address: "Valhallav\xE4gen 81, 11428 Stockholm"
+  address_line: "81 Valhallav\xE4gen"
+  alt_names:
+  - EnviroDec
+  - environdec
+  - the International EPD System
+  - IES
+  - EPD International
+  - "International EPD\xAE System"
+  - TheInternational EPD System
+  - "The International EPD\xAE System"
+  - The International EPD
+  attachments:
+    General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2019-04-18T13:32:25.465368Z'
+  email_extensions:
+  - environdec.com
+  enterprise: true
+  id: 9857b3f664584fadbadd5e601d9368d4
+  image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+  is_failed: false
+  latitude: 59.34655
+  legal_name: EPD International AB
+  locality: Stockholm
+  location:
+    country: Sweden
+    countryCode: SE
+    countryCodeISO3: SWE
+    freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+    municipality: Stockholm
+    municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+    postalCode: '11428'
+    streetName: "Valhallav\xE4gen"
+    streetNumber: '81'
+  longitude: 18.07285
+  name: EPD International AB
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '11428'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  updated_on: '2024-08-13T12:36:34.205186Z'
+  web_domain: environdec.com
+  website: www.environdec.com
+program_operator_fkey: S-P-01114
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3y0wfjfb
+standard_deviation: 1.561912482 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 27.11450554 kgCO2e
+uncertainty_factor: 1.0509498273049085
+updated_on: '2025-01-14T10:19:44.712415Z'
+use_stored_carbon: false
+verifier:
+  email: hudai.kara@metsims.com
+  name: Hudai Kara
+  org:
+    address: 4 Clearwater Pl, Oxford OX2 7NL, UK
+    address_line: 4 Clearwater Pl
+    admin_district: England
+    admin_district2: Oxfordshire
+    confirmable_fields: []
+    confirmed_fields: []
+    country: GB
+    cqd_sync_unlocked: true
+    created_on: '2020-08-05T16:51:17.469781Z'
+    email_extensions:
+    - metsims.com
+    enterprise: true
+    id: 2f5d682725cc405ab8849e8f25769c6a
+    image: https://static.buildingtransparency.org/images/2ffceb6c62eb45f4862928b9344ed7c2.png
+    is_failed: false
+    latitude: 51.7734539
+    legal_name: Metsims Limited
+    locality: Oxford
+    location:
+    - long_name: '4'
+      short_name: '4'
+      types:
+      - street_number
+    - long_name: Clearwater Place
+      short_name: Clearwater Pl
+      types:
+      - route
+    - long_name: Oxford
+      short_name: Oxford
+      types:
+      - postal_town
+    - long_name: Oxfordshire
+      short_name: Oxfordshire
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: England
+      short_name: England
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: United Kingdom
+      short_name: GB
+      types:
+      - country
+      - political
+    - long_name: OX2 7NL
+      short_name: OX2 7NL
+      types:
+      - postal_code
+    longitude: -1.2700055
+    name: Metsims Sustainability Consulting
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/2f5d682725cc405ab8849e8f25769c6a
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: OX2 7NL
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    updated_on: '2024-09-05T10:07:50.465795Z'
+    web_domain: metsims.com
+    website: https://www.metsims.com/
+warnings:
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - ODP impact not specified
+  - AP impact not specified
+  - EP-FRESH impact not specified
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - POCP impact not specified
+  language:
+  - Not specified

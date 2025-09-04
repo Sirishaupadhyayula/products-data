@@ -1,0 +1,438 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 292.5276977 kgCO2e
+biogenic_embodied_carbon_z: 0.11918053532351665
+box_id: '648631879255'
+category:
+  allows_any_declared_unit: false
+  beta_only: true
+  category_statistics_warning: false
+  created_on: '2019-07-18T14:11:22.900874Z'
+  declared_unit: 1 kg
+  default_distance: 189 km
+  default_transport_mode: truck, unspecified
+  description: Water-cement-sand mixture for embedding rebar in masonry walls, connecting
+    sections of precast concrete, and filling joints and voids
+  display_name: Grouting
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: 6162059c00e542dbb5445930403360c6
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1 kg
+  massless: false
+  masterformat: 03 60 00 Grouting
+  may_contain_trusted_vendor_declarations: false
+  name: Grouting
+  no_statistics: false
+  obsolete: false
+  openepd: Grouting
+  openepd_name: Grouting
+  parents: []
+  pct10_gwp: 0.09539621275 kgCO2e
+  pct20_gwp: 0.1218728259 kgCO2e
+  pct30_gwp: 0.1407554634 kgCO2e
+  pct40_gwp: 0.1727948719 kgCO2e
+  pct50_gwp: 0.2743207326 kgCO2e
+  pct60_gwp: 0.3931862144 kgCO2e
+  pct70_gwp: 0.5046155189 kgCO2e
+  pct80_gwp: 0.6948928391 kgCO2e
+  pct90_gwp: 0.9227135411 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Grouting
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30111506'
+  updated_on: '2025-09-04T09:15:04.396105Z'
+  use_stored_carbon: ABSENT
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 357.7523023 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2020-09-07T17:22:13.154363Z'
+date_of_issue: '2019-10-11'
+date_validity_ends: '2024-10-10'
+declaration_type: Product EPD
+declared_unit: 1000 kg
+density: 1440 kg / m3
+description: PSC is a blended cement confirming to IS 455:2015. It is most suitable
+  for residential, commercial and industrial projects. At JSW Cement, superior quality
+  slag produced at the steel-manufacturing plants is used, along with clinker and
+  gypsum to create PSC, using state-of-the-art technology, through roller press and
+  vertical roller mill. PSC is recognised as Green product. Some of the advantages
+  of PSC are longer life, resistant to chemical attack, better surface for painting,
+  less heat of hydration reduced thermal crack and incomparable long-term strength.
+  The application areas of PSC include pile construction works, concrete roads and
+  flyovers, water retaining structures, dams, marine works. Also, the PSC based concrete
+  always shows higher strengths beyond 28 days in comparison to those made with OPC
+  concrete and fly ash concrete.
+doc: buildingtransparency.org/e/ec3k5q1n5y
+document_version: '2019-10-11'
+epd_degraded: false
+excluded: false
+externally_verified: true
+file_name: S-P-01414EPDPortlandSlagCement.pdf
+gwp: 325.14 kgCO2e
+gwp_per_category_declared_unit: 0.32514 kgCO2e
+gwp_per_kg: 0.32514 kgCO2e
+gwp_z: 0.11918053532351665
+id: f59a8cb069fc4d279f88975075036a4a
+image: https://static.buildingtransparency.org/images/eaad3a40d41c4473a5db9932e07dbf4f.png
+impacts: {}
+includes: []
+industry_standards: []
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lowest_plausible_gwp: 292.5276977 kgCO2e
+manufacturer:
+  address: Bandra Kurla Complex Rd, Mumbai, Maharashtra, India
+  address_line: BKC Road
+  admin_district: MH
+  admin_district2: Mumbai Suburban
+  alt_names:
+  - JSW Cement Limited
+  confirmable_fields: []
+  confirmed_fields: []
+  country: IN
+  cqd_sync_unlocked: true
+  created_on: '2020-07-21T08:53:42.136916Z'
+  enterprise: true
+  id: e831edeb8af94dc784864680beac9d2b
+  is_failed: false
+  latitude: 19.0622678
+  locality: Mumbai
+  location:
+  - long_name: Bandra Kurla Complex Road
+    short_name: BKC Road
+    types:
+    - route
+  - long_name: Mumbai
+    short_name: Mumbai
+    types:
+    - locality
+    - political
+  - long_name: Mumbai Suburban
+    short_name: Mumbai Suburban
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Maharashtra
+    short_name: MH
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: India
+    short_name: IN
+    types:
+    - country
+    - political
+  longitude: 72.8595296
+  name: JSW Steel Limited
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/e831edeb8af94dc784864680beac9d2b
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '583119'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  updated_on: '2022-05-24T09:50:58.705857Z'
+  web_domain: jsw.in
+  website: http://www.jsw.in
+manufacturer_specific: true
+mass_per_declared_unit: 1000 kg
+matched_plants_count: 0
+material_id: a4dacd86c5b04183b0b84df4fe06a59f
+multiproduct: false
+my_capabilities: 1
+name: Portland Slag Cement
+not_an_epd: false
+open_xpd_uuid: ec3k5q1n
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3k5q1n
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2023-05-05T09:40:26.610123Z'
+  date_of_issue: '2021-11-08'
+  date_validity_ends: '2022-02-28'
+  doc: https://api.environdec.com/api/v1/EPDLibrary/Files/3e63248b-15cb-49ac-3a2c-08d99c9745fc/Data
+  errors:
+    declared_units:
+    - Not specified
+  failures:
+    declared_units:
+    - Not specified
+  id: afc63422439a4eee91bfda1d27dea210
+  is_failed: false
+  name: PCR 2012:01-Sub-PCR-H Sub-PCR-H Cement and building limes (EN 16908) (2021-11-08)
+  open_xpd_uuid: ec3fsu1w
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3fsu1w
+  short_link: buildingtransparency.org/p/ec3fsu1wt5
+  short_name: Sub-PCR-H Cement and building limes (EN 16908)
+  status: Expired
+  updated_on: '2023-06-01T00:01:11.470162Z'
+  version: '2021-11-08'
+pct80_gwp_per_category_declared_unit: 0.3577523023 kgCO2e
+plant_geography:
+- IN
+plant_or_group:
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2021-01-27T17:22:38.826330Z'
+  id: 90abe5b9133448ffb34e1d77656e5b56
+  is_failed: false
+  jurisdiction:
+  - IN
+  name: Unspecified JSW Cement Limited Plant(s)
+  owned_by:
+    address: Bandra Kurla Complex Rd, Mumbai, Maharashtra, India
+    address_line: BKC Road
+    admin_district: MH
+    admin_district2: Mumbai Suburban
+    alt_names:
+    - JSW Cement Limited
+    confirmable_fields: []
+    confirmed_fields: []
+    country: IN
+    cqd_sync_unlocked: true
+    created_on: '2020-07-21T08:53:42.136916Z'
+    enterprise: true
+    id: e831edeb8af94dc784864680beac9d2b
+    is_failed: false
+    latitude: 19.0622678
+    locality: Mumbai
+    location:
+    - long_name: Bandra Kurla Complex Road
+      short_name: BKC Road
+      types:
+      - route
+    - long_name: Mumbai
+      short_name: Mumbai
+      types:
+      - locality
+      - political
+    - long_name: Mumbai Suburban
+      short_name: Mumbai Suburban
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Maharashtra
+      short_name: MH
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: India
+      short_name: IN
+      types:
+      - country
+      - political
+    longitude: 72.8595296
+    name: JSW Steel Limited
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/e831edeb8af94dc784864680beac9d2b
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '583119'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    updated_on: '2022-05-24T09:50:58.705857Z'
+    web_domain: jsw.in
+    website: http://www.jsw.in
+  plants_count: 0
+  total_epds: 2
+  type: PlantGroup
+  updated_on: '2021-04-20T22:54:47.368422Z'
+plant_specific: false
+private: false
+product_classes: {}
+product_specific: true
+program_operator:
+  address: "Valhallav\xE4gen 81, 11428 Stockholm"
+  address_line: "81 Valhallav\xE4gen"
+  alt_names:
+  - EnviroDec
+  - environdec
+  - the International EPD System
+  - IES
+  - EPD International
+  - "International EPD\xAE System"
+  - TheInternational EPD System
+  - "The International EPD\xAE System"
+  - The International EPD
+  attachments:
+    General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2019-04-18T13:32:25.465368Z'
+  email_extensions:
+  - environdec.com
+  enterprise: true
+  id: 9857b3f664584fadbadd5e601d9368d4
+  image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+  is_failed: false
+  latitude: 59.34655
+  legal_name: EPD International AB
+  locality: Stockholm
+  location:
+    country: Sweden
+    countryCode: SE
+    countryCodeISO3: SWE
+    freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+    municipality: Stockholm
+    municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+    postalCode: '11428'
+    streetName: "Valhallav\xE4gen"
+    streetNumber: '81'
+  longitude: 18.07285
+  name: EPD International AB
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '11428'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  updated_on: '2024-08-13T12:36:34.205186Z'
+  web_domain: environdec.com
+  website: www.environdec.com
+program_operator_fkey: S-P-01414
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3k5q1n5y
+standard_deviation: 38.75035926 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 357.7523023 kgCO2e
+uncertainty_factor: 1.1003023385282715
+updated_on: '2025-01-14T04:09:02.034209Z'
+use_stored_carbon: false
+verifier:
+  email: cssunil67@gmail.com
+  name: Sunil Kumar CS
+  org:
+    address: 7th Block Road J P Nagar, Bengaluru, Karnataka
+    address_line: ' 7th Block Road J P Nagar'
+    admin_district: Karnataka
+    admin_district2: Bengaluru
+    confirmable_fields: []
+    confirmed_fields: []
+    country: IN
+    cqd_sync_unlocked: true
+    created_on: '2020-11-02T13:53:15.308330Z'
+    enterprise: true
+    id: 8addf2cb8eab4b95b04fb7c870f2ff1a
+    is_failed: false
+    latitude: 12.86901
+    locality: Bengaluru
+    location:
+      country: India
+      countryCode: IN
+      countryCodeISO3: IND
+      countrySecondarySubdivision: Bengaluru
+      countrySubdivision: Karnataka
+      freeformAddress: 7th Block Road J P Nagar, Bengaluru, Karnataka
+      localName: Bengaluru
+      municipality: Bengaluru
+      municipalitySubdivision: JP Nagar IX Phase
+      postalCode: 560062, 560108
+      streetName: 7th Block Road J P Nagar
+    longitude: 77.57009
+    name: Chakra4 Sustainability Consulting Services
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/8addf2cb8eab4b95b04fb7c870f2ff1a
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: 560062, 560108
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    updated_on: '2021-12-31T19:35:47.607207Z'
+    web_domain: chakra4.in
+    website: www.chakra4.in
+warnings:
+  developer:
+  - Missing link
+  developer_org:
+  - Missing link
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified

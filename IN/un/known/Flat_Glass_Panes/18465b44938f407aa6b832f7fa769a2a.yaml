@@ -1,0 +1,453 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 14.99499273 kgCO2e
+biogenic_embodied_carbon_z: 0.060539243470661246
+box_id: '1426248671749'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2022-05-10T14:05:46Z'
+  declared_unit: 1 kg
+  default_distance: 1437.14062 km
+  default_transport_mode: truck, unspecified
+  description: Monolithic, uncoated flat glass panes that are not substantially processed.
+  display_name: Flat Glass Panes
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: ca0d30f6f7e04106afbf0124f0ae35f3
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1 kg
+  massless: false
+  masterformat: 08 81 00 Glass Glazing
+  may_contain_trusted_vendor_declarations: false
+  name: FlatGlassPanes
+  no_statistics: false
+  obsolete: false
+  openepd: Openings >> Glazing >> GlassPanes >> FlatGlassPanes
+  openepd_name: Openings >> Glazing >> GlassPanes >> FlatGlassPanes
+  parents: []
+  pct10_gwp: 1.224080446 kgCO2e
+  pct20_gwp: 1.26233296 kgCO2e
+  pct30_gwp: 1.27432127 kgCO2e
+  pct40_gwp: 1.294875056 kgCO2e
+  pct50_gwp: 1.303551782 kgCO2e
+  pct60_gwp: 1.31866848 kgCO2e
+  pct70_gwp: 1.342315489 kgCO2e
+  pct80_gwp: 1.426845612 kgCO2e
+  pct90_gwp: 1.448753197 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Flat Glass
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  updated_on: '2025-09-04T09:15:21.521231Z'
+  use_stored_carbon: ABSENT
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 16.60500727 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2024-01-26T16:01:58.267093Z'
+date_of_issue: '2023-07-18'
+date_validity_ends: '2028-07-17'
+declaration_type: Product EPD
+declared_unit: 1.0 m2
+description: "Magnetron coated glass is soda-lime silicate glass produced using the\
+  \ float procedure, on which a magnetron coating has been applied. The glass is meant\
+  \ to be used in building, furniture industrial applications.\nManufactured on Saint-Gobain\
+  \ India Private Limited \u2013 Glass Business \u2018magnetron\u2019 coater, a combination\
+  \ of thin multiple metal oxide layers are applied to float glass (SGG PLANILUX,\
+  \ SGG PARSOL\u2026) using a magnetically enhanced cathodic sputtering process under\
+  \ vacuum conditions.\nDepending on the composition of these transparent coating\
+  \ layers, several different products can be produced, distinguishable by the thermal\
+  \ performance, spectrophotometric values and processing characteristics."
+developer:
+  org:
+    address: "Valhallav\xE4gen 81, 11428 Stockholm"
+    address_line: "81 Valhallav\xE4gen"
+    alt_names:
+    - EnviroDec
+    - environdec
+    - the International EPD System
+    - IES
+    - EPD International
+    - "International EPD\xAE System"
+    - TheInternational EPD System
+    - "The International EPD\xAE System"
+    - The International EPD
+    attachments:
+      General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+    confirmable_fields: []
+    confirmed_fields: []
+    country: SE
+    cqd_sync_unlocked: true
+    created_on: '2019-04-18T13:32:25.465368Z'
+    email_extensions:
+    - environdec.com
+    enterprise: true
+    id: 9857b3f664584fadbadd5e601d9368d4
+    image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+    is_failed: false
+    latitude: 59.34655
+    legal_name: EPD International AB
+    locality: Stockholm
+    location:
+      country: Sweden
+      countryCode: SE
+      countryCodeISO3: SWE
+      freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+      municipality: Stockholm
+      municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+      postalCode: '11428'
+      streetName: "Valhallav\xE4gen"
+      streetNumber: '81'
+    longitude: 18.07285
+    name: EPD International AB
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - '150'
+    postal_code: '11428'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    updated_on: '2024-08-13T12:36:34.205186Z'
+    web_domain: environdec.com
+    website: www.environdec.com
+doc: https://data.environdec.com/resource/processes/2f0f27ea-16ec-49e5-aea6-08db7e36184f?version=07.01.002
+document_version: '2023-07-18'
+epd_degraded: false
+errors:
+  verifier_org:
+  - Missing link
+excluded: false
+externally_verified: true
+failures:
+  declared_unit:
+  - Declared unit not in same dimension with category declared unit
+file_name: S-P-09810%20Magnetron%20coated%20glass%20On%20SGG%20PARSOL%204%20m_22720624727f79c96abfcc41ccf499ad1879b051.pdf
+gwp: 15.8 kgCO2e
+gwp_z: 0.060539243470661246
+id: 7324005879464f3489e7a8e56177bf79
+image: https://static.buildingtransparency.org/images/a10a538eddae4a2ab5eb30a192be9be2.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+language: en
+lca_discussion: ''
+lowest_plausible_gwp: 14.99499273 kgCO2e
+manufacturer:
+  address: Egmore, TN, India
+  admin_district: TN
+  admin_district2: Chennai
+  alt_names:
+  - Saint-Gobain India Private Limited
+  confirmable_fields: []
+  confirmed_fields: []
+  country: IN
+  cqd_sync_unlocked: true
+  created_on: '2020-09-22T12:48:43.457690Z'
+  enterprise: true
+  id: 183a22a25f164301809d5f99795e255e
+  is_failed: false
+  latitude: 13.076440811157227
+  locality: Egmore
+  location:
+    adminDistrict: TN
+    adminDistrict2: Chennai
+    countryRegion: India
+    countryRegionIso2: IN
+    formattedAddress: Egmore, India
+    locality: Egmore
+  longitude: 80.26013946533203
+  name: Saint-Gobain India
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/183a22a25f164301809d5f99795e255e
+  password_login_allowed: true
+  pilot_all_employees: false
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  updated_on: '2022-09-01T16:12:39.335741Z'
+  web_domain: saint-gobain.co.in
+  website: https://www.saint-gobain.co.in/
+manufacturer_specific: true
+matched_plants_count: 0
+material_id: 18465b44938f407aa6b832f7fa769a2a
+multiproduct: false
+my_capabilities: 1
+name: S-P-09810 Magnetron coated glass On SGG PARSOL 4 mm
+not_an_epd: false
+open_xpd_uuid: ec3rdguw
+original_data_format: pdf_mixed
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3rdguw
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2022-07-07T12:45:35.379067Z'
+  date_of_issue: '2020-10-29'
+  date_validity_ends: '1900-01-01'
+  doc: https://api.environdec.com/api/v1/EPDLibrary/Files/655062cc-41eb-461d-4337-08d8cc1832bc/Data
+  errors:
+    declared_units:
+    - Not specified
+  failures:
+    declared_units:
+    - Not specified
+  id: e37c329ce1b143d289629744fa0fd1c2
+  is_failed: false
+  issuer_doc_id: 2019:14-c-PCR-009
+  name: PCR 2019:14-c-PCR-009 c-PCR-009 Flat glass products used in buildings and
+    other construction works (EN 17074) (2021-01-25)
+  open_xpd_uuid: ec3bbwny
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3bbwny
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3bbwny04
+  short_name: c-PCR-009 Flat glass products used in buildings and other construction
+    works (EN 17074)
+  status: Sunset
+  updated_on: '2024-04-05T04:12:29.329585Z'
+  version: '2021-01-25'
+plant_geography:
+- IN
+plant_or_group:
+  address: Chennai, Tamil Nadu, India
+  admin_district: TN
+  carbon_intensity: 1200 kgCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: IN
+  cqd_sync_unlocked: true
+  created_on: '2024-03-22T10:48:45.913068Z'
+  id: 660c4557c04846cbb22aabefe6645170
+  is_failed: false
+  latitude: 13.0826802
+  locality: Chennai
+  location:
+  - long_name: Chennai
+    short_name: Chennai
+    types:
+    - locality
+    - political
+  - long_name: Chennai
+    short_name: Chennai
+    types:
+    - administrative_area_level_3
+    - political
+  - long_name: Tamil Nadu
+    short_name: TN
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: India
+    short_name: IN
+    types:
+    - country
+    - political
+  longitude: 80.2707184
+  name: Chennai
+  openepd_id: 7M5237MC+37.saint-gobain.co.in
+  owned_by:
+    address: Egmore, TN, India
+    admin_district: TN
+    admin_district2: Chennai
+    alt_names:
+    - Saint-Gobain India Private Limited
+    confirmable_fields: []
+    confirmed_fields: []
+    country: IN
+    cqd_sync_unlocked: true
+    created_on: '2020-09-22T12:48:43.457690Z'
+    enterprise: true
+    id: 183a22a25f164301809d5f99795e255e
+    is_failed: false
+    latitude: 13.076440811157227
+    locality: Egmore
+    location:
+      adminDistrict: TN
+      adminDistrict2: Chennai
+      countryRegion: India
+      countryRegionIso2: IN
+      formattedAddress: Egmore, India
+      locality: Egmore
+    longitude: 80.26013946533203
+    name: Saint-Gobain India
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/183a22a25f164301809d5f99795e255e
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    updated_on: '2022-09-01T16:12:39.335741Z'
+    web_domain: saint-gobain.co.in
+    website: https://www.saint-gobain.co.in/
+  total_epds: 3
+  type: Plant
+  updated_on: '2024-03-22T10:48:45.913078Z'
+plant_specific: false
+private: false
+product_specific: true
+program_operator:
+  address: "Valhallav\xE4gen 81, 11428 Stockholm"
+  address_line: "81 Valhallav\xE4gen"
+  alt_names:
+  - EnviroDec
+  - environdec
+  - the International EPD System
+  - IES
+  - EPD International
+  - "International EPD\xAE System"
+  - TheInternational EPD System
+  - "The International EPD\xAE System"
+  - The International EPD
+  attachments:
+    General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2019-04-18T13:32:25.465368Z'
+  email_extensions:
+  - environdec.com
+  enterprise: true
+  id: 9857b3f664584fadbadd5e601d9368d4
+  image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+  is_failed: false
+  latitude: 59.34655
+  legal_name: EPD International AB
+  locality: Stockholm
+  location:
+    country: Sweden
+    countryCode: SE
+    countryCodeISO3: SWE
+    freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+    municipality: Stockholm
+    municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+    postalCode: '11428'
+    streetName: "Valhallav\xE4gen"
+    streetNumber: '81'
+  longitude: 18.07285
+  name: EPD International AB
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '11428'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  updated_on: '2024-08-13T12:36:34.205186Z'
+  web_domain: environdec.com
+  website: www.environdec.com
+program_operator_fkey: S-P-09810
+reference_service_life: 30 year
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3rdguw83
+standard_deviation: 0.9565200468 kgCO2e
+stored_carbon: 15.7588 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 16.60500727 kgCO2e
+uncertainty_factor: 1.0509498273049085
+updated_on: '2024-04-10T18:33:30.255179Z'
+use_stored_carbon: false
+warnings:
+  density:
+  - Not specified
+  developer:
+  - Missing link
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - ODP unit has unexpected dimension
+  - AP unit has unexpected dimension
+  - EP-FRESH impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - B1_years are empty
+  - B2_years are empty
+  - B3_years are empty
+  - B4_years are empty
+  - B5_years are empty
+  - B6_years are empty
+  - B7_years are empty
+  pcr:
+  - EPD issued after PCR expiry date. Check version or expiry of PCR.
+  verifier:
+  - Missing link

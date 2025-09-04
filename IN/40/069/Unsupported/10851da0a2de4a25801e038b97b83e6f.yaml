@@ -1,0 +1,435 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 2.443905164 kgCO2e
+biogenic_embodied_carbon_z: 0.2104756517984919
+box_id: '648690491856'
+category:
+  allows_any_declared_unit: true
+  beta_only: false
+  category_statistics_warning: true
+  created_on: '2019-09-10T11:29:28.686073Z'
+  declared_unit: 1 kg
+  default_distance: 1 km
+  default_transport_mode: none
+  description: A generic category for EPDs/Materials and categories that are explicitly
+    not yet supported by EC3. Assume that any data in this subcategory is unreliable.
+  display_name: Unsupported
+  draft: true
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: ac7f55e033154f4990e2b72c7ffc0c94
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1 kg
+  massless: false
+  masterformat: 00 00 00 No Masterformat Code
+  may_contain_trusted_vendor_declarations: false
+  name: Unsupported
+  no_statistics: true
+  obsolete: false
+  openepd: OtherMaterials >> Unsupported
+  openepd_name: OtherMaterials >> Unsupported
+  parents: []
+  pct10_gwp: 0.1192032994 kgCO2e
+  pct20_gwp: 0.4306329783 kgCO2e
+  pct30_gwp: 1.182474843 kgCO2e
+  pct40_gwp: 2.165922633 kgCO2e
+  pct50_gwp: 3.659294701 kgCO2e
+  pct60_gwp: 6.89621006 kgCO2e
+  pct70_gwp: 17.42095648 kgCO2e
+  pct80_gwp: 46.19042176 kgCO2e
+  pct90_gwp: 172.2185984 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Unsupported
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  updated_on: '2025-09-04T09:15:22.438449Z'
+  use_stored_carbon: OPTIONAL
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 3.496094836 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2021-05-18T22:15:32.005510Z'
+date_of_issue: '2019-01-18'
+date_validity_ends: '2023-12-17'
+declaration_type: Product EPD
+declared_unit: 1 m2
+density: 7870 kg / m3
+description: 'ParaLink geogrids (Figure 1 and Figure 2) are planar structure consisting
+  of a monoaxial array of composite geosynthetics strips. Each single longitudinal
+  strip has a core of high tenacity polyester yarns tendons encased in a polyethylene
+  sheath; the single strips are connected by cross-laid polyethylene strips to form
+  a grid configuration to the composite. ParaLink is CE certified for reinforcement
+  applications and approved by the BBA (British Board of Agreement). ParaLink is widely
+  used in civil engineering for soil reinforcement application including reinforced
+  soils walls and basal reinforcement applications. ParaLink provides the high performance
+  and reassurance also in the most demanding applications such as embankment over
+  piles or soils subjected to voids. Technical Characteristics of the ParaLink range
+  products are listed and detailed in the technical data sheet available on Maccaferri
+  website (https://www.maccaferri.com/). According to Construction Product Regulation
+  CEE 305/2011 the essential technical characteristics, as per Harmonized Documents:
+  EN 13249, EN 13250, EN 13251, EN 13253, EN 13254, EN 13255, EN 13257 and EN 13265,
+  are reported in the Declaration of Performances (DOP).'
+doc: buildingtransparency.org/e/ec37a2cun3
+epd_degraded: false
+excluded: false
+externally_verified: true
+file_name: S-P-01463EPDPARALINK.pdf
+gwp: 2.97 kgCO2e
+gwp_per_category_declared_unit: 2.97 kgCO2e
+gwp_per_kg: 3.56542617 kgCO2e
+gwp_z: 0.2104756517984919
+id: a1adbec9dda54a81afa841eab580facd
+impacts: {}
+includes: []
+industry_standards: []
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+lowest_plausible_gwp: 2.443905164 kgCO2e
+manufacturer:
+  address: Via John Fitzgerald Kennedy, 10, 40069 Zola Predosa
+  address_line: 10 Via John Fitzgerald Kennedy
+  admin_district: Emilia Romagna
+  admin_district2: Bologna
+  confirmable_fields: []
+  confirmed_fields: []
+  country: IT
+  cqd_sync_unlocked: true
+  created_on: '2020-09-22T12:08:21.937542Z'
+  enterprise: true
+  id: 7c584e82d0d7420f9d86cd150cfc8a6f
+  is_failed: false
+  latitude: 44.49406
+  locality: Zola Predosa
+  location:
+    country: Italia
+    countryCode: IT
+    countryCodeISO3: ITA
+    countrySecondarySubdivision: Bologna
+    countrySubdivision: Emilia Romagna
+    freeformAddress: Via John Fitzgerald Kennedy, 10, 40069 Zola Predosa
+    localName: Zola Predosa
+    municipality: Zola Predosa
+    postalCode: '40069'
+    streetName: Via John Fitzgerald Kennedy
+    streetNumber: '10'
+  longitude: 11.22553
+  name: Officine Maccaferri S.p.A.
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/7c584e82d0d7420f9d86cd150cfc8a6f
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '40069'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  updated_on: '2021-10-01T10:45:28.655482Z'
+  web_domain: maccaferri.com
+  website: https://www.maccaferri.com/
+manufacturer_specific: true
+mass_per_declared_unit: 0.833 kg
+matched_plants_count: 0
+material_id: 10851da0a2de4a25801e038b97b83e6f
+multiproduct: true
+my_capabilities: 1
+name: Paralink 300 kN
+not_an_epd: false
+open_xpd_uuid: ec33n7h3
+original_data_format: pdf_manual
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec33n7h3
+output_flows: {}
+owner:
+  name: Vaclav Admin
+  user_id: vaclav.admin@buildingtransparency.org
+pcr:
+  alt_names:
+  - Verified EPD based on IES PCR 2012:01
+  - Verified EPD based on IES PCR 2012:01
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2020-10-06T10:45:53.048797Z'
+  date_of_issue: '2020-09-18'
+  date_validity_ends: '2021-11-07'
+  declared_units:
+  - 1 unit
+  - 1 m
+  - 1 m2
+  - 1 m3
+  - 1 kg
+  doc: '#broken-link https://portal.environdec.com/api/api/v1/EPDLibrary/Files/e1c50da7-1658-4a51-3a24-08d99c9745fc/Data'
+  errors: {}
+  failures: {}
+  id: 98de9b5558464f6d85aa4aacd602a2bb
+  is_failed: false
+  lcia_requirements:
+    EF 3.0:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: PCR 2012:01 Construction products and construction services (EN 15804:A1)
+  open_xpd_uuid: ec3xmr3j
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3xmr3j
+  short_link: buildingtransparency.org/p/ec3xmr3jq6
+  short_name: Construction products and construction services (EN 15804:A1)
+  status: Expired
+  updated_on: '2025-09-04T18:46:00.209894Z'
+  version: '2.33'
+pct80_gwp_per_category_declared_unit: 3.496094836 kgCO2e
+plant_geography:
+- IN
+plant_or_group:
+  address: India
+  carbon_intensity: 1200 kgCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: IN
+  cqd_sync_unlocked: true
+  created_on: '2021-05-18T22:15:20.828732Z'
+  id: 2459ba27f327443e9b75ef08b4300bcd
+  is_failed: false
+  latitude: 22.351993560791016
+  location:
+    countryRegion: India
+    countryRegionIso2: IN
+    formattedAddress: India
+  longitude: 79.36287689208984
+  name: India
+  openepd_id: 7JJX9927+Q5.maccaferri.com
+  owned_by:
+    address: Via John Fitzgerald Kennedy, 10, 40069 Zola Predosa
+    address_line: 10 Via John Fitzgerald Kennedy
+    admin_district: Emilia Romagna
+    admin_district2: Bologna
+    confirmable_fields: []
+    confirmed_fields: []
+    country: IT
+    cqd_sync_unlocked: true
+    created_on: '2020-09-22T12:08:21.937542Z'
+    enterprise: true
+    id: 7c584e82d0d7420f9d86cd150cfc8a6f
+    is_failed: false
+    latitude: 44.49406
+    locality: Zola Predosa
+    location:
+      country: Italia
+      countryCode: IT
+      countryCodeISO3: ITA
+      countrySecondarySubdivision: Bologna
+      countrySubdivision: Emilia Romagna
+      freeformAddress: Via John Fitzgerald Kennedy, 10, 40069 Zola Predosa
+      localName: Zola Predosa
+      municipality: Zola Predosa
+      postalCode: '40069'
+      streetName: Via John Fitzgerald Kennedy
+      streetNumber: '10'
+    longitude: 11.22553
+    name: Officine Maccaferri S.p.A.
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/7c584e82d0d7420f9d86cd150cfc8a6f
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '40069'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    updated_on: '2021-10-01T10:45:28.655482Z'
+    web_domain: maccaferri.com
+    website: https://www.maccaferri.com/
+  total_epds: 1
+  type: Plant
+  units: SI
+  updated_on: '2021-05-18T22:15:20.828741Z'
+plant_specific: true
+private: false
+product_classes: {}
+product_specific: true
+program_operator:
+  address: "Valhallav\xE4gen 81, 11428 Stockholm"
+  address_line: "81 Valhallav\xE4gen"
+  alt_names:
+  - EnviroDec
+  - environdec
+  - the International EPD System
+  - IES
+  - EPD International
+  - "International EPD\xAE System"
+  - TheInternational EPD System
+  - "The International EPD\xAE System"
+  - The International EPD
+  attachments:
+    General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2019-04-18T13:32:25.465368Z'
+  email_extensions:
+  - environdec.com
+  enterprise: true
+  id: 9857b3f664584fadbadd5e601d9368d4
+  image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+  is_failed: false
+  latitude: 59.34655
+  legal_name: EPD International AB
+  locality: Stockholm
+  location:
+    country: Sweden
+    countryCode: SE
+    countryCodeISO3: SWE
+    freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+    municipality: Stockholm
+    municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+    postalCode: '11428'
+    streetName: "Valhallav\xE4gen"
+    streetNumber: '81'
+  longitude: 18.07285
+  name: EPD International AB
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '11428'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  updated_on: '2024-08-13T12:36:34.205186Z'
+  web_domain: environdec.com
+  website: www.environdec.com
+program_operator_fkey: S-P-01463
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec33n7h34c
+standard_deviation: 0.6251126858 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 3.496094836 kgCO2e
+uncertainty_factor: 1.1771363085536108
+updated_on: '2025-01-14T18:42:51.031836Z'
+use_stored_carbon: false
+verifier:
+  org:
+    address: Via Caldera, 21, 20153 Milano
+    address_line: 21 Via Caldera
+    admin_district: Lombardia
+    admin_district2: Milano
+    confirmable_fields: []
+    confirmed_fields: []
+    country: IT
+    cqd_sync_unlocked: true
+    created_on: '2020-07-21T08:35:06.732809Z'
+    enterprise: true
+    id: abb6e21f98d74634a9905ecab92bfd4e
+    is_failed: false
+    latitude: 45.478
+    locality: Milano
+    location:
+      country: Italia
+      countryCode: IT
+      countryCodeISO3: ITA
+      countrySecondarySubdivision: Milano
+      countrySubdivision: Lombardia
+      freeformAddress: Via Caldera, 21, 20153 Milano
+      localName: Milano
+      municipality: Milano
+      postalCode: '20153'
+      streetName: Via Caldera
+      streetNumber: '21'
+    longitude: 9.10188
+    name: SGS Italia S.p.A.
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/abb6e21f98d74634a9905ecab92bfd4e
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '20153'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    updated_on: '2021-12-31T16:08:18.817975Z'
+    web_domain: it.sgs.com
+    website: www.it.sgs.com
+warnings:
+  category:
+  - Cannot recognize material category
+  developer:
+  - Missing link
+  developer_org:
+  - Missing link
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - ODP impact not specified
+  - AP impact not specified
+  - EP-FRESH impact not specified
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - POCP impact not specified
+  language:
+  - Not specified
+  verifier:
+  - Missing link

@@ -1,0 +1,504 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+attachments:
+  Spider / EpdDenmark: https://www.epddanmark.dk/uk/epd-database/stylam-walltec/walltec-facade-panel-for-external-walls/?lang=en-us
+best_practice: 14.8848636 kgCO2e
+biogenic_embodied_carbon_z: 0.2104756517984919
+box_id: '1610963584026'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2021-11-22T14:52:01Z'
+  declared_unit: 1 item
+  default_distance: 234.96364 km
+  default_transport_mode: truck, unspecified
+  description: Clothing
+  display_name: Clothing
+  draft: true
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: f1f149e2348d4df8bb2c1983c5648039
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1.5 kg
+  massless: false
+  masterformat: 00 00 00 No Masterformat Code
+  may_contain_trusted_vendor_declarations: false
+  name: Clothing
+  no_statistics: false
+  obsolete: false
+  openepd: OtherMaterials >> Unsupported >> Clothing
+  openepd_name: OtherMaterials >> Unsupported >> Clothing
+  parents: []
+  pct10_gwp: 1.528975133 kgCO2e
+  pct20_gwp: 4.676282462 kgCO2e
+  pct30_gwp: 8.498938056 kgCO2e
+  pct40_gwp: 13.47773889 kgCO2e
+  pct50_gwp: 21.5895425 kgCO2e
+  pct60_gwp: 34.43980419 kgCO2e
+  pct70_gwp: 101.0958852 kgCO2e
+  pct80_gwp: 305.1156093 kgCO2e
+  pct90_gwp: 850.5034361 kgCO2e
+  requires_mass_per_declared_unit: true
+  short_name: Clothing
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '53100000'
+  updated_on: '2025-09-04T09:15:22.508898Z'
+  use_stored_carbon: OPTIONAL
+confirmable_fields:
+- name
+confirmed_fields: []
+conservative_estimate: 21.2933364 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2024-08-02T19:29:04.686117Z'
+date_of_issue: '2023-01-02'
+date_validity_ends: '2028-01-01'
+declaration_type: Product EPD
+declared_unit: 1.0 item
+description: The Walltec compact laminate board from the manufacturer Stylam is a
+  maintenance-free facade board, made for the demanding Scandinavian weather conditions.
+  The facade panel can be used as a primary climate screen in ventilated facade buildings.
+  Usable at all heights, and as a decorative interior panel where there are high humidity
+  requirements. Due to its properties and breaking strength, also particularly suitable
+  in exposed environments, such as coastal conditions, as well as schools, institutions
+  and the like. The plate is available in 6-12 mm. This EPD represents 1m2 in thickness
+  6mm, with weight of 8.7 kg per m2.
+developer:
+  email: rsingh@sphera.com
+  name: Rajesh Kumar Singh
+  org:
+    confirmable_fields: []
+    confirmed_fields: []
+    cqd_sync_unlocked: true
+    created_on: '2024-08-12T14:25:58.263922Z'
+    enterprise: false
+    id: 0bb5e934fe1d4d73a507eb60096ec723
+    is_failed: false
+    name: Sphera Solutions
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/0bb5e934fe1d4d73a507eb60096ec723
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    updated_on: '2024-08-12T14:26:04.258099Z'
+    warnings:
+      address:
+      - Not specified
+    web_domain: ga-bi-software.com
+    website: ga-bi-software.com
+doc: https://www.epddanmark.dk/uk/epd-database/stylam-walltec/walltec-facade-panel-for-external-walls/?lang=en-us
+epd_degraded: false
+errors:
+  mass_per_declared_unit:
+  - Not specified
+  name:
+  - Does not represent a name
+excluded: false
+externally_verified: true
+failures: {}
+file_name: Walltec%20facade%20panel_96b0426cf2a682e99e2ebd9b0036b9dded331862.pdf
+gwp: 18.0891 kgCO2e
+gwp_per_category_declared_unit: 18.0891 kgCO2e
+gwp_z: 0.2104756517984919
+id: a7a225d727cb41b4839c5d030cb80130
+image: https://static.buildingtransparency.org/images/430e8a0261734b2bb17e44da71965795.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lowest_plausible_gwp: 14.8848636 kgCO2e
+manufacturer:
+  address: India
+  confirmable_fields: []
+  confirmed_fields: []
+  country: IN
+  cqd_sync_unlocked: true
+  created_on: '2024-01-26T16:03:04.874506Z'
+  enterprise: false
+  id: 896b92b11d5847beb3a91184fab51afc
+  is_failed: false
+  latitude: 22.351993560791016
+  location:
+    countryRegion: India
+    countryRegionIso2: IN
+    formattedAddress: India
+  longitude: 79.36287689208984
+  name: Stylam Industries Limited
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/896b92b11d5847beb3a91184fab51afc
+  password_login_allowed: true
+  pilot_all_employees: false
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  updated_on: '2024-01-26T16:03:04.874516Z'
+  web_domain: stylam.com
+  website: https://stylam.com/
+manufacturer_specific: true
+matched_plants_count: 0
+material_id: 3d7cfa293ffe4fb796281fad034c2d3d
+multiproduct: false
+my_capabilities: 1
+name: Walltec facade panel for external walls
+not_an_epd: false
+open_xpd_uuid: ec3j0emy
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3j0emy
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  alt_names:
+  - NF EN 15804+A2 + NF EN 15804/CN
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-04-03T15:09:57.339639Z'
+  date_of_issue: '2016-08-01'
+  declared_units:
+  - 1 unit
+  - 1 kg
+  - 1 m
+  - 1 m2
+  - 1 m3
+  doc: https://www.boutique.afnor.org/fr-fr/norme/nf-en-15804-a2/contribution-des-ouvrages-de-construction-au-developpement-durable-declarat/fa198121/84194#AreasStoreProductsSummaryView
+  errors: {}
+  failures: {}
+  id: 5e3c21564bfe41db83be125354f68fc9
+  is_failed: false
+  lcia_requirements:
+    CML 2012:
+      impacts: []
+      jurisdiction:
+      - '150'
+      order: 1
+  name: Sustainability of construction works - Environmental product declarations
+    - Core rules for the product category of construction products - National addition
+    to NF EN 15804+A2
+  open_xpd_uuid: ec3rb2fz
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3rb2fz
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3rb2fzsr
+  short_name: NF EN 15804+A2
+  updated_on: '2024-04-03T15:09:59.520730Z'
+  version: '1'
+pct80_gwp_per_category_declared_unit: 21.2933364 kgCO2e
+plant_geography:
+- IN
+plant_or_group:
+  address: 14, 7c, Madhya Marg, Sector 7-C, Sector 7, Chandigarh, 160019, India
+  address_line: 7c Madhya Marg
+  admin_district: CH
+  carbon_intensity: 1200 kgCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: IN
+  cqd_sync_unlocked: true
+  created_on: '2024-03-14T23:59:32.039596Z'
+  id: 1eb0c674c213461c929154beee608a05
+  is_failed: false
+  latitude: 30.728231
+  locality: Chandigarh
+  location:
+  - long_name: '14'
+    short_name: '14'
+    types:
+    - subpremise
+  - long_name: 7c
+    short_name: 7c
+    types:
+    - street_number
+  - long_name: Madhya Marg
+    short_name: Madhya Marg
+    types:
+    - route
+  - long_name: Sector 7-C
+    short_name: Sector 7-C
+    types:
+    - political
+    - sublocality
+    - sublocality_level_2
+  - long_name: Sector 7
+    short_name: Sector 7
+    types:
+    - political
+    - sublocality
+    - sublocality_level_1
+  - long_name: Chandigarh
+    short_name: Chandigarh
+    types:
+    - locality
+    - political
+  - long_name: Chandigarh
+    short_name: Chandigarh
+    types:
+    - administrative_area_level_3
+    - political
+  - long_name: Chandigarh
+    short_name: CH
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: India
+    short_name: IN
+    types:
+    - country
+    - political
+  - long_name: '160019'
+    short_name: '160019'
+    types:
+    - postal_code
+  longitude: 76.8022244
+  name: Stylam Industries Limited
+  openepd_id: 8J2RPRH2+7V.stylam.com
+  owned_by:
+    address: India
+    confirmable_fields: []
+    confirmed_fields: []
+    country: IN
+    cqd_sync_unlocked: true
+    created_on: '2024-01-26T16:03:04.874506Z'
+    enterprise: false
+    id: 896b92b11d5847beb3a91184fab51afc
+    is_failed: false
+    latitude: 22.351993560791016
+    location:
+      countryRegion: India
+      countryRegionIso2: IN
+      formattedAddress: India
+    longitude: 79.36287689208984
+    name: Stylam Industries Limited
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/896b92b11d5847beb3a91184fab51afc
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    updated_on: '2024-01-26T16:03:04.874516Z'
+    web_domain: stylam.com
+    website: https://stylam.com/
+  postal_code: '160019'
+  total_epds: 2
+  type: Plant
+  updated_on: '2024-08-02T20:00:02.906940Z'
+plant_specific: true
+private: false
+product_specific: true
+program_operator:
+  address: "Valhallav\xE4gen 81, 11428 Stockholm"
+  address_line: "81 Valhallav\xE4gen"
+  alt_names:
+  - EnviroDec
+  - environdec
+  - the International EPD System
+  - IES
+  - EPD International
+  - "International EPD\xAE System"
+  - TheInternational EPD System
+  - "The International EPD\xAE System"
+  - The International EPD
+  attachments:
+    General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2019-04-18T13:32:25.465368Z'
+  email_extensions:
+  - environdec.com
+  enterprise: true
+  id: 9857b3f664584fadbadd5e601d9368d4
+  image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+  is_failed: false
+  latitude: 59.34655
+  legal_name: EPD International AB
+  locality: Stockholm
+  location:
+    country: Sweden
+    countryCode: SE
+    countryCodeISO3: SWE
+    freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+    municipality: Stockholm
+    municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+    postalCode: '11428'
+    streetName: "Valhallav\xE4gen"
+    streetNumber: '81'
+  longitude: 18.07285
+  name: EPD International AB
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '11428'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  updated_on: '2024-08-13T12:36:34.205186Z'
+  web_domain: environdec.com
+  website: www.environdec.com
+program_operator_fkey: S-P-06473
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3j0emykx
+standard_deviation: 3.807315113 kgCO2e
+stored_carbon: 10.3 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 21.2933364 kgCO2e
+uncertainty_factor: 1.1771363085536108
+updated_on: '2024-08-12T14:26:05.596801Z'
+use_stored_carbon: false
+verifier:
+  email: prabodha.acharya@gmail.com
+  name: Prabodha Acharya
+  org:
+    address: Bandra Kurla Complex Rd, Mumbai, Maharashtra, India
+    address_line: BKC Road
+    admin_district: MH
+    admin_district2: Mumbai Suburban
+    alt_names:
+    - JSW Cement Limited
+    confirmable_fields: []
+    confirmed_fields: []
+    country: IN
+    cqd_sync_unlocked: true
+    created_on: '2020-07-21T08:53:42.136916Z'
+    enterprise: true
+    id: e831edeb8af94dc784864680beac9d2b
+    is_failed: false
+    latitude: 19.0622678
+    locality: Mumbai
+    location:
+    - long_name: Bandra Kurla Complex Road
+      short_name: BKC Road
+      types:
+      - route
+    - long_name: Mumbai
+      short_name: Mumbai
+      types:
+      - locality
+      - political
+    - long_name: Mumbai Suburban
+      short_name: Mumbai Suburban
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Maharashtra
+      short_name: MH
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: India
+      short_name: IN
+      types:
+      - country
+      - political
+    longitude: 72.8595296
+    name: JSW Steel Limited
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/e831edeb8af94dc784864680beac9d2b
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '583119'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    updated_on: '2022-05-24T09:50:58.705857Z'
+    web_domain: jsw.in
+    website: http://www.jsw.in
+warnings:
+  density:
+  - Not specified
+  developer:
+  - Developer is not employee of developer org
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - ODP impact not specified
+  - AP impact not specified
+  - EP-FRESH impact not specified
+  - EP-TERRESTRIAL impact not specified
+  pcr:
+  - PCR validity dates not found

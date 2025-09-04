@@ -1,0 +1,488 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 23.50058953 kgCO2e
+biogenic_embodied_carbon_z: 0.2903446228191595
+box_id: '648640255494'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2022-05-10T14:05:46Z'
+  declared_unit: 1 m2
+  default_distance: 1437.14062 km
+  default_transport_mode: truck, unspecified
+  description: 'Solid glass panes without internal gaps which have been heat-treated
+    or otherwise substantially processed. Includes:
+
+    1. Coatings including low-e and other coatings (see PCR)
+
+    2. laminating (fire-rated, glass clad polycarbonate, interlayers
+
+    3. Heat treated (heat strengthened, tempered, fire-rated)
+
+    4. Mechanically or chemically processed or fabricated (edging, bending, etching,
+    drilling, notching, cutting, polishing, etc)
+
+    5. combined products of processing in 1-5.'
+  display_name: Processed Non-insulating Glass Panes
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: 6daae3d967104f5c8c85199b259f58c8
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 24.5 kg
+  massless: false
+  masterformat: 08 81 00 Glass Glazing
+  may_contain_trusted_vendor_declarations: false
+  name: ProcessedNonInsulatingGlassPanes
+  no_statistics: false
+  obsolete: false
+  openepd: Openings >> Glazing >> GlassPanes >> ProcessedNonInsulatingGlassPanes
+  openepd_name: Openings >> Glazing >> GlassPanes >> ProcessedNonInsulatingGlassPanes
+  parents: []
+  pct10_gwp: 6.175052724 kgCO2e
+  pct20_gwp: 20.15853536 kgCO2e
+  pct30_gwp: 33.79665558 kgCO2e
+  pct40_gwp: 60.35134068 kgCO2e
+  pct50_gwp: 83.37172032 kgCO2e
+  pct60_gwp: 120.824288 kgCO2e
+  pct70_gwp: 149.0736133 kgCO2e
+  pct80_gwp: 187.4893111 kgCO2e
+  pct90_gwp: 278.7277361 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Processed Glass
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  updated_on: '2025-09-04T09:15:21.439511Z'
+  use_stored_carbon: ABSENT
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 38.69941047 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2020-10-17T03:55:41.138111Z'
+date_of_issue: '2017-10-27'
+date_validity_ends: '2022-10-23'
+declaration_type: Product EPD
+declared_unit: 1 m2
+density: 2500 kg / m3
+description: 'SGG REFLECTASOL is soda-lime silicate glass produced using the float
+  procedure, on which a CVD coating has been applied. The glass is meant to be used
+  in building industrial applications. SGG REFLECTASOL is a reflective, solar control
+  glass. This reflective solar control glass product is manufactured by a process
+  known as "on-line Pyrolytic coating" or "hard coating" wherein siliconbased coating
+  is applied to the glass surface by means of pyrolysis. This coating gives it a number
+  of properties: Total integration with the surface of the glass, Strength and stability
+  over time, Solar control properties and a reflective appearance. Depending on the
+  flat glass used (SGG PLANILUX / SGG PARSOL), different products can be produced,
+  distinguishable by the thermal performance, spectrophotometric values and processing
+  characteristics: SGG REFLECTASOL Light Gold: reflective solar control glass on SGG
+  PLANILUX SGG REFLECTASOL Topaz Brown: reflective solar control glass on SGG PARSOL
+  bronze SGG REFLECTASOL Coral Green: reflective solar control glass on SGG PARSOL
+  green SGG REFLECTASOL Black Diamond: reflective solar control glass on SGG PARSOL
+  grey SGG REFLECTASOL Dark Blue: reflective solar control glass on SGG PARSOL dark
+  blue SGG REFLECTASOL Sapphire Blue: reflective solar control glass on SGG PARSOL
+  blue SGG REFLECTASOL glass complies with the requirements of class A of European
+  standard EN1096.'
+doc: buildingtransparency.org/e/ec3uz7gdee
+excluded: false
+externally_verified: true
+file_name: S-P-00980EPDReflectosolPyrolyticCVDcoatedglass.pdf
+gwp: 31.1 kgCO2e
+gwp_per_category_declared_unit: 31.1 kgCO2e
+gwp_per_kg: 1.555 kgCO2e
+gwp_z: 0.2903446228191595
+id: cd88d7e52e814071ae5232e4dca8ae02
+impacts: {}
+includes: []
+industry_standards: []
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+lca_discussion: "## LCA Notes\nThe table below present the environmental impacts associated\
+  \ with the production of 1 square meter of pyrolytic CVD coated glass, as a mix\
+  \ of every colors, for each basic glass (SGG PLANILUX and SGG PARSOL). This is a\
+  \ Cradle-to-Gate EPD. The environmental impacts of all the other stages in the life\
+  \ cycle of the Pyrolytic CVD coated glass are not declared (MND). Saint-Gobain India\
+  \ Private Limited - Glass Business- EPD verified - SGG REFLECTASOL\xAE - Page 7\
+  \ SGG REFLECTASOL on SGG PLANILUX 3 mm ENVIRONMENTAL IMPACTS 3 mm Product Construction\
+  \ Use stage End-of-life stage D Reuse. recovery. stage process stage recycling Deconstruction\
+  \ B6 Operational B7 Operational Refurbishment A5 Installation A4 Transport C2 Transport\
+  \ Replacement Maintenance C4 Disposal / demolition A1 / A2 / A3 processing energy\
+  \ use B3 Repair water use C3 Waste Parameters B1 Use B2 B4 B5 C1 9,72 MND MND MND\
+  \ MND MND MND MND MND MND MND MND MND MND MND Global Warming Potential (GWP) - kg\
+  \ CO2 equiv/FU The global warming potential of a gas refers to the total contribution\
+  \ to global warming resulting from the emission of one unit of that gas relative\
+  \ to one unit of the reference gas. carbon dioxide. which is assigned a value of\
+  \ 1. 3,81E-11 MND MND MND MND MND MND MND MND MND MND MND MND MND MND Ozone Depletion\
+  \ (ODP) kg CFC 11 equiv/FU Destruction of the stratospheric ozone layer which shields\
+  \ the earth from ultraviolet radiation harmful to life. This destruction of ozone\
+  \ is caused by the breakdown of certain chlorine and/or bromine containing compounds\
+  \ (chlorofluorocarbonsor halons). Which break down when they reach the stratosphere\
+  \ and then catalytically destroy ozone molecules. 0,0563 MND MND MND MND MND MND\
+  \ MND MND MND MND MND MND MND MND Acidification potential (AP) kg SO2 equiv/FU Acid\
+  \ depositions have negative impacts on natural ecosystems and the man-made environment\
+  \ incl. buildings. The main sources for emissions of acidifying substances are agriculture\
+  \ and fossil fuel combustion used for electricity production. heating and transport.\
+  \ Eutrophication potential (EP) 0,00528 MND MND MND MND MND MND MND MND MND MND\
+  \ MND MND MND MND kg (PO4)3- equiv/FU Excessive enrichment of waters and continental\
+  \ surfaces with nutrients. and the associated adverse biological effects. Photochemical\
+  \ ozone 0,00312 MND MND MND MND MND MND MND MND MND MND MND MND MND MND creation\
+  \ (POPC) kg Ethene equiv/FU Chemical reactions brought about by the light energy\
+  \ of the sun. The reaction of nitrogen oxides with hydrocarbons in the presence\
+  \ of sunlight to form ozone is an example of a photochemical reaction. Abiotic depletion\
+  \ potential for non-fossil ressources (ADP- 6,68E-5 MND MND MND MND MND MND MND\
+  \ MND MND MND MND MND MND MND elements) - kg Sb equiv/FU Abiotic depletion potential\
+  \ for 106 MND MND MND MND MND MND MND MND MND MND MND MND MND MND fossil ressources\
+  \ (ADP-fossil fuels) - MJ/FU Consumption of non-renewable resources. thereby lowering\
+  \ their availability for future generations. Saint-Gobain India Private Limited\
+  \ - Glass Business - EPD verified - SGG REFLECTASOL\xAE - Page 8 RESOURCE USE 3\
+  \ mm Product Construction Use stage End-of-life stage D Reuse. recovery. stage process\
+  \ stage recycling Deconstruction B6 Operational B7 Operational Refurbishment A5\
+  \ Installation A4 Transport C2 Transport Replacement Maintenance C4 Disposal / demolition\
+  \ A1 / A2 / A3 processing energy use B3 Repair water use C3 Waste Parameters B1\
+  \ Use B2 B4 B5 C1 Use of renewable primary energy excluding renewable 4 MND MND\
+  \ MND MND MND MND MND MND MND MND MND MND MND MND primary energy resources used\
+  \ as raw materials - MJ/FU Use of renewable primary energy used as raw materials\
+  \ 0 MND MND MND MND MND MND MND MND MND MND MND MND MND MND MJ/FU Total use of renewable\
+  \ primary energy resources (primary energy and primary 4 MND MND MND MND MND MND\
+  \ MND MND MND MND MND MND MND MND energy resources used as raw materials) MJ/FU\
+  \ Use of non-renewable primary energy excluding non-renewable 108 MND MND MND MND\
+  \ MND MND MND MND MND MND MND"
+lowest_plausible_gwp: 23.50058953 kgCO2e
+manufacturer:
+  address: Egmore, TN, India
+  admin_district: TN
+  admin_district2: Chennai
+  alt_names:
+  - Saint-Gobain India Private Limited
+  confirmable_fields: []
+  confirmed_fields: []
+  country: IN
+  cqd_sync_unlocked: true
+  created_on: '2020-09-22T12:48:43.457690Z'
+  enterprise: true
+  id: 183a22a25f164301809d5f99795e255e
+  is_failed: false
+  latitude: 13.076440811157227
+  locality: Egmore
+  location:
+    adminDistrict: TN
+    adminDistrict2: Chennai
+    countryRegion: India
+    countryRegionIso2: IN
+    formattedAddress: Egmore, India
+    locality: Egmore
+  longitude: 80.26013946533203
+  name: Saint-Gobain India
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/183a22a25f164301809d5f99795e255e
+  password_login_allowed: true
+  pilot_all_employees: false
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  updated_on: '2022-09-01T16:12:39.335741Z'
+  web_domain: saint-gobain.co.in
+  website: https://www.saint-gobain.co.in/
+manufacturer_specific: true
+mass_per_declared_unit: 20 kg
+matched_plants_count: 0
+material_id: 56426cc373bd4ddfb4a5c39ef428e0b4
+multiproduct: true
+my_capabilities: 1
+name: 8 mm REFLECTASOL on PARSOL
+not_an_epd: false
+open_xpd_uuid: ec3uz7gd
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3uz7gd
+output_flows: {}
+owner:
+  name: Shiva Zargar
+  user_id: shiva.zargar@ubc.ca
+pcr:
+  alt_names:
+  - Verified EPD based on IES PCR 2012:01
+  - Verified EPD based on IES PCR 2012:01
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2020-10-06T10:45:53.048797Z'
+  date_of_issue: '2020-09-18'
+  date_validity_ends: '2021-11-07'
+  declared_units:
+  - 1 unit
+  - 1 m
+  - 1 m2
+  - 1 m3
+  - 1 kg
+  doc: '#broken-link https://portal.environdec.com/api/api/v1/EPDLibrary/Files/e1c50da7-1658-4a51-3a24-08d99c9745fc/Data'
+  errors: {}
+  failures: {}
+  id: 98de9b5558464f6d85aa4aacd602a2bb
+  is_failed: false
+  lcia_requirements:
+    EF 3.0:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: PCR 2012:01 Construction products and construction services (EN 15804:A1)
+  open_xpd_uuid: ec3xmr3j
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3xmr3j
+  short_link: buildingtransparency.org/p/ec3xmr3jq6
+  short_name: Construction products and construction services (EN 15804:A1)
+  status: Expired
+  updated_on: '2025-09-04T18:46:00.209894Z'
+  version: '2.33'
+pcr_notes: 'Described list of products: SGG REFLECTASOL on SGG PLANILUX 3 mm, SGG
+  REFLECTASOL on SGG PLANILUX 3.5 mm, SGG REFLECTASOL on SGG PLANILUX 4 mm, SGG REFLECTASOL
+  on SGG PLANILUX 5 mm, SGG REFLECTASOL on SGG PLANILUX 6 mm, SGG REFLECTASOL on SGG
+  PLANILUX 8 mm, SGG REFLECTASOL on SGG PLANILUX 10 mm, SGG REFLECTASOL on SGG PLANILUX
+  12 mm, SGG REFLECTASOL on SGG PARSOL 3 mm, SGG REFLECTASOL on SGG PARSOL 3.5 mm,
+  SGG REFLECTASOL on SGG PARSOL 4 mm, SGG REFLECTASOL on SGG PARSOL 5 mm, SGG REFLECTASOL
+  on SGG PARSOL 6 mm, SGG REFLECTASOL on SGG PARSOL 8 mm'
+pct80_gwp_per_category_declared_unit: 38.69941047 kgCO2e
+plant_geography:
+- IN
+plant_or_group:
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2020-10-15T21:18:53.976412Z'
+  id: 0707491eb3d7455d9e9e1005a517d14d
+  is_failed: false
+  jurisdiction:
+  - IN
+  name: Indian sites SGG
+  owned_by:
+    address: Egmore, TN, India
+    admin_district: TN
+    admin_district2: Chennai
+    alt_names:
+    - Saint-Gobain India Private Limited
+    confirmable_fields: []
+    confirmed_fields: []
+    country: IN
+    cqd_sync_unlocked: true
+    created_on: '2020-09-22T12:48:43.457690Z'
+    enterprise: true
+    id: 183a22a25f164301809d5f99795e255e
+    is_failed: false
+    latitude: 13.076440811157227
+    locality: Egmore
+    location:
+      adminDistrict: TN
+      adminDistrict2: Chennai
+      countryRegion: India
+      countryRegionIso2: IN
+      formattedAddress: Egmore, India
+      locality: Egmore
+    longitude: 80.26013946533203
+    name: Saint-Gobain India
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/183a22a25f164301809d5f99795e255e
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    updated_on: '2022-09-01T16:12:39.335741Z'
+    web_domain: saint-gobain.co.in
+    website: https://www.saint-gobain.co.in/
+  plants_count: 0
+  total_epds: 46
+  type: PlantGroup
+  updated_on: '2020-10-16T23:11:30.019737Z'
+plant_specific: false
+private: false
+product_classes: {}
+product_specific: true
+program_operator:
+  address: "Valhallav\xE4gen 81, 11428 Stockholm"
+  address_line: "81 Valhallav\xE4gen"
+  alt_names:
+  - EnviroDec
+  - environdec
+  - the International EPD System
+  - IES
+  - EPD International
+  - "International EPD\xAE System"
+  - TheInternational EPD System
+  - "The International EPD\xAE System"
+  - The International EPD
+  attachments:
+    General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2019-04-18T13:32:25.465368Z'
+  email_extensions:
+  - environdec.com
+  enterprise: true
+  id: 9857b3f664584fadbadd5e601d9368d4
+  image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+  is_failed: false
+  latitude: 59.34655
+  legal_name: EPD International AB
+  locality: Stockholm
+  location:
+    country: Sweden
+    countryCode: SE
+    countryCodeISO3: SWE
+    freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+    municipality: Stockholm
+    municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+    postalCode: '11428'
+    streetName: "Valhallav\xE4gen"
+    streetNumber: '81'
+  longitude: 18.07285
+  name: EPD International AB
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '11428'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  updated_on: '2024-08-13T12:36:34.205186Z'
+  web_domain: environdec.com
+  website: www.environdec.com
+program_operator_fkey: S-P-00980
+pyrolytic_coated: true
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3uz7gdee
+standard_deviation: 9.02971777 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+thickness: 8 mm
+third_party_verified: true
+uncertainty_adjusted_gwp: 38.69941047 kgCO2e
+uncertainty_factor: 1.2443540345646047
+updated_on: '2025-01-14T14:48:17.529419Z'
+use_stored_carbon: false
+verifier:
+  email: matthias@schulz-sustainability-consulting.de
+  name: Matthias Schulz
+  org:
+    address: "Baldernstra\xDFe 2, Stuttgart, Baden-W\xFCrttemberg 70469, Germany"
+    address_line: "Baldernstra\xDFe 2"
+    admin_district: "Baden-W\xFCrttemberg"
+    admin_district2: Stuttgart
+    confirmable_fields: []
+    confirmed_fields: []
+    country: DE
+    cqd_sync_unlocked: true
+    created_on: '2020-09-07T13:00:56.323566Z'
+    email_extensions:
+    - schulz-sustainability-consulting.de
+    enterprise: true
+    id: f59aa7c82ddc4889a9227eb7c4abed59
+    is_failed: false
+    latitude: 48.80806
+    locality: Stuttgart
+    location:
+      addressLine: "Baldernstra\xDFe 2"
+      adminDistrict: "Baden-W\xFCrttemberg"
+      adminDistrict2: Stuttgart
+      countryRegion: Germany
+      countryRegionIso2: DE
+      formattedAddress: "Baldernstra\xDFe 2, 70469 Stuttgart, Germany"
+      locality: Stuttgart
+      postalCode: '70469'
+    longitude: 9.154125
+    name: Schulz Sustainability Consulting
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/f59aa7c82ddc4889a9227eb7c4abed59
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '70469'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    updated_on: '2021-12-31T15:57:01.462811Z'
+    web_domain: schulz-sustainability-consulting.de
+    website: https://www.schulz-sustainability-consulting.de/
+warnings:
+  developer:
+  - Missing link
+  developer_org:
+  - Missing link
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - ODP impact not specified
+  - AP impact not specified
+  - EP-FRESH impact not specified
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - POCP impact not specified
+  language:
+  - Not specified

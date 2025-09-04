@@ -1,0 +1,523 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+astm_standards: []
+box_id: '1426213326792'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2018-09-06T13:53:27.846834Z'
+  declared_unit: 1 t
+  default_distance: 664.65742 km
+  default_transport_mode: truck, unspecified
+  description: Broad category for construction materials made from steel and its alloys
+  display_name: Steel
+  draft: false
+  facility_type: MILL
+  generic_material: false
+  hide_service_life: true
+  id: db641aa0dbc34d6096547da02bf73f3a
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1000 kg
+  massless: false
+  masterformat: 05 00 00 Metals
+  may_contain_trusted_vendor_declarations: false
+  name: Steel
+  no_statistics: false
+  obsolete: false
+  openepd: Steel
+  openepd_name: Steel
+  parents: []
+  pct10_gwp: 793.3493622 kgCO2e
+  pct20_gwp: 1088.656024 kgCO2e
+  pct30_gwp: 1371.233235 kgCO2e
+  pct40_gwp: 1731.594787 kgCO2e
+  pct50_gwp: 2071.116037 kgCO2e
+  pct60_gwp: 2430.502599 kgCO2e
+  pct70_gwp: 2955.245143 kgCO2e
+  pct80_gwp: 3459.786598 kgCO2e
+  pct90_gwp: 4045.724492 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Steel
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  updated_on: '2025-09-04T09:15:08.797102Z'
+  use_stored_carbon: ABSENT
+confirmable_fields: []
+confirmed_fields: []
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2024-01-26T14:38:08.128427Z'
+date_of_issue: '2024-01-19'
+date_validity_ends: '2029-01-18'
+declaration_type: Product EPD
+declared_unit: 1.0 t
+description: 'The steel pipes are made from Hot rolled coils manufactured supplied
+  by reputed major steel producers. After being longitudinally slitted edge preparation,
+  the strip is progressively formed into a circular shape by passing it through a
+  series of forming rolls. Continuous welding is carried out by a high frequency induction
+  welding machine, and the seam is formed by fusing the edges without any filler metal.
+  The welded pipe, after cooling, is cut to an appropriate length after attaining
+  its specified shape.
+
+  The SAWH Pipes are made from HR Coil manufactured supplied by reputed major steel
+  producers by Tack Welding (GMAW) followed by SAW (Submerged Arc Welding) using filler
+  metals.
+
+  Steel pipes are extensively used in agriculture, industry and construction activities
+  like scaffolding and casing in bore wells. These are used for conveying water, gas,
+  crude oil and chemicals at various pressures and densities over long distances.
+  Considering the challenging and varied applications, the pipes are produced to meet
+  very high standards of both national and international specifications.'
+developer:
+  org:
+    address: 11 Rawhiti Road, Pukerua Bay, Wellington, North Island, 5026
+    address_line: 11 Rawhiti Road
+    admin_district: North Island
+    admin_district2: Wellington
+    alt_names:
+    - thinkstep Pty Ltd
+    - thinkstep-anz
+    confirmable_fields: []
+    confirmed_fields: []
+    country: NZ
+    cqd_sync_unlocked: true
+    created_on: '2020-11-19T11:44:47.151715Z'
+    email_extensions:
+    - thinkstep-anz.com
+    enterprise: true
+    id: 780d1576334c4dd1b2b83ad8bb134b6f
+    image: https://static.buildingtransparency.org/images/25e9101f-eeff-4067-89a1-6001622486f4
+    is_failed: false
+    latitude: -41.02978
+    legal_name: thinkstep Pty Ltd
+    locality: Porirua
+    location:
+      country: New Zealand
+      countryCode: NZ
+      countryCodeISO3: NZL
+      countrySecondarySubdivision: Wellington
+      countrySubdivision: North Island
+      countryTertiarySubdivision: Porirua
+      freeformAddress: 11 Rawhiti Road, Pukerua Bay, Wellington, North Island, 5026
+      localName: Pukerua Bay
+      municipality: Porirua
+      municipalitySubdivision: Pukerua Bay
+      postalCode: '5026'
+      streetName: Rawhiti Road
+      streetNumber: '11'
+    longitude: 174.88877
+    name: thinkstep anz
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/780d1576334c4dd1b2b83ad8bb134b6f
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '5026'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    updated_on: '2022-03-16T13:03:45.843016Z'
+    web_domain: thinkstep-anz.com
+    website: https://www.thinkstep-anz.com/
+doc: buildingtransparency.org/e/ec3axmefac
+document_version: '2024-01-19'
+en_standards: []
+epd_degraded: false
+errors: {}
+excluded: false
+externally_verified: true
+failures:
+  impacts:
+  - GWP impact not specified
+file_name: S-P-12001%20Average%20Black%2FBare%20Steel%20Pipes%20_fe17c3cd764a9c4c422b2c8ef61bc66784dc8013.pdf
+id: 34e54f0690724e4383d5153c22cc9e84
+image: https://static.buildingtransparency.org/images/4d340db803ef45f29dc314f18cd3d692.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+language: en
+manufacturer:
+  address: T Sohanlal Marg, Prasad Nagar, Karol Bagh, Delhi, India
+  address_line: T Sohanlal Marg
+  admin_district: DL
+  admin_district2: Delhi Division
+  confirmable_fields: []
+  confirmed_fields: []
+  country: IN
+  cqd_sync_unlocked: true
+  created_on: '2024-01-26T14:37:39.990377Z'
+  enterprise: false
+  id: 6a650f8b47aa4bddbdb673a8d6822e6d
+  is_failed: false
+  latitude: 28.6453385
+  locality: Delhi
+  location:
+  - long_name: T Sohanlal Marg
+    short_name: T Sohanlal Marg
+    types:
+    - route
+  - long_name: Prasad Nagar
+    short_name: Prasad Nagar
+    types:
+    - political
+    - sublocality
+    - sublocality_level_3
+  - long_name: Karol Bagh
+    short_name: Karol Bagh
+    types:
+    - political
+    - sublocality
+    - sublocality_level_1
+  - long_name: Delhi Division
+    short_name: Delhi Division
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Delhi
+    short_name: DL
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: India
+    short_name: IN
+    types:
+    - country
+    - political
+  longitude: 77.1789701
+  name: Surya Roshni Limited
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/6a650f8b47aa4bddbdb673a8d6822e6d
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '110008'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  updated_on: '2024-01-26T14:37:39.990382Z'
+  web_domain: surya.co.in
+  website: https://surya.co.in/
+manufacturer_specific: true
+mass_per_declared_unit: 1000 kg
+matched_plants_count: 0
+material_id: c992389171fd4a729697724e28ae2603
+multiproduct: false
+my_capabilities: 1
+name: S-P-12001 Average Black/Bare Steel Pipes
+not_an_epd: false
+open_xpd_uuid: ec3axmef
+original_data_format: pdf_mixed
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3axmef
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-04-02T18:26:34.309086Z'
+  date_of_issue: '2024-03-01'
+  date_validity_ends: '2024-12-20'
+  doc: https://api.environdec.com/api/v1/EPDLibrary/Files/cfb8786b-c166-4d25-02ed-08dc38ee8ac8/Data
+  errors:
+    declared_units:
+    - Not specified
+  failures:
+    declared_units:
+    - Not specified
+  id: 79f87426c5154d8f878af1a15562e9d3
+  is_failed: false
+  name: PCR 2019:14 Construction products (EN 15804+A2) (1.3.3)
+  open_xpd_uuid: ec3pks1a
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3pks1a
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3pks1akr
+  short_name: Construction products (EN 15804+A2)
+  status: Expired
+  updated_on: '2024-12-21T04:05:11.344807Z'
+  version: 1.3.3
+plant_geography:
+- IN
+plant_or_group:
+  address: India
+  carbon_intensity: 1200 kgCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: IN
+  cqd_sync_unlocked: true
+  created_on: '2024-03-15T00:05:27.157475Z'
+  id: d94c60087740457ea3e52e4b729e7b46
+  is_failed: false
+  latitude: 22.351993560791016
+  location:
+    countryRegion: India
+    countryRegionIso2: IN
+    formattedAddress: India
+  longitude: 79.36287689208984
+  name: Bahadurgarh plant
+  openepd_id: 7JJX9927+Q5.surya.co.in
+  owned_by:
+    address: T Sohanlal Marg, Prasad Nagar, Karol Bagh, Delhi, India
+    address_line: T Sohanlal Marg
+    admin_district: DL
+    admin_district2: Delhi Division
+    confirmable_fields: []
+    confirmed_fields: []
+    country: IN
+    cqd_sync_unlocked: true
+    created_on: '2024-01-26T14:37:39.990377Z'
+    enterprise: false
+    id: 6a650f8b47aa4bddbdb673a8d6822e6d
+    is_failed: false
+    latitude: 28.6453385
+    locality: Delhi
+    location:
+    - long_name: T Sohanlal Marg
+      short_name: T Sohanlal Marg
+      types:
+      - route
+    - long_name: Prasad Nagar
+      short_name: Prasad Nagar
+      types:
+      - political
+      - sublocality
+      - sublocality_level_3
+    - long_name: Karol Bagh
+      short_name: Karol Bagh
+      types:
+      - political
+      - sublocality
+      - sublocality_level_1
+    - long_name: Delhi Division
+      short_name: Delhi Division
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Delhi
+      short_name: DL
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: India
+      short_name: IN
+      types:
+      - country
+      - political
+    longitude: 77.1789701
+    name: Surya Roshni Limited
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/6a650f8b47aa4bddbdb673a8d6822e6d
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '110008'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    updated_on: '2024-01-26T14:37:39.990382Z'
+    web_domain: surya.co.in
+    website: https://surya.co.in/
+  total_epds: 3
+  type: Plant
+  updated_on: '2024-03-15T00:05:27.157487Z'
+plant_specific: false
+private: false
+product_specific: true
+program_operator:
+  address: "Valhallav\xE4gen 81, 11428 Stockholm"
+  address_line: "81 Valhallav\xE4gen"
+  alt_names:
+  - EnviroDec
+  - environdec
+  - the International EPD System
+  - IES
+  - EPD International
+  - "International EPD\xAE System"
+  - TheInternational EPD System
+  - "The International EPD\xAE System"
+  - The International EPD
+  attachments:
+    General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2019-04-18T13:32:25.465368Z'
+  email_extensions:
+  - environdec.com
+  enterprise: true
+  id: 9857b3f664584fadbadd5e601d9368d4
+  image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+  is_failed: false
+  latitude: 59.34655
+  legal_name: EPD International AB
+  locality: Stockholm
+  location:
+    country: Sweden
+    countryCode: SE
+    countryCodeISO3: SWE
+    freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+    municipality: Stockholm
+    municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+    postalCode: '11428'
+    streetName: "Valhallav\xE4gen"
+    streetNumber: '81'
+  longitude: 18.07285
+  name: EPD International AB
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '11428'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  updated_on: '2024-08-13T12:36:34.205186Z'
+  web_domain: environdec.com
+  website: www.environdec.com
+program_operator_fkey: S-P-12001
+requires_ocr: false
+resource_uses: {}
+sae_standards: []
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3axmefac
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+updated_on: '2024-04-10T17:15:19.496752Z'
+use_stored_carbon: false
+verifier:
+  email: sunilkumar@chakra4.in
+  name: Sunil Kumar C S
+  org:
+    address: 7th Block Road J P Nagar, Bengaluru, Karnataka
+    address_line: ' 7th Block Road J P Nagar'
+    admin_district: Karnataka
+    admin_district2: Bengaluru
+    confirmable_fields: []
+    confirmed_fields: []
+    country: IN
+    cqd_sync_unlocked: true
+    created_on: '2020-11-02T13:53:15.308330Z'
+    enterprise: true
+    id: 8addf2cb8eab4b95b04fb7c870f2ff1a
+    is_failed: false
+    latitude: 12.86901
+    locality: Bengaluru
+    location:
+      country: India
+      countryCode: IN
+      countryCodeISO3: IND
+      countrySecondarySubdivision: Bengaluru
+      countrySubdivision: Karnataka
+      freeformAddress: 7th Block Road J P Nagar, Bengaluru, Karnataka
+      localName: Bengaluru
+      municipality: Bengaluru
+      municipalitySubdivision: JP Nagar IX Phase
+      postalCode: 560062, 560108
+      streetName: 7th Block Road J P Nagar
+    longitude: 77.57009
+    name: Chakra4 Sustainability Consulting Services
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/8addf2cb8eab4b95b04fb7c870f2ff1a
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: 560062, 560108
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    updated_on: '2021-12-31T19:35:47.607207Z'
+    web_domain: chakra4.in
+    website: www.chakra4.in
+warnings:
+  density:
+  - Not specified
+  developer:
+  - Missing link
+  impacts:
+  - ODP impact not specified
+  - AP impact not specified
+  - EP-FRESH impact not specified
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - POCP impact not specified
+  steel_post_consumer_recycled_content:
+  - Not specified
+  steel_recycled_content:
+  - Not specified
+  steel_yield_tensile_str:
+  - Not specified

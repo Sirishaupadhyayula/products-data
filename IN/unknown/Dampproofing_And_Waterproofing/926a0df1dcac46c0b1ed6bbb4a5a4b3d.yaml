@@ -1,0 +1,616 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 1.790880938 kgCO2e
+biogenic_embodied_carbon_z: 0.2903446228191595
+box_id: '582869306617'
+category:
+  allows_any_declared_unit: false
+  beta_only: true
+  category_statistics_warning: false
+  created_on: '2019-07-18T14:11:47.515476Z'
+  declared_unit: 1 m2
+  default_distance: 960.77598 km
+  default_transport_mode: truck, unspecified
+  description: 'Dampproofing, and built-up bituminous, sheet, fluid-applied, cementitious,
+    reactive, and bentonite waterproofing '
+  display_name: Dampproofing And Waterproofing
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: c2b85406bbd94f259c41a17252b01d11
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1.328 kg
+  massless: false
+  masterformat: 07 10 00 Dampproofing and Waterproofing
+  may_contain_trusted_vendor_declarations: false
+  name: DampproofingAndWaterproofing
+  no_statistics: false
+  obsolete: false
+  openepd: ThermalMoistureProtection >> DampproofingAndWaterproofing
+  openepd_name: ThermalMoistureProtection >> DampproofingAndWaterproofing
+  parents: []
+  pct10_gwp: 2.00622417 kgCO2e
+  pct20_gwp: 2.467137112 kgCO2e
+  pct30_gwp: 2.815239043 kgCO2e
+  pct40_gwp: 3.174634891 kgCO2e
+  pct50_gwp: 3.543315982 kgCO2e
+  pct60_gwp: 3.964163664 kgCO2e
+  pct70_gwp: 4.329243364 kgCO2e
+  pct80_gwp: 4.94376733 kgCO2e
+  pct90_gwp: 5.93749238 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Dampproofing And Waterproofing
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  updated_on: '2025-09-04T09:15:16.593473Z'
+  use_stored_carbon: ABSENT
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 2.949119062 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2019-12-23T11:54:39.958446Z'
+date_of_issue: '2018-02-27'
+date_validity_ends: '2023-02-01'
+declaration_type: Product EPD
+declared_unit: 1 m2
+description: "Sika\xAE CoolRoof CET / Sikalastic\xAE-560 is a cold-applied, UV-stable\
+  \ and highly reflective water-based waterproofing system. It is applied to enhance\
+  \ surface appearance and to reduce cooling and overall energy consumption in conditioned\
+  \ buildings. It conforms with LEED\xAE v2009/ v4 requirements and the attested initial\
+  \ SRI of 106 and three-year aged SRI of 90 exceed the cool roof requirements of\
+  \ LEED\xAE. Furthermore, it cures to form seamless, durable and weather resistant\
+  \ waterproofing solution for the exposed roof areas. The results in this EDP refer\
+  \ to the standard 1.0 mm system, consisting of an embedment layer of 1 L/m2 and\
+  \ Sika\xAE Reemat Premium reinforcement, and a top coat of 0.55 L/m2. Technical\
+  \ Information Property Value, Unit Tensile Strength Not reinforced ~1.5 N/mm2 as\
+  \ per DIN 53504 Reinforced with Sikalastic\xAE Fleece-120 ~12 N/mm2 Reinforced with\
+  \ Sika\xAE Reemat Premium ~4-5 N/mm2 Elongation at break Not reinforced ~350 % as\
+  \ per DIN 53504 Reinforced with Sikalastic\xAE Fleece-120 ~40-60 % Reinforced with\
+  \ Sika\xAE Reemat Premium ~70-80 % Solar reflectance as per ASTM C 1549 0.821) Thermal\
+  \ Emittance as per ASTM E 408 0.931) Solar Reflectance Index as per ASTM E 1980\
+  \ 1061) Service Temperature With Fleece -10 \xB0C min. / +80 \xB0C max. Without\
+  \ Fleece -5 \xB0C min. / +80 \xB0C max. 1) All values refer to the initial (properly\
+  \ cured, non-weathered) status of Sika\xAE CoolRoof CET / Sikalastic\xAE-560 white\
+  \ EPD Number: 000175 Date of Issue:27 February 2018 Expiry Date 01 February 2023\
+  \ BF1805-C-ECOP Rev 0.0 Page 3 of 13 \xA9 BRE Global Ltd, 2017 Main Product Contents\
+  \ Material/Chemical Input % Polymers 40 - 60 Plasticizer <1 Additives <5 Pigments\
+  \ 5 - 15 Solvent 10 - 20 Fillers 15 - 30 Manufacturing Process Two or three shaft\
+  \ mixer-dispersers are used to manufacture this product (Anchor blade with scrappers,\
+  \ disperser shaft and shaft with screw blade whether it is available). The batch\
+  \ Size can be between 1.600 to 2.400 kg or between 6.000 to 9.000 kg, depending\
+  \ on the disperser used. First, the poly"
+developer:
+  org:
+    address: Watchmead, Welwyn Garden City
+    address_line: ' Watchmead'
+    admin_district: ENG
+    admin_district2: Hertfordshire
+    alt_names:
+    - Sika Technology AG
+    confirmable_fields: []
+    confirmed_fields: []
+    country: GB
+    cqd_sync_unlocked: true
+    created_on: '2019-12-23T11:51:20.267558Z'
+    email_extensions:
+    - sika.com
+    enterprise: true
+    id: 8414ff5f215d4b2d9aa43bfcfc58fd3f
+    is_failed: false
+    latitude: 51.80063
+    locality: Welwyn Garden City
+    location:
+      country: United Kingdom
+      countryCode: GB
+      countryCodeISO3: GBR
+      countrySecondarySubdivision: Hertfordshire
+      countrySubdivision: ENG
+      countrySubdivisionName: England
+      extendedPostalCode: AL7 1AP, AL7 1BQ, AL7 1GN, AL7 1GX, AL7 1LT, AL7 1TS
+      freeformAddress: Watchmead, Welwyn Garden City
+      municipality: Welwyn Garden City
+      municipalitySubdivision: Welwyn Garden City
+      postalCode: AL7
+      streetName: Watchmead
+    longitude: -0.18546
+    name: Sika ltd.
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/8414ff5f215d4b2d9aa43bfcfc58fd3f
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: AL7
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    updated_on: '2021-12-06T16:28:09.634994Z'
+    web_domain: sika.com
+    website: https://www.sika.com
+doc: buildingtransparency.org/e/ec3h0dqjpf
+epd_degraded: false
+excluded: false
+externally_verified: true
+file_name: BREGENEPD000175.pdf
+gwp: 2.37 kgCO2e
+gwp_per_category_declared_unit: 2.37 kgCO2e
+gwp_per_kg: 1.768656716 kgCO2e
+gwp_z: 0.2903446228191595
+id: 073e683f5f82408ea70756b63e74f019
+image: https://static.buildingtransparency.org/images/92d2a4c3ae424cbc99b35759116e10a1.png
+impacts: {}
+includes: []
+industry_standards: []
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lca_discussion: '## Product Component Notes
+
+  Polymers, 40 - 60, Plasticizer, < 1, Additives, < 5, Pigments, 5 - 15, Solvent,
+  10 - 20, Fillers, 15 - 30
+
+
+  ## Source Data Notes
+
+  The primary data provided by Sika derive from a multi-site average which covers
+  all major sites and includes the plants at Argentina, Bahrain, Colombia, Indonesia,
+  Malaysia, Mexico, Peru, Turkey and Spain for 2016. The multi-site average is a mathematical
+  average of all the countries data, production and formulation. Background LCI datasets
+  are taken from the databases of GaBi software Version 7.3.3 with Database 2017 and
+  ecoinvent Version 3.3. The model is created for the multi-site average and a global
+  electricity dataset is used in it. All datasets are less than 6 years old. Benefits
+  from incineration and landfilling of product losses and for the disposal of packaging
+  are credited in Module D; this also applies to the reuse of wooden pallets.'
+lowest_plausible_gwp: 1.790880938 kgCO2e
+manufacturer:
+  address: Watchmead, Welwyn Garden City
+  address_line: ' Watchmead'
+  admin_district: ENG
+  admin_district2: Hertfordshire
+  alt_names:
+  - Sika Technology AG
+  confirmable_fields: []
+  confirmed_fields: []
+  country: GB
+  cqd_sync_unlocked: true
+  created_on: '2019-12-23T11:51:20.267558Z'
+  email_extensions:
+  - sika.com
+  enterprise: true
+  id: 8414ff5f215d4b2d9aa43bfcfc58fd3f
+  is_failed: false
+  latitude: 51.80063
+  locality: Welwyn Garden City
+  location:
+    country: United Kingdom
+    countryCode: GB
+    countryCodeISO3: GBR
+    countrySecondarySubdivision: Hertfordshire
+    countrySubdivision: ENG
+    countrySubdivisionName: England
+    extendedPostalCode: AL7 1AP, AL7 1BQ, AL7 1GN, AL7 1GX, AL7 1LT, AL7 1TS
+    freeformAddress: Watchmead, Welwyn Garden City
+    municipality: Welwyn Garden City
+    municipalitySubdivision: Welwyn Garden City
+    postalCode: AL7
+    streetName: Watchmead
+  longitude: -0.18546
+  name: Sika ltd.
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/8414ff5f215d4b2d9aa43bfcfc58fd3f
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: AL7
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  updated_on: '2021-12-06T16:28:09.634994Z'
+  web_domain: sika.com
+  website: https://www.sika.com
+manufacturer_specific: true
+mass_per_declared_unit: 1.34 kg
+matched_plants_count: 0
+material_id: 926a0df1dcac46c0b1ed6bbb4a5a4b3d
+multiproduct: false
+my_capabilities: 1
+name: "Sika\xAE CoolRoof CET/ Sikalastic\xAE-560 1 mm"
+not_an_epd: false
+open_xpd_uuid: ec3h0dqj
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3h0dqj
+output_flows: {}
+pcr:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2021-10-05T17:10:49.415600Z'
+  date_of_issue: '2014-02-12'
+  declared_units:
+  - 1 kg
+  - 1 m2
+  - 1 m3
+  - 1 m
+  - 1 unit
+  doc: https://www.en-standard.eu/une-en-15804-2012-a1-2014-sustainability-of-construction-works-environmental-product-declarations-core-rules-for-the-product-category-of-construction-products/
+  errors: {}
+  failures: {}
+  id: b4789241a24649db9ebc3934b058eed7
+  is_failed: false
+  lcia_requirements:
+    CML 2012:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: EN 15804:2012+A1:2014 Sustainability of construction works - Environmental
+    product declarations - Core rules for the product category of construction products
+  open_xpd_uuid: ec36npc1
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec36npc1
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec36npc1zw
+  short_name: EN 15804:2012+A1:2014
+  updated_on: '2022-09-30T13:57:55.003183Z'
+  version: '1'
+pct80_gwp_per_category_declared_unit: 2.949119062 kgCO2e
+plant_geography:
+- '030'
+- SA
+- AM
+- YE
+- '034'
+- MW
+- ER
+- SO
+- MU
+- ET
+- AE
+- SC
+- 018
+- BI
+- KE
+- TZ
+- '035'
+- GE
+- SY
+- JO
+- RE
+- MG
+- CY
+- KW
+- '017'
+- BH
+- LB
+- '150'
+- DJ
+- '011'
+- IQ
+- MZ
+- SS
+- TF
+- ZW
+- IL
+- RW
+- '143'
+- UG
+- AZ
+- QA
+- '015'
+- OM
+- ZM
+- PS
+- YT
+- KM
+plant_or_group:
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2020-12-16T18:16:55.505914Z'
+  id: 709c33f4bdc54595aefd37a5f90c9cf1
+  is_failed: false
+  jurisdiction:
+  - '030'
+  - SA
+  - AM
+  - YE
+  - '034'
+  - MW
+  - ER
+  - SO
+  - MU
+  - ET
+  - AE
+  - SC
+  - 018
+  - BI
+  - KE
+  - TZ
+  - '035'
+  - GE
+  - SY
+  - JO
+  - RE
+  - MG
+  - CY
+  - KW
+  - '017'
+  - BH
+  - LB
+  - '150'
+  - IQ
+  - '011'
+  - DJ
+  - MZ
+  - SS
+  - TF
+  - ZW
+  - IL
+  - RW
+  - '143'
+  - UG
+  - AZ
+  - QA
+  - '015'
+  - OM
+  - ZM
+  - PS
+  - YT
+  - KM
+  name: EMEA Region (Multiple Plants)
+  owned_by:
+    address: Watchmead, Welwyn Garden City
+    address_line: ' Watchmead'
+    admin_district: ENG
+    admin_district2: Hertfordshire
+    alt_names:
+    - Sika Technology AG
+    confirmable_fields: []
+    confirmed_fields: []
+    country: GB
+    cqd_sync_unlocked: true
+    created_on: '2019-12-23T11:51:20.267558Z'
+    email_extensions:
+    - sika.com
+    enterprise: true
+    id: 8414ff5f215d4b2d9aa43bfcfc58fd3f
+    is_failed: false
+    latitude: 51.80063
+    locality: Welwyn Garden City
+    location:
+      country: United Kingdom
+      countryCode: GB
+      countryCodeISO3: GBR
+      countrySecondarySubdivision: Hertfordshire
+      countrySubdivision: ENG
+      countrySubdivisionName: England
+      extendedPostalCode: AL7 1AP, AL7 1BQ, AL7 1GN, AL7 1GX, AL7 1LT, AL7 1TS
+      freeformAddress: Watchmead, Welwyn Garden City
+      municipality: Welwyn Garden City
+      municipalitySubdivision: Welwyn Garden City
+      postalCode: AL7
+      streetName: Watchmead
+    longitude: -0.18546
+    name: Sika ltd.
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/8414ff5f215d4b2d9aa43bfcfc58fd3f
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: AL7
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    updated_on: '2021-12-06T16:28:09.634994Z'
+    web_domain: sika.com
+    website: https://www.sika.com
+  plants_count: 0
+  total_epds: 4
+  type: PlantGroup
+  updated_on: '2020-12-16T18:16:55.505920Z'
+plant_specific: false
+private: false
+product_classes: {}
+product_specific: true
+program_operator:
+  address: Bucknalls Lane, Watford (Bricket Wood)
+  address_line: ' Bucknalls Lane'
+  admin_district: ENG
+  admin_district2: Hertfordshire
+  alt_names:
+  - BRE Global Ltd.
+  - BRE
+  - BREGlobal
+  confirmable_fields: []
+  confirmed_fields: []
+  country: GB
+  cqd_sync_unlocked: true
+  created_on: '2019-04-15T17:50:51.865089Z'
+  email_extensions:
+  - bre.co.uk
+  - bregroup.com
+  enterprise: true
+  id: 7f0b7ec3f0a2435792ee1f81a6ffed5d
+  image: https://static.buildingtransparency.org/images/ff176b06-f8fb-40e0-9f26-4d587714e044.png
+  is_failed: false
+  latitude: 51.70006
+  legal_name: BRE Global
+  locality: Watford
+  location:
+    country: United Kingdom
+    countryCode: GB
+    countryCodeISO3: GBR
+    countrySecondarySubdivision: Hertfordshire
+    countrySubdivision: ENG
+    countrySubdivisionName: England
+    extendedPostalCode: WD25 9PR,WD25 9XX
+    freeformAddress: Bucknalls Lane, Watford (Bricket Wood)
+    municipality: Watford
+    municipalitySubdivision: Bricket Wood
+    postalCode: WD25
+    streetName: Bucknalls Lane
+  longitude: -0.37187
+  name: BRE Global
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/7f0b7ec3f0a2435792ee1f81a6ffed5d
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - GB
+  postal_code: WD25
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: true
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  updated_on: '2024-07-24T16:47:13.237872Z'
+  web_domain: bregroup.com
+  website: https://www.bregroup.com/
+program_operator_fkey: '000175'
+reference_service_life: 10 years
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3h0dqjpf
+standard_deviation: 0.6881167561 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 2.949119062 kgCO2e
+uncertainty_factor: 1.2443540345646047
+updated_on: '2025-01-14T09:31:25.535074Z'
+use_stored_carbon: false
+verifier:
+  email: allburyk@bre.co.uk
+  name: Kim Albury
+  org:
+    address: Bucknalls Lane, Watford (Bricket Wood)
+    address_line: ' Bucknalls Lane'
+    admin_district: ENG
+    admin_district2: Hertfordshire
+    alt_names:
+    - BRE Global Ltd.
+    - BRE
+    - BREGlobal
+    confirmable_fields: []
+    confirmed_fields: []
+    country: GB
+    cqd_sync_unlocked: true
+    created_on: '2019-04-15T17:50:51.865089Z'
+    email_extensions:
+    - bre.co.uk
+    - bregroup.com
+    enterprise: true
+    id: 7f0b7ec3f0a2435792ee1f81a6ffed5d
+    image: https://static.buildingtransparency.org/images/ff176b06-f8fb-40e0-9f26-4d587714e044.png
+    is_failed: false
+    latitude: 51.70006
+    legal_name: BRE Global
+    locality: Watford
+    location:
+      country: United Kingdom
+      countryCode: GB
+      countryCodeISO3: GBR
+      countrySecondarySubdivision: Hertfordshire
+      countrySubdivision: ENG
+      countrySubdivisionName: England
+      extendedPostalCode: WD25 9PR,WD25 9XX
+      freeformAddress: Bucknalls Lane, Watford (Bricket Wood)
+      municipality: Watford
+      municipalitySubdivision: Bricket Wood
+      postalCode: WD25
+      streetName: Bucknalls Lane
+    longitude: -0.37187
+    name: BRE Global
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/7f0b7ec3f0a2435792ee1f81a6ffed5d
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - GB
+    postal_code: WD25
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: true
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    updated_on: '2024-07-24T16:47:13.237872Z'
+    web_domain: bregroup.com
+    website: https://www.bregroup.com/
+warnings:
+  density:
+  - Not specified
+  developer:
+  - Missing link
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  pcr:
+  - PCR validity dates not found

@@ -1,0 +1,465 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 6028.144002 kgCO2e
+biogenic_embodied_carbon_z: 0.7509873500931957
+box_id: '1426294681317'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2019-05-09T11:43:58Z'
+  declared_unit: 1 kg
+  default_distance: 856.16888 km
+  default_transport_mode: truck, unspecified
+  description: Broad category for construction materials made primarily from Aluminium
+    and its alloys
+  display_name: Aluminium
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: 26021028190540229c4994c0ea5ea476
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1 kg
+  massless: false
+  masterformat: 05 00 00 METALS
+  may_contain_trusted_vendor_declarations: false
+  name: Aluminium
+  no_statistics: false
+  obsolete: false
+  openepd: Aluminium
+  openepd_name: Aluminium
+  parents: []
+  pct10_gwp: 1.180370037 kgCO2e
+  pct20_gwp: 2.096454774 kgCO2e
+  pct30_gwp: 3.064890583 kgCO2e
+  pct40_gwp: 3.68133827 kgCO2e
+  pct50_gwp: 4.771505259 kgCO2e
+  pct60_gwp: 5.762207526 kgCO2e
+  pct70_gwp: 7.514982233 kgCO2e
+  pct80_gwp: 9.880156333 kgCO2e
+  pct90_gwp: 13.27798479 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Aluminium
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  updated_on: '2025-09-04T09:15:14.083135Z'
+  use_stored_carbon: ABSENT
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 26736.26412 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2024-01-26T18:16:19.879428Z'
+date_of_issue: '2022-09-14'
+date_validity_ends: '2027-09-13'
+declaration_type: Product EPD
+description: The transformer is defined as an assembly of electric and electronic
+  devices adjusting and regulating voltage and current intensity components of electric
+  power, during a reference service life. Toshiba's Oil Insulated Transformer (OIT)
+  is a highly durable and reliable power transformer for electric utilities, electrical
+  transmission, and generation stations. Since pioneering its first transformer in
+  1894 Toshiba has expanded into a world leader in transformers with an installed
+  base that encompasses 35 countries. Available voltage/power ratings range from 69
+  to 765 kV and 100 to 1000 MVA.
+developer:
+  org:
+    address: 14 King St, Saint John, NB E2L 1G2, Canada
+    address_line: 14 King St
+    admin_district: NB
+    admin_district2: Saint John County
+    confirmable_fields: []
+    confirmed_fields: []
+    country: CA
+    cqd_sync_unlocked: true
+    created_on: '2021-06-30T16:56:25.729266Z'
+    enterprise: false
+    id: 5525c39d89ed43419ba0ff5f68a4ad3d
+    is_failed: false
+    iso9001_certified: true
+    latitude: 45.2727468
+    locality: Saint John
+    location:
+    - long_name: '14'
+      short_name: '14'
+      types:
+      - street_number
+    - long_name: King Street
+      short_name: King St
+      types:
+      - route
+    - long_name: Saint John
+      short_name: Saint John
+      types:
+      - locality
+      - political
+    - long_name: Saint John County
+      short_name: Saint John County
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: New Brunswick
+      short_name: NB
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Canada
+      short_name: CA
+      types:
+      - country
+      - political
+    - long_name: E2L 1G2
+      short_name: E2L 1G2
+      types:
+      - postal_code
+    longitude: -66.0617908
+    name: CBCL Limited
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/5525c39d89ed43419ba0ff5f68a4ad3d
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: E2L 1G2
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: false
+    updated_on: '2021-06-30T16:58:08.473703Z'
+    web_domain: cbcl.ca
+    website: cbcl.ca
+doc: buildingtransparency.org/e/ec3fegd4t2
+document_version: '2022-09-14'
+epd_degraded: false
+errors: {}
+excluded: false
+externally_verified: true
+failures:
+  declared_unit:
+  - Not specified
+file_name: S-P-06470%20Aluminum%20wound%2C%20Mineral%20oil%20filled%20Trans_d1d433036dae164f8b65f00e0eb7cac5ce4f1b49.pdf
+gwp: 16382.20406 kgCO2e
+gwp_z: 0.7509873500931957
+id: a25398f07cf14304bf73de867c0ed84a
+image: https://static.buildingtransparency.org/images/6e038142fd9b40768a5738819428093a.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+language: en
+lowest_plausible_gwp: 6028.144002 kgCO2e
+manufacturer:
+  address: India
+  confirmable_fields: []
+  confirmed_fields: []
+  country: IN
+  cqd_sync_unlocked: true
+  created_on: '2024-01-26T16:23:17.182243Z'
+  enterprise: false
+  id: fd9c70be2aef4ed896e4b09e4e500c9d
+  is_failed: false
+  latitude: 22.351993560791016
+  location:
+    countryRegion: India
+    countryRegionIso2: IN
+    formattedAddress: India
+  longitude: 79.36287689208984
+  name: 'Toshiba Transmission & Distribution Systems (India) Pvt. Ltd. '
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/fd9c70be2aef4ed896e4b09e4e500c9d
+  password_login_allowed: true
+  pilot_all_employees: false
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  updated_on: '2024-01-26T16:23:17.182251Z'
+  web_domain: toshiba-india.com
+  website: https://toshiba-india.com/transmission-and-distribution.aspx
+manufacturer_specific: true
+matched_plants_count: 0
+material_id: c8774b14944143e79775d3c632426ade
+multiproduct: false
+my_capabilities: 1
+name: "S-P-06470 Aluminum wound, Mineral oil filled Transformer \u2013 8178 E"
+not_an_epd: false
+open_xpd_uuid: ec3fegd4
+original_data_format: pdf_mixed
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3fegd4
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-04-02T18:26:26.229564Z'
+  date_of_issue: '2023-09-05'
+  date_validity_ends: '2024-10-29'
+  doc: https://api.environdec.com/api/v1/EPDLibrary/Files/cc823d12-b847-4f35-76e8-08dba3f6d3f1/Data
+  errors:
+    declared_units:
+    - Not specified
+  failures:
+    declared_units:
+    - Not specified
+  id: 5b05edc93bfb4faf902813645ff76b5f
+  is_failed: false
+  name: PCR 2019:12 Being updated - Liquid immersed power transformers (>25 MVA) (1.0.3)
+  open_xpd_uuid: ec3dp8my
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3dp8my
+  short_link: buildingtransparency.org/p/ec3dp8my9j
+  short_name: Being updated - Liquid immersed power transformers (>25 MVA)
+  status: Expired
+  updated_on: '2024-10-30T00:03:41.557920Z'
+  version: 1.0.3
+plant_geography:
+- IN
+plant_or_group:
+  address: Rudraram, Telangana 502329, India
+  admin_district: TS
+  carbon_intensity: 1200 kgCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: IN
+  cqd_sync_unlocked: true
+  created_on: '2024-03-20T14:53:13.768169Z'
+  id: d5a5969aadd941a88ad56719bbb2e3fd
+  is_failed: false
+  latitude: 17.5615117
+  locality: Rudraram
+  location:
+  - long_name: Rudraram
+    short_name: Rudraram
+    types:
+    - locality
+    - political
+  - long_name: Sangareddy
+    short_name: Sangareddy
+    types:
+    - administrative_area_level_3
+    - political
+  - long_name: Telangana
+    short_name: TS
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: India
+    short_name: IN
+    types:
+    - country
+    - political
+  - long_name: '502329'
+    short_name: '502329'
+    types:
+    - postal_code
+  longitude: 78.1661883
+  name: Toshiba Transmission & Distribution Systems (India) Private Limited
+  openepd_id: 7J9WH568+JF.toshiba-india.com
+  owned_by:
+    address: India
+    confirmable_fields: []
+    confirmed_fields: []
+    country: IN
+    cqd_sync_unlocked: true
+    created_on: '2024-01-26T16:23:17.182243Z'
+    enterprise: false
+    id: fd9c70be2aef4ed896e4b09e4e500c9d
+    is_failed: false
+    latitude: 22.351993560791016
+    location:
+      countryRegion: India
+      countryRegionIso2: IN
+      formattedAddress: India
+    longitude: 79.36287689208984
+    name: 'Toshiba Transmission & Distribution Systems (India) Pvt. Ltd. '
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/fd9c70be2aef4ed896e4b09e4e500c9d
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    updated_on: '2024-01-26T16:23:17.182251Z'
+    web_domain: toshiba-india.com
+    website: https://toshiba-india.com/transmission-and-distribution.aspx
+  postal_code: '502329'
+  total_epds: 2
+  type: Plant
+  updated_on: '2024-03-20T14:53:13.768179Z'
+plant_specific: false
+private: false
+product_specific: true
+program_operator:
+  address: "Valhallav\xE4gen 81, 11428 Stockholm"
+  address_line: "81 Valhallav\xE4gen"
+  alt_names:
+  - EnviroDec
+  - environdec
+  - the International EPD System
+  - IES
+  - EPD International
+  - "International EPD\xAE System"
+  - TheInternational EPD System
+  - "The International EPD\xAE System"
+  - The International EPD
+  attachments:
+    General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2019-04-18T13:32:25.465368Z'
+  email_extensions:
+  - environdec.com
+  enterprise: true
+  id: 9857b3f664584fadbadd5e601d9368d4
+  image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+  is_failed: false
+  latitude: 59.34655
+  legal_name: EPD International AB
+  locality: Stockholm
+  location:
+    country: Sweden
+    countryCode: SE
+    countryCodeISO3: SWE
+    freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+    municipality: Stockholm
+    municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+    postalCode: '11428'
+    streetName: "Valhallav\xE4gen"
+    streetNumber: '81'
+  longitude: 18.07285
+  name: EPD International AB
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '11428'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  updated_on: '2024-08-13T12:36:34.205186Z'
+  web_domain: environdec.com
+  website: www.environdec.com
+program_operator_fkey: S-P-06470
+reference_service_life: 35 year
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3fegd4t2
+standard_deviation: 12302.82802 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 26736.26412 kgCO2e
+uncertainty_factor: 1.6320309538384334
+updated_on: '2024-06-07T20:30:36.155194Z'
+use_stored_carbon: false
+verifier:
+  email: info@sipl-sustainability.com
+  name: Sunil Kumar
+  org:
+    confirmable_fields: []
+    confirmed_fields: []
+    cqd_sync_unlocked: true
+    created_on: '2024-03-14T23:50:02.430502Z'
+    enterprise: false
+    id: 1851e86061304918aad068a7ec2148fb
+    is_failed: false
+    name: SIPL Pvt Ltd
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/1851e86061304918aad068a7ec2148fb
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    updated_on: '2024-06-07T20:30:34.556275Z'
+    warnings:
+      address:
+      - Not specified
+    web_domain: sipl-sustainability.com
+    website: sipl-sustainability.com
+warnings:
+  density:
+  - Not specified
+  developer:
+  - Missing link
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - ODP impact not specified
+  - EP-FRESH impact not specified
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - B1_years are empty
